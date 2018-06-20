@@ -1,3 +1,32 @@
 [
-
+  {
+    "comment": "Senate of Nigeria",
+    "house_item_id": "Q2993611",
+    "position_item_id": "Q19822359",
+    "terms": [
+      {
+        "comment": "8th National Assembly of Nigeria",
+        "term_item_id": "Q20311259"
+      },
+      {
+        "comment": "8th National Assembly of Nigeria",
+        "term_item_id": "Q28555175"
+      }
+    ]
+  },
+  {
+    "comment": "House of Representatives of Nigeria",
+    "house_item_id": "Q665693",
+    "position_item_id": "Q21290864",
+    "terms": [
+      {
+        "comment": "8th National Assembly of Nigeria",
+        "term_item_id": "Q20311259"
+      },
+      {
+        "comment": "8th National Assembly of Nigeria",
+        "term_item_id": "Q28555175"
+      }
+    ]
+  }
 ]
