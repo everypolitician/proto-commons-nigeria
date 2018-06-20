@@ -1,0 +1,129 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Philip Shaibu"
+      },
+      "id": "Q28606434",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28606434"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hassan Saleh"
+      },
+      "id": "Q35539072",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35539072"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "House of Representatives of Nigeria"
+      },
+      "id": "Q665693",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q665693"
+        }
+      ],
+      "area_id": "Q1033",
+      "seat_counts": {
+        "Q21290864": "360"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28606434-c5e5aab8-470a-9692-7f53-b6fbc64bcc1e",
+      "person_id": "Q28606434",
+      "organization_id": "Q665693",
+      "start_date": "2015-06-01",
+      "end_date": "2016-03-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q35539072-8e4cf67a-425b-a133-06bf-b8dc067dab3d",
+      "person_id": "Q35539072",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q665693",
+      "start_date": "2017-03-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q35539072-ac33667f-4634-0a80-ad80-0de25c3f080a",
+      "person_id": "Q35539072",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q665693",
+      "end_date": "2017-03-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    }
+  ]
+}
