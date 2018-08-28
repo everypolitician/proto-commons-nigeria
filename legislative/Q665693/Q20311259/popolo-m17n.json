@@ -17,6 +17,21 @@
     },
     {
       "name": {
+        "lang:en": "Ossy Prestige"
+      },
+      "id": "Q35536670",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35536670"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Hassan Saleh"
       },
       "id": "Q35539072",
@@ -24,6 +39,66 @@
         {
           "scheme": "wikidata",
           "identifier": "Q35539072"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Barry Mpigi"
+      },
+      "id": "Q42563987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42563987"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bauchi Tongo"
+      },
+      "id": "Q56229522",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56229522"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Bamgbose"
+      },
+      "id": "Q56229525",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56229525"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dorathy Mato"
+      },
+      "id": "Q56229557",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56229557"
         }
       ],
       "links": [
@@ -74,6 +149,19 @@
           "identifier": "Q4729266"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Grand Alliance"
+      },
+      "id": "Q4729271",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729271"
+        }
+      ]
     }
   ],
   "areas": [
@@ -86,6 +174,21 @@
       "organization_id": "Q665693",
       "start_date": "2015-06-01",
       "end_date": "2016-03-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q35536670-d227082b-4560-e85a-78e4-65ba6cdf3d20",
+      "person_id": "Q35536670",
+      "on_behalf_of_id": "Q4729271",
+      "organization_id": "Q665693",
+      "start_date": "2015-06-09",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -116,6 +219,58 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q665693",
       "end_date": "2017-03-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42563987-16142a01-4a29-43d1-8255-3ad23f05602e",
+      "person_id": "Q42563987",
+      "organization_id": "Q665693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56229522-a311e260-4b02-5dcf-9018-23dfa2cabf05",
+      "person_id": "Q56229522",
+      "organization_id": "Q665693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56229525-0c6265d3-4bac-aad3-9dd9-cc99834de882",
+      "person_id": "Q56229525",
+      "organization_id": "Q665693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56229557-0be2db8a-4f12-857d-7aa8-20c12fcfae1a",
+      "person_id": "Q56229557",
+      "organization_id": "Q665693",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"

@@ -1,4 +1,2 @@
 WARNING: Position Member of the Senate of Nigeria (Q19822359) not in boundary associated_wikidata_positions
-WARNING: Position Member of the Senate of Nigeria (Q19822359) not in boundary associated_wikidata_positions
-WARNING: Position Member of the House of Representatives of Nigeria (Q21290864) not in boundary associated_wikidata_positions
 WARNING: Position Member of the House of Representatives of Nigeria (Q21290864) not in boundary associated_wikidata_positions
