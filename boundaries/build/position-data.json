@@ -1,0 +1,34 @@
+[
+  {
+    "role_id": "Q19822359",
+    "role_name": {
+      "lang:en": "Member of the Senate of Nigeria"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2993611",
+    "organization_name": {
+      "lang:en": "Senate of Nigeria"
+    }
+  },
+  {
+    "role_id": "Q21290864",
+    "role_name": {
+      "lang:en": "Member of the House of Representatives of Nigeria"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q665693",
+    "organization_name": {
+      "lang:en": "House of Representatives of Nigeria"
+    }
+  }
+]
