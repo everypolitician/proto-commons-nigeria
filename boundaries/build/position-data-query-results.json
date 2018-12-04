@@ -1,98 +1,112 @@
 {
-  "head" : {
-    "vars" : [ "position", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_en", "positionSuperclass", "position_superclass_en", "body", "body_en" ]
+  "head": {
+    "vars": [
+      "position",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_en",
+      "body",
+      "body_en"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19822359"
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19822359"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Senate of Nigeria"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1033"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nigeria"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2993611"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Nigeria"
+        }
       },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Senate of Nigeria"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1033"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nigeria"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2993611"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Nigeria"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21290864"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the House of Representatives of Nigeria"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1033"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nigeria"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q665693"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "House of Representatives of Nigeria"
+        }
       }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21290864"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the House of Representatives of Nigeria"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1033"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nigeria"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q665693"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "House of Representatives of Nigeria"
-      }
-    } ]
+    ]
   }
 }
