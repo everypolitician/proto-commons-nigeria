@@ -2,6 +2,21 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Nnenna Elendu Ukeje"
+      },
+      "id": "Q16207418",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16207418"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Philip Shaibu"
       },
       "id": "Q28606434",
@@ -168,6 +183,21 @@
 
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16207418-88752e90-40f7-51bb-e227-3907863e2fbe",
+      "person_id": "Q16207418",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q665693",
+      "start_date": "2007-05-29",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "Member of the House of Representatives of Nigeria"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28606434-c5e5aab8-470a-9692-7f53-b6fbc64bcc1e",
       "person_id": "Q28606434",
