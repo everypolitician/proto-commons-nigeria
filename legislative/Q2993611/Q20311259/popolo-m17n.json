@@ -1,14 +1,86 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Ademola Adeleke"
+      },
+      "id": "Q32946601",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32946601"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdullahi Adamu"
+      },
+      "id": "Q4666120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666120"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Senate of Nigeria"
+      },
+      "id": "Q2993611",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2993611"
+        }
+      ],
+      "area_id": "Q1033",
+      "seat_counts": {
+        "Q19822359": "109"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q32946601-2962C2E5-D8B5-4CD2-8853-45CE42DAA51B",
+      "person_id": "Q32946601",
+      "organization_id": "Q2993611",
+      "start_date": "2017-01-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q19822359",
+      "role": {
+        "lang:en": "Member of the Senate of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666120-C76BBF2E-0DAE-4C46-BA4D-9156ECF9BF5C",
+      "person_id": "Q4666120",
+      "organization_id": "Q2993611",
+      "start_date": "2011-05-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q19822359",
+      "role": {
+        "lang:en": "Member of the Senate of Nigeria"
+      }
+    }
   ]
 }

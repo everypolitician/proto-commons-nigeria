@@ -2,22 +2,28 @@
   {
     "comment": "Senate of Nigeria",
     "house_item_id": "Q2993611",
+    "seat_count": "109",
+    "area_id": "Q1033",
     "position_item_id": "Q19822359",
     "terms": [
       {
         "comment": "8th National Assembly of Nigeria",
-        "term_item_id": "Q20311259"
+        "term_item_id": "Q20311259",
+        "start_date": "2015-06-09"
       }
     ]
   },
   {
     "comment": "House of Representatives of Nigeria",
     "house_item_id": "Q665693",
+    "seat_count": "360",
+    "area_id": "Q1033",
     "position_item_id": "Q21290864",
     "terms": [
       {
         "comment": "8th National Assembly of Nigeria",
-        "term_item_id": "Q20311259"
+        "term_item_id": "Q20311259",
+        "start_date": "2015-06-09"
       }
     ]
   }
