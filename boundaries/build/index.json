@@ -12,6 +12,19 @@
       "lang:en": "NAME_EN"
     }
   },
+  { 
+    "directory": "senate-districts",
+    "area_type_wikidata_item_id": "Q59678168",
+    "associations": [
+      {
+        "comment": "member of the Senate of Nigeria",
+        "position_item_id": "Q19822359"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    }
+  },
   {
     "directory": "states",
     "area_type_wikidata_item_id": "Q465842",
