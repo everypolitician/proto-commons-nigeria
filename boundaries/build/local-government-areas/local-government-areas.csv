@@ -1,0 +1,121 @@
+City,NAME_EN,LGA_ID,WIKIDATA,STATE,STATE_QID,MS_FB_PARE,MS_FB
+Aba,Aba South,23316,Q4663117,Abia State,Q320852,country:ng/state:ab,country:ng/state:ab/lga:23316
+Abeokuta,Abeokuta South,23878,Q3509517,Ogun State,Q836657,country:ng/state:og,country:ng/state:og/lga:23878
+Abua/Odual,Abua/Odual,23996,Q4670480,Rivers State,Q503923,country:ng/state:ri,country:ng/state:ri/lga:23996
+Abuja,Abuja Municipal,23591,Q28468899,Federal Capital Territory,Q509300,country:ng/capital-territory:fc,country:ng/capital-territory:fc/lga:23591
+Ado Ekiti,Ado Ekiti,23557,Q359955,Ekiti State,Q534917,country:ng/state:ek,country:ng/state:ek/lga:23557
+Ado-Odo/Ota,Ado-Odo/Ota,23880,Q3510345,Ogun State,Q836657,country:ng/state:og,country:ng/state:og/lga:23880
+Agege,Agege,23820,Q3509545,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23820
+Aguata,Aguata,23384,Q4694513,Anambra State,Q117714,country:ng/state:an,country:ng/state:an/lga:23384
+Ajeromi,Ajeromi-Ifelodun,23821,Q3509013,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23821
+Akko,Akko,23596,Q3510455,Gombe State,Q376241,country:ng/state:go,country:ng/state:go/lga:23596
+Akoko-Edo,Akoko Edo,23539,Q4701504,Edo State,Q682704,country:ng/state:ed,country:ng/state:ed/lga:23539
+Akpabuyo,Akpabuyo,23485,Q4701571,Cross River State,Q739676,country:ng/state:cr,country:ng/state:cr/lga:23485
+Akure,Akure South,23903,Q4701976,Ondo State,Q836654,country:ng/state:on,country:ng/state:on/lga:23903
+Alimosho,Alimosho,23822,Q3509580,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23822
+Alkaleri,Alkaleri,23405,Q4727632,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23405
+Amuwo-Odofin,Amuwo-Odofin,23823,Q3509621,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23823
+Anaocha,Anaocha,23387,Q4751505,Anambra State,Q117714,country:ng/state:an,country:ng/state:an/lga:23387
+Ankpa,Ankpa,23785,Q4766098,Kogi State,Q387745,country:ng/state:ko,country:ng/state:ko/lga:23785
+Bama,Bama,23458,Q3331583,Borno State,Q130626,country:ng/state:bo,country:ng/state:bo/lga:23458
+Bauchi,Bauchi,23406,Q811144,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23406
+Bichi,Bichi,23688,Q4903607,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23688
+Birnin Kebbi,Birnin Kebbi,23767,Q865828,Kebbi State,Q748523,country:ng/state:ke,country:ng/state:ke/lga:23767
+Birnin Kudu,Birnin Kudu,23637,Q4916902,Jigawa State,Q682691,country:ng/state:ji,country:ng/state:ji/lga:23637
+Birnin-Gwari,Birnin Gwari,23661,Q13140400,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23661
+Bungudu,Bungudu,24080,Q4997683,Zamfara State,Q145793,country:ng/state:za,country:ng/state:za/lga:24080
+Chikun,Chikun,23662,Q5097501,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23662
+Dala,"Dala, Nigeria",23690,Q5210142,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23690
+Dekina,Dekina,23787,Q5252818,Kogi State,Q387745,country:ng/state:ko,country:ng/state:ko/lga:23787
+Dutse,Dutse,23639,Q1023713,Jigawa State,Q682691,country:ng/state:ji,country:ng/state:ji/lga:23639
+Egbeda,Egbeda,23950,Q5347703,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23950
+Egor,Egor,23540,Q5348227,Edo State,Q682704,country:ng/state:ed,country:ng/state:ed/lga:23540
+Ekeremor,Ekeremor,23426,Q5350399,Bayelsa State,Q532153,country:ng/state:by,country:ng/state:by/lga:23426
+Enugu,Enugu East,23575,Q5380873,Enugu State,Q3817714,country:ng/state:en,country:ng/state:en/lga:23575
+Eti-Osa,Eti-Osa,23827,Q5404527,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23827
+Fune,Fune,24063,Q5509089,Yobe State,Q682777,country:ng/state:yo,country:ng/state:yo/lga:24063
+Gamawa,Gamawa,23411,Q5519589,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23411
+Ganjuwa,Ganjuwa,23412,Q5521392,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23412
+Gboko,Gboko,23437,Q2425179,Benue State,Q429908,country:ng/state:be,country:ng/state:be/lga:23437
+Gezawa,Gezawa,23700,Q5555061,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23700
+Giwa,Giwa,23663,Q5565892,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23663
+Gombe,Gombe,23601,Q591598,Gombe State,Q376241,country:ng/state:go,country:ng/state:go/lga:23601
+Gusau,Gusau,24082,Q600405,Zamfara State,Q145793,country:ng/state:za,country:ng/state:za/lga:24082
+Gwale,Gwale,23701,Q5623248,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23701
+Gwaram,Gwaram,23644,Q5623339,Jigawa State,Q682691,country:ng/state:ji,country:ng/state:ji/lga:23644
+Gwoza,Gwoza,23466,Q5623719,Borno State,Q130626,country:ng/state:bo,country:ng/state:bo/lga:23466
+Ibadan,Ibadan North-East,23952,Q5983595,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23952
+Ibadan,Ibadan North,23951,Q5983592,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23951
+Ibadan,Ibadan South-East,23954,Q11058510,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23954
+Ibadan,Ibadan South-West,23955,Q5983608,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23955
+Idemili North,Idemili North,23393,Q11058846,Anambra State,Q117714,country:ng/state:an,country:ng/state:an/lga:23393
+Ifako-Ijaye,Ifako-Ijaiye,23829,Q5991116,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23829
+Ifo,Ifo,23884,Q5991216,Ogun State,Q836657,country:ng/state:og,country:ng/state:og/lga:23884
+Igabi,Igabi,23664,Q5991414,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23664
+Igbo-Eze North,Igbo Eze North,23580,Q5991578,Enugu State,Q3817714,country:ng/state:en,country:ng/state:en/lga:23580
+Ihiala,Ihiala,23395,Q3056230,Anambra State,Q117714,country:ng/state:an,country:ng/state:an/lga:23395
+Ijebu Igbo,Ijebu North,23887,Q5995160,Ogun State,Q836657,country:ng/state:og,country:ng/state:og/lga:23887
+Ikeja,Ikeja,23830,Q1024647,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23830
+Ikorodu,Ikorodu,23831,Q1658159,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23831
+Ikpoba-Okha,Ikpoba Okha,23549,Q5996228,Edo State,Q682704,country:ng/state:ed,country:ng/state:ed/lga:23549
+Ilaje,Ilaje,23907,Q5996946,Ondo State,Q836654,country:ng/state:on,country:ng/state:on/lga:23907
+Ilorin,Ilorin West,23811,Q6001104,Kwara State,Q464953,country:ng/state:kw,country:ng/state:kw/lga:23811
+Iseyin,Iseyin,23961,Q49104874,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23961
+Jema'A,Jema'a,23667,Q6177061,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23667
+Jos,Jos North,23983,Q10967141,Plateau State,Q503928,country:ng/state:pl,country:ng/state:pl/lga:23983
+Jos,Jos South,23984,Q6279136,Plateau State,Q503928,country:ng/state:pl,country:ng/state:pl/lga:23984
+Kachia,Kachia,23668,Q6344670,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23668
+Kaduna,Kaduna North,23669,Q13140547,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23669
+Kaduna,Kaduna South,23670,Q6345763,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23670
+Kafin Hausa,Kafin Hausa,23648,Q218744,Jigawa State,Q682691,country:ng/state:ji,country:ng/state:ji/lga:23648
+Kano,Kano Municipal,23704,Q10313749,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23704
+Katagum,Katagum,23416,Q6375000,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23416
+Katsina,Katsina,23748,Q937487,Katsina State,Q657821,country:ng/state:kt,country:ng/state:kt/lga:23748
+Kaura Namoda,Kaura Namoda,24083,Q6378876,Zamfara State,Q145793,country:ng/state:za,country:ng/state:za/lga:24083
+Khana,"Khana, Nigeria",24009,Q11008655,Rivers State,Q503923,country:ng/state:ri,country:ng/state:ri/lga:24009
+Kiru,"Kiru, Nigeria",23707,Q6416264,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23707
+Kosofe,Kosofe,23832,Q6433326,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23832
+Kubau,Kubau,23675,Q6441191,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23675
+Kumbotso,Kumbotso,23708,Q6443769,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23708
+Lafia,Lafia,23847,Q1023721,Nasarawa State,Q836645,country:ng/state:na,country:ng/state:na/lga:23847
+Lagos Mainland,Lagos Mainland,23834,Q6472602,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23834
+Lere,Lere,23677,Q6528787,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23677
+Maiduguri,Maiduguri,23476,Q49106133,Borno State,Q130626,country:ng/state:bo,country:ng/state:bo/lga:23476
+Makurdi,Makurdi,23445,Q994096,Benue State,Q429908,country:ng/state:be,country:ng/state:be/lga:23445
+Mangu,Mangu,23989,Q6749158,Plateau State,Q503928,country:ng/state:pl,country:ng/state:pl/lga:23989
+Maru,Maru,24085,Q6777871,Zamfara State,Q145793,country:ng/state:za,country:ng/state:za/lga:24085
+Misau,Misau,23418,Q2078475,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23418
+Mushin,Mushin,23835,Q3139881,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23835
+Nasarawa,Nasarawa,23848,Q6966608,Nasarawa State,Q836645,country:ng/state:na,country:ng/state:na/lga:23848
+Ningi,"Ningi, Nigeria",23419,Q7038694,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23419
+Nsukka,Nsukka,23585,Q681198,Enugu State,Q3817714,country:ng/state:en,country:ng/state:en/lga:23585
+Obia/Akpor,Obia/Akpor,24010,Q7074973,Rivers State,Q503923,country:ng/state:ri,country:ng/state:ri/lga:24010
+Ogba/Egbema/Ndoni,Ogba/Egbema/Ndoni,24011,Q7079867,Rivers State,Q503923,country:ng/state:ri,country:ng/state:ri/lga:24011
+Ojo,Ojo,23836,Q623249,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23836
+Okene,Okene,23799,Q2017187,Kogi State,Q387745,country:ng/state:ko,country:ng/state:ko/lga:23799
+Ona-Ara,Ona Ara,23971,Q11275966,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23971
+Ondo West,Ondo West,23913,Q7092211,Ondo State,Q836654,country:ng/state:on,country:ng/state:on/lga:23913
+Oredo,Oredo,23550,Q7101001,Edo State,Q682704,country:ng/state:ed,country:ng/state:ed/lga:23550
+Oshodi,Oshodi-Isolo,23837,Q7106648,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23837
+Oturkpo,Otukpo,23451,Q3511323,Benue State,Q429908,country:ng/state:be,country:ng/state:be/lga:23451
+Port-Harcourt,Port Harcourt,24017,Q20614811,Rivers State,Q503923,country:ng/state:ri,country:ng/state:ri/lga:24017
+Sabon-Gari,"Sabon Gari, Kaduna State",23679,Q7396283,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23679
+Saki West,Saki West,23977,Q7402971,Oyo State,Q503905,country:ng/state:oy,country:ng/state:oy/lga:23977
+Shagamu,Sagamu,23897,Q2276423,Ogun State,Q836657,country:ng/state:og,country:ng/state:og/lga:23897
+Shomolu,Somolu,23838,Q280585,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23838
+Soba,"Soba, Nigeria",23681,Q7549885,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23681
+Oporoma,Southern Ijaw,23431,Q11058325,Bayelsa State,Q532153,country:ng/state:by,country:ng/state:by/lga:23431
+Sumaila,Sumaila,23719,Q7636917,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23719
+Surulere,Surulere,23839,Q994119,Lagos,Q815913,country:ng/state:la,country:ng/state:la/lga:23839
+Toro,Toro,23422,Q11058424,Bauchi State,Q503936,country:ng/state:ba,country:ng/state:ba/lga:23422
+Tsafe,Chafe,24088,Q255961,Zamfara State,Q145793,country:ng/state:za,country:ng/state:za/lga:24088
+Ughelli North,Ughelli North,23519,Q15043628,Delta State,Q503910,country:ng/state:de,country:ng/state:de/lga:23519
+Ungogo,Ungogo,23725,Q3510251,Kano State,Q682571,country:ng/state:kn,country:ng/state:kn/lga:23725
+Uyo,Uyo,23383,Q1999000,Akwa Ibom State,Q424388,country:ng/state:ak,country:ng/state:ak/lga:23383
+Warri South,Warri South,23524,Q7970687,Delta State,Q503910,country:ng/state:de,country:ng/state:de/lga:23524
+Ribah,Wasagu/Danko,23770,Q7971327,Kebbi State,Q748523,country:ng/state:ke,country:ng/state:ke/lga:23770
+Deba,Yamaltu/Deba,23606,Q3510505,Gombe State,Q376241,country:ng/state:go,country:ng/state:go/lga:23606
+Yenegoa,Yenegoa,23432,Q648749,Bayelsa State,Q532153,country:ng/state:by,country:ng/state:by/lga:23432
+Zonkwa,Zangon Kataf,23682,Q8066201,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23682
+Zaria,Zaria,23683,Q147975,Kaduna State,Q878284,country:ng/state:kd,country:ng/state:kd/lga:23683
+Zurmi,Zurmi,24089,Q8075410,Zamfara State,Q145793,country:ng/state:za,country:ng/state:za/lga:24089
