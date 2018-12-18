@@ -2680,5 +2680,2045 @@
       "match": "country:ng/state:za/lga:24089",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727939",
+    "associations": [
+      {
+        "comment": "councillor of aba south",
+        "position_item_id": "Q59528664"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ab/lga:23316",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728331",
+    "associations": [
+      {
+        "comment": "councillor of uyo",
+        "position_item_id": "Q59528926"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ak/lga:23383",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727955",
+    "associations": [
+      {
+        "comment": "councillor of aguata",
+        "position_item_id": "Q59528677"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23384",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727984",
+    "associations": [
+      {
+        "comment": "councillor of anaocha",
+        "position_item_id": "Q59528698"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23387",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728106",
+    "associations": [
+      {
+        "comment": "councillor of idemili north",
+        "position_item_id": "Q59528780"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23393",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728132",
+    "associations": [
+      {
+        "comment": "councillor of ihiala",
+        "position_item_id": "Q59528794"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23395",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727980",
+    "associations": [
+      {
+        "comment": "councillor of alkaleri",
+        "position_item_id": "Q59528693"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23405",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728004",
+    "associations": [
+      {
+        "comment": "councillor of bauchi",
+        "position_item_id": "Q59528710"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23406",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728051",
+    "associations": [
+      {
+        "comment": "councillor of gamawa",
+        "position_item_id": "Q59528744"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23411",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728066",
+    "associations": [
+      {
+        "comment": "councillor of ganjuwa",
+        "position_item_id": "Q59528752"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23412",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728175",
+    "associations": [
+      {
+        "comment": "councillor of katagum",
+        "position_item_id": "Q59528826"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23416",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728233",
+    "associations": [
+      {
+        "comment": "councillor of misau",
+        "position_item_id": "Q59528861"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23418",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728241",
+    "associations": [
+      {
+        "comment": "councillor of ningi",
+        "position_item_id": "Q59528866"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23419",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728320",
+    "associations": [
+      {
+        "comment": "councillor of toro",
+        "position_item_id": "Q59528920"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23422",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728043",
+    "associations": [
+      {
+        "comment": "councillor of ekeremor",
+        "position_item_id": "Q59528736"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:by/lga:23426",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728304",
+    "associations": [
+      {
+        "comment": "councillor of southern ijaw",
+        "position_item_id": "Q59528907"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:by/lga:23431",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728338",
+    "associations": [
+      {
+        "comment": "councillor of yenegoa",
+        "position_item_id": "Q59528932"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:by/lga:23432",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728068",
+    "associations": [
+      {
+        "comment": "councillor of gboko",
+        "position_item_id": "Q59528753"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:be/lga:23437",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728226",
+    "associations": [
+      {
+        "comment": "councillor of makurdi",
+        "position_item_id": "Q59528856"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:be/lga:23445",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728278",
+    "associations": [
+      {
+        "comment": "councillor of oturkpo",
+        "position_item_id": "Q59528891"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:be/lga:23451",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728002",
+    "associations": [
+      {
+        "comment": "councillor of bama",
+        "position_item_id": "Q59528708"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:bo/lga:23458",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728082",
+    "associations": [
+      {
+        "comment": "councillor of gwoza",
+        "position_item_id": "Q59528766"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:bo/lga:23466",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728224",
+    "associations": [
+      {
+        "comment": "councillor of maiduguri",
+        "position_item_id": "Q59528854"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:bo/lga:23476",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727974",
+    "associations": [
+      {
+        "comment": "councillor of akpabuyo",
+        "position_item_id": "Q59528689"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:cr/lga:23485",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728325",
+    "associations": [
+      {
+        "comment": "councillor of ughelli north",
+        "position_item_id": "Q59528923"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:de/lga:23519",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728334",
+    "associations": [
+      {
+        "comment": "councillor of warri south",
+        "position_item_id": "Q59528927"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:de/lga:23524",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727973",
+    "associations": [
+      {
+        "comment": "councillor of akoko-edo",
+        "position_item_id": "Q59528687"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23539",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728039",
+    "associations": [
+      {
+        "comment": "councillor of egor",
+        "position_item_id": "Q59528735"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23540",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728139",
+    "associations": [
+      {
+        "comment": "councillor of ikpoba-okha",
+        "position_item_id": "Q59528799"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23549",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728271",
+    "associations": [
+      {
+        "comment": "councillor of oredo",
+        "position_item_id": "Q59528887"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23550",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727947",
+    "associations": [
+      {
+        "comment": "councillor of ado ekiti",
+        "position_item_id": "Q59528671"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ek/lga:23557",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728044",
+    "associations": [
+      {
+        "comment": "councillor of enugu east",
+        "position_item_id": "Q59528738"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:en/lga:23575",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728117",
+    "associations": [
+      {
+        "comment": "councillor of igbo-eze north",
+        "position_item_id": "Q59528786"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:en/lga:23580",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728244",
+    "associations": [
+      {
+        "comment": "councillor of nsukka",
+        "position_item_id": "Q59528867"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:en/lga:23585",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727946",
+    "associations": [
+      {
+        "comment": "councillor of abuja municipal (amac)",
+        "position_item_id": "Q59528670"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/capital-territory:fc/lga:23591",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727972",
+    "associations": [
+      {
+        "comment": "councillor of akko",
+        "position_item_id": "Q59528686"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:go/lga:23596",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728074",
+    "associations": [
+      {
+        "comment": "councillor of gombe",
+        "position_item_id": "Q59528759"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:go/lga:23601",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728337",
+    "associations": [
+      {
+        "comment": "councillor of yamaltu/deba",
+        "position_item_id": "Q59528931"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:go/lga:23606",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728009",
+    "associations": [
+      {
+        "comment": "councillor of birnin kudu",
+        "position_item_id": "Q59528714"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23637",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728036",
+    "associations": [
+      {
+        "comment": "councillor of dutse",
+        "position_item_id": "Q59528731"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23639",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728081",
+    "associations": [
+      {
+        "comment": "councillor of gwaram",
+        "position_item_id": "Q59528764"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23644",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728169",
+    "associations": [
+      {
+        "comment": "councillor of kafin hausa",
+        "position_item_id": "Q59528822"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23648",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728011",
+    "associations": [
+      {
+        "comment": "councillor of birnin-gwari",
+        "position_item_id": "Q59528716"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23661",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728018",
+    "associations": [
+      {
+        "comment": "councillor of chikun",
+        "position_item_id": "Q59528720"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23662",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728072",
+    "associations": [
+      {
+        "comment": "councillor of giwa",
+        "position_item_id": "Q59528758"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23663",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728114",
+    "associations": [
+      {
+        "comment": "councillor of igabi",
+        "position_item_id": "Q59528785"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23664",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728149",
+    "associations": [
+      {
+        "comment": "councillor of jema'a",
+        "position_item_id": "Q59528806"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23667",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728164",
+    "associations": [
+      {
+        "comment": "councillor of kachia",
+        "position_item_id": "Q59528818"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23668",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728165",
+    "associations": [
+      {
+        "comment": "councillor of kaduna north",
+        "position_item_id": "Q59528819"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23669",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728168",
+    "associations": [
+      {
+        "comment": "councillor of kaduna south",
+        "position_item_id": "Q59528820"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23670",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728200",
+    "associations": [
+      {
+        "comment": "councillor of kubau",
+        "position_item_id": "Q59528841"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23675",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728210",
+    "associations": [
+      {
+        "comment": "councillor of lere",
+        "position_item_id": "Q59528847"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23677",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728292",
+    "associations": [
+      {
+        "comment": "councillor of sabon-gari",
+        "position_item_id": "Q59528900"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23679",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728302",
+    "associations": [
+      {
+        "comment": "councillor of soba",
+        "position_item_id": "Q59528906"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23681",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728351",
+    "associations": [
+      {
+        "comment": "councillor of zangon-kataf",
+        "position_item_id": "Q59528939"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23682",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728354",
+    "associations": [
+      {
+        "comment": "councillor of zaria",
+        "position_item_id": "Q59528940"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23683",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728005",
+    "associations": [
+      {
+        "comment": "councillor of bichi",
+        "position_item_id": "Q59528711"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23688",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728020",
+    "associations": [
+      {
+        "comment": "councillor of dala",
+        "position_item_id": "Q59528721"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23690",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728070",
+    "associations": [
+      {
+        "comment": "councillor of gezawa",
+        "position_item_id": "Q59528756"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23700",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728079",
+    "associations": [
+      {
+        "comment": "councillor of gwale",
+        "position_item_id": "Q59528762"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23701",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728173",
+    "associations": [
+      {
+        "comment": "councillor of kano municipal",
+        "position_item_id": "Q59528824"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23704",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728197",
+    "associations": [
+      {
+        "comment": "councillor of kiru",
+        "position_item_id": "Q59528837"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23707",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728202",
+    "associations": [
+      {
+        "comment": "councillor of kumbotso",
+        "position_item_id": "Q59528842"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23708",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728305",
+    "associations": [
+      {
+        "comment": "councillor of sumaila",
+        "position_item_id": "Q59528910"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23719",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728326",
+    "associations": [
+      {
+        "comment": "councillor of ungogo",
+        "position_item_id": "Q59528925"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23725",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728176",
+    "associations": [
+      {
+        "comment": "councillor of katsina",
+        "position_item_id": "Q59528829"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kt/lga:23748",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728008",
+    "associations": [
+      {
+        "comment": "councillor of birnin kebbi",
+        "position_item_id": "Q59528712"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ke/lga:23767",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728336",
+    "associations": [
+      {
+        "comment": "councillor of wasagu/danko",
+        "position_item_id": "Q59528929"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ke/lga:23770",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727985",
+    "associations": [
+      {
+        "comment": "councillor of ankpa",
+        "position_item_id": "Q59528700"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ko/lga:23785",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728033",
+    "associations": [
+      {
+        "comment": "councillor of dekina",
+        "position_item_id": "Q59528729"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ko/lga:23787",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728265",
+    "associations": [
+      {
+        "comment": "councillor of okene",
+        "position_item_id": "Q59528882"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ko/lga:23799",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728146",
+    "associations": [
+      {
+        "comment": "councillor of ilorin west",
+        "position_item_id": "Q59528803"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:kw/lga:23811",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727952",
+    "associations": [
+      {
+        "comment": "councillor of agege",
+        "position_item_id": "Q59528675"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23820",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727956",
+    "associations": [
+      {
+        "comment": "councillor of ajeromi-ifelodun",
+        "position_item_id": "Q59528678"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23821",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727978",
+    "associations": [
+      {
+        "comment": "councillor of alimosho",
+        "position_item_id": "Q59528692"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23822",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727982",
+    "associations": [
+      {
+        "comment": "councillor of amuwo-odofin",
+        "position_item_id": "Q59528696"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23823",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728046",
+    "associations": [
+      {
+        "comment": "councillor of eti-osa",
+        "position_item_id": "Q59528739"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23827",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728110",
+    "associations": [
+      {
+        "comment": "councillor of ifako-ijaye",
+        "position_item_id": "Q59528781"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23829",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728135",
+    "associations": [
+      {
+        "comment": "councillor of ikeja",
+        "position_item_id": "Q59528797"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23830",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728137",
+    "associations": [
+      {
+        "comment": "councillor of ikorodu",
+        "position_item_id": "Q59528798"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23831",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728199",
+    "associations": [
+      {
+        "comment": "councillor of kosofe",
+        "position_item_id": "Q59528839"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23832",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728209",
+    "associations": [
+      {
+        "comment": "councillor of lagos mainland",
+        "position_item_id": "Q59528846"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23834",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728234",
+    "associations": [
+      {
+        "comment": "councillor of mushin",
+        "position_item_id": "Q59528862"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23835",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728262",
+    "associations": [
+      {
+        "comment": "councillor of ojo",
+        "position_item_id": "Q59528879"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23836",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728274",
+    "associations": [
+      {
+        "comment": "councillor of oshodi-isolo",
+        "position_item_id": "Q59528889"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23837",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728300",
+    "associations": [
+      {
+        "comment": "councillor of shomolu",
+        "position_item_id": "Q59528905"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23838",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728306",
+    "associations": [
+      {
+        "comment": "councillor of surulere",
+        "position_item_id": "Q59528911"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23839",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728207",
+    "associations": [
+      {
+        "comment": "councillor of lafia",
+        "position_item_id": "Q59528843"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:na/lga:23847",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728239",
+    "associations": [
+      {
+        "comment": "councillor of nasarawa",
+        "position_item_id": "Q59528863"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:na/lga:23848",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727940",
+    "associations": [
+      {
+        "comment": "councillor of abeokuta south",
+        "position_item_id": "Q59528666"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23878",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727948",
+    "associations": [
+      {
+        "comment": "councillor of ado-odo/ota",
+        "position_item_id": "Q59528673"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23880",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728112",
+    "associations": [
+      {
+        "comment": "councillor of ifo",
+        "position_item_id": "Q59528782"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23884",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728134",
+    "associations": [
+      {
+        "comment": "councillor of ijebu north",
+        "position_item_id": "Q59528795"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23887",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728297",
+    "associations": [
+      {
+        "comment": "councillor of shagamu",
+        "position_item_id": "Q59528902"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23897",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727976",
+    "associations": [
+      {
+        "comment": "councillor of akure south",
+        "position_item_id": "Q59528691"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:on/lga:23903",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728141",
+    "associations": [
+      {
+        "comment": "councillor of ilaje",
+        "position_item_id": "Q59528801"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:on/lga:23907",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728270",
+    "associations": [
+      {
+        "comment": "councillor of ondo west",
+        "position_item_id": "Q59528885"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:on/lga:23913",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728037",
+    "associations": [
+      {
+        "comment": "councillor of egbeda",
+        "position_item_id": "Q59528733"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23950",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728099",
+    "associations": [
+      {
+        "comment": "councillor of ibadan north",
+        "position_item_id": "Q59528774"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23951",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728097",
+    "associations": [
+      {
+        "comment": "councillor of ibadan central [ibadan north east]",
+        "position_item_id": "Q59528773"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23952",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728101",
+    "associations": [
+      {
+        "comment": "councillor of ibadan south east",
+        "position_item_id": "Q59528777"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23954",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728104",
+    "associations": [
+      {
+        "comment": "councillor of ibadan south west",
+        "position_item_id": "Q59528778"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23955",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728148",
+    "associations": [
+      {
+        "comment": "councillor of iseyin",
+        "position_item_id": "Q59528805"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23961",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728267",
+    "associations": [
+      {
+        "comment": "councillor of ona-ara",
+        "position_item_id": "Q59528883"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23971",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728294",
+    "associations": [
+      {
+        "comment": "councillor of saki west",
+        "position_item_id": "Q59528901"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23977",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728159",
+    "associations": [
+      {
+        "comment": "councillor of jos north",
+        "position_item_id": "Q59528814"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:pl/lga:23983",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728162",
+    "associations": [
+      {
+        "comment": "councillor of jos south",
+        "position_item_id": "Q59528816"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:pl/lga:23984",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728229",
+    "associations": [
+      {
+        "comment": "councillor of mangu",
+        "position_item_id": "Q59528857"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:pl/lga:23989",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59727943",
+    "associations": [
+      {
+        "comment": "councillor of abua/odual",
+        "position_item_id": "Q59528668"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:23996",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728194",
+    "associations": [
+      {
+        "comment": "councillor of khana",
+        "position_item_id": "Q59528836"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24009",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728256",
+    "associations": [
+      {
+        "comment": "councillor of obia/akpor",
+        "position_item_id": "Q59528876"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24010",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728260",
+    "associations": [
+      {
+        "comment": "councillor in ogba/egbema/ndoni",
+        "position_item_id": "Q59528878"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24011",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728291",
+    "associations": [
+      {
+        "comment": "councillor of port-harcourt",
+        "position_item_id": "Q59528897"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24017",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728049",
+    "associations": [
+      {
+        "comment": "councillor of fune",
+        "position_item_id": "Q59528742"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:yo/lga:24063",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728015",
+    "associations": [
+      {
+        "comment": "councillor of bungudu",
+        "position_item_id": "Q59528717"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24080",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728077",
+    "associations": [
+      {
+        "comment": "councillor of gusau",
+        "position_item_id": "Q59528760"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24082",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728191",
+    "associations": [
+      {
+        "comment": "councillor of kaura namoda",
+        "position_item_id": "Q59528834"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24083",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728232",
+    "associations": [
+      {
+        "comment": "councillor of maru",
+        "position_item_id": "Q59528859"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24085",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728322",
+    "associations": [
+      {
+        "comment": "councillor of tsafe",
+        "position_item_id": "Q59528921"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24088",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q59728356",
+    "associations": [
+      {
+        "comment": "councillor of zurmi",
+        "position_item_id": "Q59528941"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "Ward"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24089",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
