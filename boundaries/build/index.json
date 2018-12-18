@@ -640,5 +640,2045 @@
       "match": "country:ng/state:na",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of aba south local government",
+        "position_item_id": "Q59514378"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ab/lga:23316",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of abeokuta south local government",
+        "position_item_id": "Q59514379"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23878",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of abua/odual local government",
+        "position_item_id": "Q59514381"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:23996",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of abuja municipal (amac) local government",
+        "position_item_id": "Q59514382"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/capital-territory:fc/lga:23591",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ado ekiti local government",
+        "position_item_id": "Q59514384"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ek/lga:23557",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ado-odo/ota local government",
+        "position_item_id": "Q59514385"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23880",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of agege local government",
+        "position_item_id": "Q59514386"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23820",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of aguata local government",
+        "position_item_id": "Q59514387"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23384",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ajeromi-ifelodun local government",
+        "position_item_id": "Q59514390"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23821",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of akko local government",
+        "position_item_id": "Q59514399"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:go/lga:23596",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of akoko-edo local government",
+        "position_item_id": "Q59514400"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23539",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of akpabuyo local government",
+        "position_item_id": "Q59514402"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:cr/lga:23485",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of akure south local government",
+        "position_item_id": "Q59514403"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:on/lga:23903",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of alimosho local government",
+        "position_item_id": "Q59514404"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23822",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of alkaleri local government",
+        "position_item_id": "Q59514406"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23405",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of amuwo-odofin local government",
+        "position_item_id": "Q59514407"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23823",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of anaocha local government",
+        "position_item_id": "Q59514408"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23387",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ankpa local government",
+        "position_item_id": "Q59514409"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ko/lga:23785",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of bama local government",
+        "position_item_id": "Q59514418"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:bo/lga:23458",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "chairman of bauchi local government",
+        "position_item_id": "Q59514420"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23406",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of bichi local government",
+        "position_item_id": "Q59514421"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23688",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of birnin kebbi local government",
+        "position_item_id": "Q59514423"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ke/lga:23767",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of birnin kudu local government",
+        "position_item_id": "Q59514424"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23637",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of birnin-gwari local government",
+        "position_item_id": "Q59514426"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23661",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of bungudu local government",
+        "position_item_id": "Q59514427"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24080",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of chikun local government",
+        "position_item_id": "Q59514428"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23662",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of dala local government",
+        "position_item_id": "Q59514429"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23690",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of dekina local government",
+        "position_item_id": "Q59514438"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ko/lga:23787",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of dutse local government",
+        "position_item_id": "Q59514439"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23639",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of egbeda local government",
+        "position_item_id": "Q59514440"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23950",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of egor local government",
+        "position_item_id": "Q59514442"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23540",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ekeremor local government",
+        "position_item_id": "Q59514443"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:by/lga:23426",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of enugu east local government",
+        "position_item_id": "Q59514445"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:en/lga:23575",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of eti-osa local government",
+        "position_item_id": "Q59514446"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23827",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of fune local government",
+        "position_item_id": "Q59514447"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:yo/lga:24063",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gamawa local government",
+        "position_item_id": "Q59514448"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23411",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ganjuwa local government",
+        "position_item_id": "Q59514458"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23412",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gboko local government",
+        "position_item_id": "Q59514459"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:be/lga:23437",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gezawa local government",
+        "position_item_id": "Q59514460"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23700",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of giwa local government",
+        "position_item_id": "Q59514462"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23663",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gombe local government",
+        "position_item_id": "Q59514464"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:go/lga:23601",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gusau local government",
+        "position_item_id": "Q59514466"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24082",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gwale local government",
+        "position_item_id": "Q59514467"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23701",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gwaram local government",
+        "position_item_id": "Q59514468"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23644",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of gwoza local government",
+        "position_item_id": "Q59514469"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:bo/lga:23466",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ibadan central [ibadan north east] local government",
+        "position_item_id": "Q59514479"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23952",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ibadan north local government",
+        "position_item_id": "Q59514480"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23951",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ibadan south east local government",
+        "position_item_id": "Q59514481"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23954",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ibadan south west local government",
+        "position_item_id": "Q59514483"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23955",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of idemili north local government",
+        "position_item_id": "Q59514484"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23393",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ifako-ijaye local government",
+        "position_item_id": "Q59514486"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23829",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ifo local government",
+        "position_item_id": "Q59514487"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23884",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of igabi local government",
+        "position_item_id": "Q59514488"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23664",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of igbo-eze north local government",
+        "position_item_id": "Q59514489"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:en/lga:23580",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ihiala local government",
+        "position_item_id": "Q59514497"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:an/lga:23395",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ijebu north local government",
+        "position_item_id": "Q59514498"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23887",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ikeja local government",
+        "position_item_id": "Q59514501"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23830",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ikorodu local government",
+        "position_item_id": "Q59514503"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23831",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ikpoba-okha local government",
+        "position_item_id": "Q59514504"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23549",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ilaje local government",
+        "position_item_id": "Q59514505"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:on/lga:23907",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ilorin west local government",
+        "position_item_id": "Q59514506"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kw/lga:23811",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of iseyin local government",
+        "position_item_id": "Q59514508"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23961",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of jema'a local government",
+        "position_item_id": "Q59514509"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23667",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of jos north local government",
+        "position_item_id": "Q59514517"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:pl/lga:23983",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of jos south local government",
+        "position_item_id": "Q59514519"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:pl/lga:23984",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q149621",
+    "associations": [
+      {
+        "comment": "chairman of kachia local government",
+        "position_item_id": "Q59514520"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23668",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kaduna north local government",
+        "position_item_id": "Q59514522"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23669",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kaduna south local government",
+        "position_item_id": "Q59514523"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23670",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kafin hausa local government",
+        "position_item_id": "Q59514524"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ji/lga:23648",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kano municipal local government",
+        "position_item_id": "Q59514525"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23704",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of katagum local government",
+        "position_item_id": "Q59514527"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23416",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of katsina local government",
+        "position_item_id": "Q59514528"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kt/lga:23748",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kaura namoda local government",
+        "position_item_id": "Q59514538"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24083",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of khana local government",
+        "position_item_id": "Q59514539"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24009",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kiru local government",
+        "position_item_id": "Q59514541"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23707",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kosofe local government",
+        "position_item_id": "Q59514543"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23832",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kubau local government",
+        "position_item_id": "Q59514544"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23675",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of kumbotso local government",
+        "position_item_id": "Q59514545"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23708",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of lafia local government",
+        "position_item_id": "Q59514546"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:na/lga:23847",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of lagos mainland local government",
+        "position_item_id": "Q59514548"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23834",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of lere local government",
+        "position_item_id": "Q59514550"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23677",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of maiduguri local government",
+        "position_item_id": "Q59514555"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:bo/lga:23476",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of makurdi local government",
+        "position_item_id": "Q59514556"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:be/lga:23445",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of mangu local government",
+        "position_item_id": "Q59514557"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:pl/lga:23989",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of maru local government",
+        "position_item_id": "Q59514559"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24085",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of misau local government",
+        "position_item_id": "Q59514560"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23418",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of mushin local government",
+        "position_item_id": "Q59514561"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23835",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of nasarawa local government",
+        "position_item_id": "Q59514562"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:na/lga:23848",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ningi local government",
+        "position_item_id": "Q59514564"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23419",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of nsukka local government",
+        "position_item_id": "Q59514567"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:en/lga:23585",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of obia/akpor local government",
+        "position_item_id": "Q59514573"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24010",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ogba/egbema/ndoni local government",
+        "position_item_id": "Q59514574"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24011",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ojo local government",
+        "position_item_id": "Q59514576"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23836",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of okene local government",
+        "position_item_id": "Q59514578"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ko/lga:23799",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ona-ara local government",
+        "position_item_id": "Q59514579"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23971",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ondo west local government",
+        "position_item_id": "Q59514580"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:on/lga:23913",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of oredo local government",
+        "position_item_id": "Q59514581"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ed/lga:23550",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of oshodi-isolo local government",
+        "position_item_id": "Q59514583"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23837",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of oturkpo local government",
+        "position_item_id": "Q59514584"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:be/lga:23451",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of port-harcourt local government",
+        "position_item_id": "Q59514593"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ri/lga:24017",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of sabon-gari local government",
+        "position_item_id": "Q59514594"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23679",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of saki west local government",
+        "position_item_id": "Q59514596"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy/lga:23977",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of shagamu local government",
+        "position_item_id": "Q59514598"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:og/lga:23897",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of shomolu local government",
+        "position_item_id": "Q59514599"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23838",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of soba local government",
+        "position_item_id": "Q59514600"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23681",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of southern ijaw local government",
+        "position_item_id": "Q59514603"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:by/lga:23431",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of sumaila local government",
+        "position_item_id": "Q59514604"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23719",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of surulere local government",
+        "position_item_id": "Q59514605"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la/lga:23839",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of toro local government",
+        "position_item_id": "Q59514614"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba/lga:23422",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of tsafe local government",
+        "position_item_id": "Q59514615"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24088",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ughelli north local government",
+        "position_item_id": "Q59514617"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:de/lga:23519",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of ungogo local government",
+        "position_item_id": "Q59514619"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn/lga:23725",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of uyo local government",
+        "position_item_id": "Q59514620"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ak/lga:23383",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of warri south local government",
+        "position_item_id": "Q59514621"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:de/lga:23524",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of wasagu/danko local government",
+        "position_item_id": "Q59514623"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ke/lga:23770",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of yamaltu/deba local government",
+        "position_item_id": "Q59514624"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:go/lga:23606",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of yenegoa local government",
+        "position_item_id": "Q59514625"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:by/lga:23432",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of zangon-kataf local government",
+        "position_item_id": "Q59514631"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23682",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of zaria local government",
+        "position_item_id": "Q59514632"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd/lga:23683",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1639634",
+    "associations": [
+      {
+        "comment": "chairman of zurmi local government",
+        "position_item_id": "Q59514635"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:za/lga:24089",
+      "column": "MS_FB"
+    }
   }
 ]
