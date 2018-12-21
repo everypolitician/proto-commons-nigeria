@@ -1,5 +1,80 @@
 [
   {
+    "comment": "Abia State House of Assembly",
+    "house_item_id": "Q21043169",
+    "seat_count": "24",
+    "area_id": "Q320852",
+    "position_item_id": "Q59528223",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Abia",
+        "term_item_id": "Q59684618",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Ondo State House of Assembly",
+    "house_item_id": "Q23038224",
+    "seat_count": "26",
+    "area_id": "Q836654",
+    "position_item_id": "Q59528360",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Ondo",
+        "term_item_id": "Q59684669",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Jigawa State House of Assembly",
+    "house_item_id": "Q25053386",
+    "seat_count": "30",
+    "area_id": "Q682691",
+    "position_item_id": "Q59528329",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Jigawa",
+        "term_item_id": "Q59684644",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Anambra State House Of Assembly",
+    "house_item_id": "Q28406862",
+    "seat_count": "30",
+    "area_id": "Q117714",
+    "position_item_id": "Q59528228",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Anambra",
+        "term_item_id": "Q59684621",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Ogun State House Of Assembly",
+    "house_item_id": "Q28450719",
+    "seat_count": "26",
+    "area_id": "Q836657",
+    "position_item_id": "Q59528350",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Ogun",
+        "term_item_id": "Q59684660",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
     "comment": "Senate of Nigeria",
     "house_item_id": "Q2993611",
     "seat_count": "109",
@@ -9,7 +84,458 @@
       {
         "comment": "8th National Assembly of Nigeria",
         "term_item_id": "Q20311259",
-        "start_date": "2015-06-09"
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Akwa Ibom State House of Assembly",
+    "house_item_id": "Q30592701",
+    "seat_count": "26",
+    "area_id": "Q424388",
+    "position_item_id": "Q59528226",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Akwa Ibom",
+        "term_item_id": "Q59684620",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Adamawa State House of Assembly",
+    "house_item_id": "Q59518801",
+    "seat_count": "25",
+    "area_id": "Q337514",
+    "position_item_id": "Q59528225",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Adamawa",
+        "term_item_id": "Q59684619",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Bauchi State House of Assembly",
+    "house_item_id": "Q59518803",
+    "seat_count": "31",
+    "area_id": "Q503936",
+    "position_item_id": "Q59528229",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Bauchi",
+        "term_item_id": "Q59684622",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Bayelsa State House of Assembly",
+    "house_item_id": "Q59518804",
+    "seat_count": "24",
+    "area_id": "Q532153",
+    "position_item_id": "Q59528231",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Bayelsa",
+        "term_item_id": "Q59684623",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Benue State House of Assembly",
+    "house_item_id": "Q59518808",
+    "seat_count": "29",
+    "area_id": "Q429908",
+    "position_item_id": "Q59528232",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Benue",
+        "term_item_id": "Q59684624",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Borno State House of Assembly",
+    "house_item_id": "Q59518810",
+    "seat_count": "28",
+    "area_id": "Q130626",
+    "position_item_id": "Q59528233",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Borno",
+        "term_item_id": "Q59684626",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Cross River State House of Assembly",
+    "house_item_id": "Q59518811",
+    "seat_count": "25",
+    "area_id": "Q739676",
+    "position_item_id": "Q59528236",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Cross River",
+        "term_item_id": "Q59684628",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Delta State House of Assembly",
+    "house_item_id": "Q59518814",
+    "seat_count": "29",
+    "area_id": "Q503910",
+    "position_item_id": "Q59528246",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Delta",
+        "term_item_id": "Q59684636",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Ebonyi State House of Assembly",
+    "house_item_id": "Q59518815",
+    "seat_count": "24",
+    "area_id": "Q506808",
+    "position_item_id": "Q59528248",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Ebonyi",
+        "term_item_id": "Q59684637",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Edo State House of Assembly",
+    "house_item_id": "Q59518817",
+    "seat_count": "24",
+    "area_id": "Q682704",
+    "position_item_id": "Q59528250",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Edo",
+        "term_item_id": "Q59684638",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Ekiti State House of Assembly",
+    "house_item_id": "Q59518829",
+    "seat_count": "26",
+    "area_id": "Q534917",
+    "position_item_id": "Q59528322",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Ekiti",
+        "term_item_id": "Q59684639",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Enugu State House of Assembly",
+    "house_item_id": "Q59518830",
+    "seat_count": "24",
+    "area_id": "Q3817714",
+    "position_item_id": "Q59528323",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Enugu",
+        "term_item_id": "Q59684640",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Gombe State House of Assembly",
+    "house_item_id": "Q59518833",
+    "seat_count": "24",
+    "area_id": "Q376241",
+    "position_item_id": "Q59528324",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Gombe",
+        "term_item_id": "Q59684642",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Imo State House of Assembly",
+    "house_item_id": "Q59518836",
+    "seat_count": "27",
+    "area_id": "Q842939",
+    "position_item_id": "Q59528327",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Imo",
+        "term_item_id": "Q59684643",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Kaduna State House of Assembly",
+    "house_item_id": "Q59518837",
+    "seat_count": "34",
+    "area_id": "Q878284",
+    "position_item_id": "Q59528330",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Kaduna",
+        "term_item_id": "Q59684645",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Katsina State House of Assembly",
+    "house_item_id": "Q59518839",
+    "seat_count": "34",
+    "area_id": "Q657821",
+    "position_item_id": "Q59528341",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Katsina",
+        "term_item_id": "Q59684652",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Kebbi State House of Assembly",
+    "house_item_id": "Q59518841",
+    "seat_count": "24",
+    "area_id": "Q748523",
+    "position_item_id": "Q59528342",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Kebbi",
+        "term_item_id": "Q59684653",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Kogi State House of Assembly",
+    "house_item_id": "Q59518842",
+    "seat_count": "25",
+    "area_id": "Q387745",
+    "position_item_id": "Q59528343",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Kogi",
+        "term_item_id": "Q59684654",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Kwara State House of Assembly",
+    "house_item_id": "Q59518844",
+    "seat_count": "24",
+    "area_id": "Q464953",
+    "position_item_id": "Q59528344",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Kwara",
+        "term_item_id": "Q59684655",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Nasarawa State House of Assembly",
+    "house_item_id": "Q59518861",
+    "seat_count": "24",
+    "area_id": "Q836645",
+    "position_item_id": "Q59528348",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Nasarawa",
+        "term_item_id": "Q59684658",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Niger State House of Assembly",
+    "house_item_id": "Q59518862",
+    "seat_count": "27",
+    "area_id": "Q503932",
+    "position_item_id": "Q59528349",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Niger",
+        "term_item_id": "Q59684659",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Osun State House of Assembly",
+    "house_item_id": "Q59518864",
+    "seat_count": "26",
+    "area_id": "Q682721",
+    "position_item_id": "Q59528361",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Osun",
+        "term_item_id": "Q59684670",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Oyo State House of Assembly",
+    "house_item_id": "Q59518867",
+    "seat_count": "32",
+    "area_id": "Q503905",
+    "position_item_id": "Q59528363",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Oyo",
+        "term_item_id": "Q59684671",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Plateau State House of Assembly",
+    "house_item_id": "Q59518868",
+    "seat_count": "24",
+    "area_id": "Q503928",
+    "position_item_id": "Q59528364",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Plateau",
+        "term_item_id": "Q59684672",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Sokoto State House of Assembly",
+    "house_item_id": "Q59518870",
+    "seat_count": "30",
+    "area_id": "Q503941",
+    "position_item_id": "Q59528368",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Sokoto",
+        "term_item_id": "Q59684674",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Taraba State House of Assembly",
+    "house_item_id": "Q59518872",
+    "seat_count": "24",
+    "area_id": "Q463959",
+    "position_item_id": "Q59528369",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Taraba",
+        "term_item_id": "Q59684675",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Yobe State House of Assembly",
+    "house_item_id": "Q59518873",
+    "seat_count": "24",
+    "area_id": "Q682777",
+    "position_item_id": "Q59528370",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Yobe",
+        "term_item_id": "Q59684676",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Zamfara State House of Assembly",
+    "house_item_id": "Q59518875",
+    "seat_count": "24",
+    "area_id": "Q145793",
+    "position_item_id": "Q59528373",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Zamfara",
+        "term_item_id": "Q59684677",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Kano State House of Assembly",
+    "house_item_id": "Q6364192",
+    "seat_count": "40",
+    "area_id": "Q682571",
+    "position_item_id": "Q59528338",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Kano",
+        "term_item_id": "Q59684650",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Lagos State House of Assembly",
+    "house_item_id": "Q6472612",
+    "seat_count": "40",
+    "area_id": "Q815913",
+    "position_item_id": "Q59528346",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Lagos",
+        "term_item_id": "Q59684656",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
       }
     ]
   },
@@ -23,7 +549,23 @@
       {
         "comment": "8th National Assembly of Nigeria",
         "term_item_id": "Q20311259",
-        "start_date": "2015-06-09"
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
+      }
+    ]
+  },
+  {
+    "comment": "Rivers State House of Assembly",
+    "house_item_id": "Q7338303",
+    "seat_count": "32",
+    "area_id": "Q503923",
+    "position_item_id": "Q59528366",
+    "terms": [
+      {
+        "comment": "2015-2019 state legislature of Rivers",
+        "term_item_id": "Q59684673",
+        "start_date": "2015-06-09",
+        "end_date": "2019-06-09"
       }
     ]
   }
