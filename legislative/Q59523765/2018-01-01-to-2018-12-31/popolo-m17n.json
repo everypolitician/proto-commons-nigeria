@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kaura Namoda legislative council"
+      },
+      "id": "Q59523765",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523765"
+        }
+      ],
+      "area_id": "Q6378876",
+      "seat_counts": {
+        "Q59528834": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

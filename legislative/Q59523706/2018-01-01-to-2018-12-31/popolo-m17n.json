@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Gusau legislative council"
+      },
+      "id": "Q59523706",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523706"
+        }
+      ],
+      "area_id": "Q600405",
+      "seat_counts": {
+        "Q59528760": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

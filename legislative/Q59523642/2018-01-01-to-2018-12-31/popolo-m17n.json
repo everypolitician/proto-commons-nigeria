@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ado-Odo/Ota legislative council"
+      },
+      "id": "Q59523642",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523642"
+        }
+      ],
+      "area_id": "Q3510345",
+      "seat_counts": {
+        "Q59528673": "16"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

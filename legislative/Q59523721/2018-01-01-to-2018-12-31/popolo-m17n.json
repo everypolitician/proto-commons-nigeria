@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Idemili North legislative council"
+      },
+      "id": "Q59523721",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523721"
+        }
+      ],
+      "area_id": "Q11058846",
+      "seat_counts": {
+        "Q59528780": "12"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

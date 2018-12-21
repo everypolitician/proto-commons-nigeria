@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Obia/Akpor legislative council"
+      },
+      "id": "Q59523803",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523803"
+        }
+      ],
+      "area_id": "Q7074973",
+      "seat_counts": {
+        "Q59528876": "17"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

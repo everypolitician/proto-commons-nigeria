@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Surulere legislative council"
+      },
+      "id": "Q59523831",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523831"
+        }
+      ],
+      "area_id": "Q994119",
+      "seat_counts": {
+        "Q59528911": "12"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

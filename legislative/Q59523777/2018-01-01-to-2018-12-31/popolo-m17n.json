@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Lere legislative council"
+      },
+      "id": "Q59523777",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523777"
+        }
+      ],
+      "area_id": "Q6528787",
+      "seat_counts": {
+        "Q59528847": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

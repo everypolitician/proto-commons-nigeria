@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Maiduguri legislative council"
+      },
+      "id": "Q59523785",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523785"
+        }
+      ],
+      "area_id": "Q49106133",
+      "seat_counts": {
+        "Q59528854": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

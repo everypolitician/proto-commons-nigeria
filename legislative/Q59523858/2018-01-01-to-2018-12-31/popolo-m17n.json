@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Zaria legislative council"
+      },
+      "id": "Q59523858",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523858"
+        }
+      ],
+      "area_id": "Q147975",
+      "seat_counts": {
+        "Q59528940": "13"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

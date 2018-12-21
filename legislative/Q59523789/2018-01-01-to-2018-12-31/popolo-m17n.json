@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Maru legislative council"
+      },
+      "id": "Q59523789",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523789"
+        }
+      ],
+      "area_id": "Q6777871",
+      "seat_counts": {
+        "Q59528859": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

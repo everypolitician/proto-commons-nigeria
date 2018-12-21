@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ojo legislative council"
+      },
+      "id": "Q59523806",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523806"
+        }
+      ],
+      "area_id": "Q623249",
+      "seat_counts": {
+        "Q59528879": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

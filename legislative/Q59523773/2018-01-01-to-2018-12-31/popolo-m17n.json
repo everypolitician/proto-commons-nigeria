@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kumbotso legislative council"
+      },
+      "id": "Q59523773",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523773"
+        }
+      ],
+      "area_id": "Q6443769",
+      "seat_counts": {
+        "Q59528842": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Khana legislative council"
+      },
+      "id": "Q59523766",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523766"
+        }
+      ],
+      "area_id": "Q11008655",
+      "seat_counts": {
+        "Q59528836": "19"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Fune legislative council"
+      },
+      "id": "Q59523692",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523692"
+        }
+      ],
+      "area_id": "Q5509089",
+      "seat_counts": {
+        "Q59528742": "13"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

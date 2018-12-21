@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ado Ekiti legislative council"
+      },
+      "id": "Q59523641",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523641"
+        }
+      ],
+      "area_id": "Q359955",
+      "seat_counts": {
+        "Q59528671": "12"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

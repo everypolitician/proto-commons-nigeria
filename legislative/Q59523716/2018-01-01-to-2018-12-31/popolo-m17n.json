@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ibadan Central [Ibadan North East] legislative council"
+      },
+      "id": "Q59523716",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523716"
+        }
+      ],
+      "area_id": "Q5983595",
+      "seat_counts": {
+        "Q59528773": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Birnin Kebbi legislative council"
+      },
+      "id": "Q59523671",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523671"
+        }
+      ],
+      "area_id": "Q865828",
+      "seat_counts": {
+        "Q59528712": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

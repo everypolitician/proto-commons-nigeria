@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ekeremor legislative council"
+      },
+      "id": "Q59523688",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523688"
+        }
+      ],
+      "area_id": "Q5350399",
+      "seat_counts": {
+        "Q59528736": "12"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

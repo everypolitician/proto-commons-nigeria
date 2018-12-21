@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Shagamu legislative council"
+      },
+      "id": "Q59523824",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523824"
+        }
+      ],
+      "area_id": "Q2276423",
+      "seat_counts": {
+        "Q59528902": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Gboko legislative council"
+      },
+      "id": "Q59523702",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523702"
+        }
+      ],
+      "area_id": "Q2425179",
+      "seat_counts": {
+        "Q59528753": "17"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

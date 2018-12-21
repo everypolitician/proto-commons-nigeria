@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ogba/Egbema/Ndoni legislative council"
+      },
+      "id": "Q59523804",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523804"
+        }
+      ],
+      "area_id": "Q7079867",
+      "seat_counts": {
+        "Q59528878": "17"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

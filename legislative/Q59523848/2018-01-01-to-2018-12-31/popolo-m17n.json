@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Yenegoa legislative council"
+      },
+      "id": "Q59523848",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523848"
+        }
+      ],
+      "area_id": "Q648749",
+      "seat_counts": {
+        "Q59528932": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

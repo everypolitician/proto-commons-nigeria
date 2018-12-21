@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ifako-Ijaye legislative council"
+      },
+      "id": "Q59523722",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523722"
+        }
+      ],
+      "area_id": "Q5991116",
+      "seat_counts": {
+        "Q59528781": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

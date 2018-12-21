@@ -1,0 +1,68 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Otunba Olabisi Oshifeso"
+      },
+      "id": "Q59829053",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59829053"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "supervisory councillors of Ijebu North local government"
+      },
+      "id": "Q59685157",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59685157"
+        }
+      ],
+      "area_id": "Q5995160"
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59829053-3DC9AD01-8F35-42BD-A711-865F03DDE45C",
+      "person_id": "Q59829053",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q59685157",
+      "area_id": "Q5995160",
+      "role_superclass_code": "Q59512604",
+      "role_superclass": {
+        "lang:en": "chair of local government"
+      },
+      "role_code": "Q59514498",
+      "role": {
+        "lang:en": "Chairman of Ijebu North local government"
+      }
+    }
+  ]
+}

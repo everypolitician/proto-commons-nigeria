@@ -1,0 +1,91 @@
+{
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "party",
+      "party_name_en",
+      "district",
+      "district_name_en",
+      "role",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "org",
+      "org_en",
+      "org_jurisdiction"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q59829053-3DC9AD01-8F35-42BD-A711-865F03DDE45C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59829053"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Otunba Olabisi Oshifeso"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4729266"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "All Progressives Congress"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5995160"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ijebu North"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59514498"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chairman of Ijebu North local government"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59512604"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "chair of local government"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59685157"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "supervisory councillors of Ijebu North local government"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5995160"
+        }
+      }
+    ]
+  }
+}

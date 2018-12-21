@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Dekina legislative council"
+      },
+      "id": "Q59523684",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523684"
+        }
+      ],
+      "area_id": "Q5252818",
+      "seat_counts": {
+        "Q59528729": "12"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

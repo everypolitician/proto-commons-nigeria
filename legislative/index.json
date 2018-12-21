@@ -510,6 +510,1566 @@
     ]
   },
   {
+    "comment": "Aba South legislative council",
+    "house_item_id": "Q59523636",
+    "seat_count": "12",
+    "area_id": "Q4663117",
+    "position_item_id": "Q59528664",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Abeokuta South legislative council",
+    "house_item_id": "Q59523637",
+    "seat_count": "15",
+    "area_id": "Q3509517",
+    "position_item_id": "Q59528666",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Abua/Odual legislative council",
+    "house_item_id": "Q59523638",
+    "seat_count": "13",
+    "area_id": "Q4670480",
+    "position_item_id": "Q59528668",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Abuja Municipal (Amac) legislative council",
+    "house_item_id": "Q59523640",
+    "seat_count": "12",
+    "area_id": "Q28468899",
+    "position_item_id": "Q59528670",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ado Ekiti legislative council",
+    "house_item_id": "Q59523641",
+    "seat_count": "12",
+    "area_id": "Q359955",
+    "position_item_id": "Q59528671",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ado-Odo/Ota legislative council",
+    "house_item_id": "Q59523642",
+    "seat_count": "16",
+    "area_id": "Q3510345",
+    "position_item_id": "Q59528673",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Agege legislative council",
+    "house_item_id": "Q59523643",
+    "seat_count": "11",
+    "area_id": "Q3509545",
+    "position_item_id": "Q59528675",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Aguata legislative council",
+    "house_item_id": "Q59523644",
+    "seat_count": "20",
+    "area_id": "Q4694513",
+    "position_item_id": "Q59528677",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ajeromi-Ifelodun legislative council",
+    "house_item_id": "Q59523645",
+    "seat_count": "11",
+    "area_id": "Q3509013",
+    "position_item_id": "Q59528678",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Akko legislative council",
+    "house_item_id": "Q59523652",
+    "seat_count": "11",
+    "area_id": "Q3510455",
+    "position_item_id": "Q59528686",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Akoko-Edo legislative council",
+    "house_item_id": "Q59523653",
+    "seat_count": "10",
+    "area_id": "Q4701504",
+    "position_item_id": "Q59528687",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Akpabuyo legislative council",
+    "house_item_id": "Q59523654",
+    "seat_count": "10",
+    "area_id": "Q4701571",
+    "position_item_id": "Q59528689",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Akure South legislative council",
+    "house_item_id": "Q59523655",
+    "seat_count": "11",
+    "area_id": "Q4701976",
+    "position_item_id": "Q59528691",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Alimosho legislative council",
+    "house_item_id": "Q59523656",
+    "seat_count": "11",
+    "area_id": "Q3509580",
+    "position_item_id": "Q59528692",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Alkaleri legislative council",
+    "house_item_id": "Q59523658",
+    "seat_count": "11",
+    "area_id": "Q4727632",
+    "position_item_id": "Q59528693",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Amuwo-Odofin legislative council",
+    "house_item_id": "Q59523659",
+    "seat_count": "11",
+    "area_id": "Q3509621",
+    "position_item_id": "Q59528696",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Anaocha legislative council",
+    "house_item_id": "Q59523660",
+    "seat_count": "19",
+    "area_id": "Q4751505",
+    "position_item_id": "Q59528698",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ankpa legislative council",
+    "house_item_id": "Q59523661",
+    "seat_count": "13",
+    "area_id": "Q4766098",
+    "position_item_id": "Q59528700",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bama legislative council",
+    "house_item_id": "Q59523668",
+    "seat_count": "14",
+    "area_id": "Q3331583",
+    "position_item_id": "Q59528708",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bauchi legislative council",
+    "house_item_id": "Q59523669",
+    "seat_count": "12",
+    "area_id": "Q811144",
+    "position_item_id": "Q59528710",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bichi legislative council",
+    "house_item_id": "Q59523670",
+    "seat_count": "11",
+    "area_id": "Q4903607",
+    "position_item_id": "Q59528711",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Birnin Kebbi legislative council",
+    "house_item_id": "Q59523671",
+    "seat_count": "15",
+    "area_id": "Q865828",
+    "position_item_id": "Q59528712",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Birnin Kudu legislative council",
+    "house_item_id": "Q59523673",
+    "seat_count": "11",
+    "area_id": "Q4916902",
+    "position_item_id": "Q59528714",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Birnin-Gwari legislative council",
+    "house_item_id": "Q59523674",
+    "seat_count": "11",
+    "area_id": "Q13140400",
+    "position_item_id": "Q59528716",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bungudu legislative council",
+    "house_item_id": "Q59523675",
+    "seat_count": "11",
+    "area_id": "Q4997683",
+    "position_item_id": "Q59528717",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Chikun legislative council",
+    "house_item_id": "Q59523676",
+    "seat_count": "12",
+    "area_id": "Q5097501",
+    "position_item_id": "Q59528720",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Dala legislative council",
+    "house_item_id": "Q59523678",
+    "seat_count": "12",
+    "area_id": "Q5210142",
+    "position_item_id": "Q59528721",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Dekina legislative council",
+    "house_item_id": "Q59523684",
+    "seat_count": "12",
+    "area_id": "Q5252818",
+    "position_item_id": "Q59528729",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Dutse legislative council",
+    "house_item_id": "Q59523685",
+    "seat_count": "11",
+    "area_id": "Q1023713",
+    "position_item_id": "Q59528731",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Egbeda legislative council",
+    "house_item_id": "Q59523686",
+    "seat_count": "11",
+    "area_id": "Q5347703",
+    "position_item_id": "Q59528733",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Egor legislative council",
+    "house_item_id": "Q59523687",
+    "seat_count": "10",
+    "area_id": "Q5348227",
+    "position_item_id": "Q59528735",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ekeremor legislative council",
+    "house_item_id": "Q59523688",
+    "seat_count": "12",
+    "area_id": "Q5350399",
+    "position_item_id": "Q59528736",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Enugu East legislative council",
+    "house_item_id": "Q59523689",
+    "seat_count": "12",
+    "area_id": "Q5380873",
+    "position_item_id": "Q59528738",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Eti-Osa legislative council",
+    "house_item_id": "Q59523691",
+    "seat_count": "10",
+    "area_id": "Q5404527",
+    "position_item_id": "Q59528739",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Fune legislative council",
+    "house_item_id": "Q59523692",
+    "seat_count": "13",
+    "area_id": "Q5509089",
+    "position_item_id": "Q59528742",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gamawa legislative council",
+    "house_item_id": "Q59523693",
+    "seat_count": "11",
+    "area_id": "Q5519589",
+    "position_item_id": "Q59528744",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ganjuwa legislative council",
+    "house_item_id": "Q59523700",
+    "seat_count": "11",
+    "area_id": "Q5521392",
+    "position_item_id": "Q59528752",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gboko legislative council",
+    "house_item_id": "Q59523702",
+    "seat_count": "17",
+    "area_id": "Q2425179",
+    "position_item_id": "Q59528753",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gezawa legislative council",
+    "house_item_id": "Q59523703",
+    "seat_count": "11",
+    "area_id": "Q5555061",
+    "position_item_id": "Q59528756",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Giwa legislative council",
+    "house_item_id": "Q59523704",
+    "seat_count": "11",
+    "area_id": "Q5565892",
+    "position_item_id": "Q59528758",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gombe legislative council",
+    "house_item_id": "Q59523705",
+    "seat_count": "11",
+    "area_id": "Q591598",
+    "position_item_id": "Q59528759",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gusau legislative council",
+    "house_item_id": "Q59523706",
+    "seat_count": "11",
+    "area_id": "Q600405",
+    "position_item_id": "Q59528760",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gwale legislative council",
+    "house_item_id": "Q59523707",
+    "seat_count": "10",
+    "area_id": "Q5623248",
+    "position_item_id": "Q59528762",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gwaram legislative council",
+    "house_item_id": "Q59523708",
+    "seat_count": "11",
+    "area_id": "Q5623339",
+    "position_item_id": "Q59528764",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gwoza legislative council",
+    "house_item_id": "Q59523709",
+    "seat_count": "13",
+    "area_id": "Q5623719",
+    "position_item_id": "Q59528766",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ibadan Central [Ibadan North East] legislative council",
+    "house_item_id": "Q59523716",
+    "seat_count": "11",
+    "area_id": "Q5983595",
+    "position_item_id": "Q59528773",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ibadan North legislative council",
+    "house_item_id": "Q59523717",
+    "seat_count": "12",
+    "area_id": "Q5983592",
+    "position_item_id": "Q59528774",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ibadan South East legislative council",
+    "house_item_id": "Q59523718",
+    "seat_count": "12",
+    "area_id": "Q11058510",
+    "position_item_id": "Q59528777",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ibadan South West legislative council",
+    "house_item_id": "Q59523719",
+    "seat_count": "12",
+    "area_id": "Q5983608",
+    "position_item_id": "Q59528778",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Idemili North legislative council",
+    "house_item_id": "Q59523721",
+    "seat_count": "12",
+    "area_id": "Q11058846",
+    "position_item_id": "Q59528780",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ifako-Ijaye legislative council",
+    "house_item_id": "Q59523722",
+    "seat_count": "11",
+    "area_id": "Q5991116",
+    "position_item_id": "Q59528781",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ifo legislative council",
+    "house_item_id": "Q59523723",
+    "seat_count": "11",
+    "area_id": "Q5991216",
+    "position_item_id": "Q59528782",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Igabi legislative council",
+    "house_item_id": "Q59523724",
+    "seat_count": "11",
+    "area_id": "Q5991414",
+    "position_item_id": "Q59528785",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Igbo-Eze North legislative council",
+    "house_item_id": "Q59523726",
+    "seat_count": "20",
+    "area_id": "Q5991578",
+    "position_item_id": "Q59528786",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ihiala legislative council",
+    "house_item_id": "Q59523734",
+    "seat_count": "20",
+    "area_id": "Q3056230",
+    "position_item_id": "Q59528794",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ijebu North legislative council",
+    "house_item_id": "Q59523735",
+    "seat_count": "11",
+    "area_id": "Q5995160",
+    "position_item_id": "Q59528795",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ikeja legislative council",
+    "house_item_id": "Q59523736",
+    "seat_count": "10",
+    "area_id": "Q1024647",
+    "position_item_id": "Q59528797",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ikorodu legislative council",
+    "house_item_id": "Q59523737",
+    "seat_count": "19",
+    "area_id": "Q1658159",
+    "position_item_id": "Q59528798",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ikpoba-Okha legislative council",
+    "house_item_id": "Q59523738",
+    "seat_count": "10",
+    "area_id": "Q5996228",
+    "position_item_id": "Q59528799",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ilaje legislative council",
+    "house_item_id": "Q59523739",
+    "seat_count": "12",
+    "area_id": "Q5996946",
+    "position_item_id": "Q59528801",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ilorin West legislative council",
+    "house_item_id": "Q59523740",
+    "seat_count": "12",
+    "area_id": "Q6001104",
+    "position_item_id": "Q59528803",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Iseyin legislative council",
+    "house_item_id": "Q59523741",
+    "seat_count": "11",
+    "area_id": "Q49104874",
+    "position_item_id": "Q59528805",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Jema'A legislative council",
+    "house_item_id": "Q59523743",
+    "seat_count": "11",
+    "area_id": "Q6177061",
+    "position_item_id": "Q59528806",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Jos North legislative council",
+    "house_item_id": "Q59523747",
+    "seat_count": "14",
+    "area_id": "Q10967141",
+    "position_item_id": "Q59528814",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Jos South legislative council",
+    "house_item_id": "Q59523749",
+    "seat_count": "12",
+    "area_id": "Q6279136",
+    "position_item_id": "Q59528816",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kachia legislative council",
+    "house_item_id": "Q59523751",
+    "seat_count": "12",
+    "area_id": "Q6344670",
+    "position_item_id": "Q59528818",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kaduna North legislative council",
+    "house_item_id": "Q59523752",
+    "seat_count": "13",
+    "area_id": "Q13140547",
+    "position_item_id": "Q59528819",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kaduna South legislative council",
+    "house_item_id": "Q59523753",
+    "seat_count": "13",
+    "area_id": "Q6345763",
+    "position_item_id": "Q59528820",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kafin Hausa legislative council",
+    "house_item_id": "Q59523755",
+    "seat_count": "11",
+    "area_id": "Q218744",
+    "position_item_id": "Q59528822",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kano Municipal legislative council",
+    "house_item_id": "Q59523756",
+    "seat_count": "13",
+    "area_id": "Q10313749",
+    "position_item_id": "Q59528824",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Katagum legislative council",
+    "house_item_id": "Q59523758",
+    "seat_count": "11",
+    "area_id": "Q6375000",
+    "position_item_id": "Q59528826",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Katsina legislative council",
+    "house_item_id": "Q59523759",
+    "seat_count": "12",
+    "area_id": "Q937487",
+    "position_item_id": "Q59528829",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kaura Namoda legislative council",
+    "house_item_id": "Q59523765",
+    "seat_count": "11",
+    "area_id": "Q6378876",
+    "position_item_id": "Q59528834",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Khana legislative council",
+    "house_item_id": "Q59523766",
+    "seat_count": "19",
+    "area_id": "Q11008655",
+    "position_item_id": "Q59528836",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kiru legislative council",
+    "house_item_id": "Q59523768",
+    "seat_count": "15",
+    "area_id": "Q6416264",
+    "position_item_id": "Q59528837",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kosofe legislative council",
+    "house_item_id": "Q59523770",
+    "seat_count": "10",
+    "area_id": "Q6433326",
+    "position_item_id": "Q59528839",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kubau legislative council",
+    "house_item_id": "Q59523772",
+    "seat_count": "11",
+    "area_id": "Q6441191",
+    "position_item_id": "Q59528841",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kumbotso legislative council",
+    "house_item_id": "Q59523773",
+    "seat_count": "11",
+    "area_id": "Q6443769",
+    "position_item_id": "Q59528842",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Lafia legislative council",
+    "house_item_id": "Q59523775",
+    "seat_count": "13",
+    "area_id": "Q1023721",
+    "position_item_id": "Q59528843",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Lagos Mainland legislative council",
+    "house_item_id": "Q59523776",
+    "seat_count": "11",
+    "area_id": "Q6472602",
+    "position_item_id": "Q59528846",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Lere legislative council",
+    "house_item_id": "Q59523777",
+    "seat_count": "11",
+    "area_id": "Q6528787",
+    "position_item_id": "Q59528847",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Maiduguri legislative council",
+    "house_item_id": "Q59523785",
+    "seat_count": "15",
+    "area_id": "Q49106133",
+    "position_item_id": "Q59528854",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Makurdi legislative council",
+    "house_item_id": "Q59523787",
+    "seat_count": "11",
+    "area_id": "Q994096",
+    "position_item_id": "Q59528856",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mangu legislative council",
+    "house_item_id": "Q59523788",
+    "seat_count": "16",
+    "area_id": "Q6749158",
+    "position_item_id": "Q59528857",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Maru legislative council",
+    "house_item_id": "Q59523789",
+    "seat_count": "10",
+    "area_id": "Q6777871",
+    "position_item_id": "Q59528859",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Misau legislative council",
+    "house_item_id": "Q59523791",
+    "seat_count": "10",
+    "area_id": "Q2078475",
+    "position_item_id": "Q59528861",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mushin legislative council",
+    "house_item_id": "Q59523792",
+    "seat_count": "14",
+    "area_id": "Q3139881",
+    "position_item_id": "Q59528862",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Nasarawa legislative council",
+    "house_item_id": "Q59523793",
+    "seat_count": "15",
+    "area_id": "Q6966608",
+    "position_item_id": "Q59528863",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ningi legislative council",
+    "house_item_id": "Q59523794",
+    "seat_count": "11",
+    "area_id": "Q7038694",
+    "position_item_id": "Q59528866",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Nsukka legislative council",
+    "house_item_id": "Q59523795",
+    "seat_count": "20",
+    "area_id": "Q681198",
+    "position_item_id": "Q59528867",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Obia/Akpor legislative council",
+    "house_item_id": "Q59523803",
+    "seat_count": "17",
+    "area_id": "Q7074973",
+    "position_item_id": "Q59528876",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ogba/Egbema/Ndoni legislative council",
+    "house_item_id": "Q59523804",
+    "seat_count": "17",
+    "area_id": "Q7079867",
+    "position_item_id": "Q59528878",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ojo legislative council",
+    "house_item_id": "Q59523806",
+    "seat_count": "11",
+    "area_id": "Q623249",
+    "position_item_id": "Q59528879",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Okene legislative council",
+    "house_item_id": "Q59523807",
+    "seat_count": "11",
+    "area_id": "Q2017187",
+    "position_item_id": "Q59528882",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ona-Ara legislative council",
+    "house_item_id": "Q59523808",
+    "seat_count": "11",
+    "area_id": "Q11275966",
+    "position_item_id": "Q59528883",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ondo West legislative council",
+    "house_item_id": "Q59523809",
+    "seat_count": "12",
+    "area_id": "Q7092211",
+    "position_item_id": "Q59528885",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Oredo legislative council",
+    "house_item_id": "Q59523811",
+    "seat_count": "12",
+    "area_id": "Q7101001",
+    "position_item_id": "Q59528887",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Oshodi-Isolo legislative council",
+    "house_item_id": "Q59523812",
+    "seat_count": "11",
+    "area_id": "Q7106648",
+    "position_item_id": "Q59528889",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Oturkpo legislative council",
+    "house_item_id": "Q59523813",
+    "seat_count": "13",
+    "area_id": "Q3511323",
+    "position_item_id": "Q59528891",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Port-Harcourt legislative council",
+    "house_item_id": "Q59523821",
+    "seat_count": "20",
+    "area_id": "Q20614811",
+    "position_item_id": "Q59528897",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Sabon-Gari legislative council",
+    "house_item_id": "Q59523822",
+    "seat_count": "11",
+    "area_id": "Q7396283",
+    "position_item_id": "Q59528900",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Saki West legislative council",
+    "house_item_id": "Q59523823",
+    "seat_count": "11",
+    "area_id": "Q7402971",
+    "position_item_id": "Q59528901",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Shagamu legislative council",
+    "house_item_id": "Q59523824",
+    "seat_count": "15",
+    "area_id": "Q2276423",
+    "position_item_id": "Q59528902",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Shomolu legislative council",
+    "house_item_id": "Q59523825",
+    "seat_count": "12",
+    "area_id": "Q280585",
+    "position_item_id": "Q59528905",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Soba legislative council",
+    "house_item_id": "Q59523826",
+    "seat_count": "11",
+    "area_id": "Q7549885",
+    "position_item_id": "Q59528906",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Southern Ijaw legislative council",
+    "house_item_id": "Q59523827",
+    "seat_count": "17",
+    "area_id": "Q11058325",
+    "position_item_id": "Q59528907",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Sumaila legislative council",
+    "house_item_id": "Q59523829",
+    "seat_count": "11",
+    "area_id": "Q7636917",
+    "position_item_id": "Q59528910",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Surulere legislative council",
+    "house_item_id": "Q59523831",
+    "seat_count": "12",
+    "area_id": "Q994119",
+    "position_item_id": "Q59528911",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Toro legislative council",
+    "house_item_id": "Q59523837",
+    "seat_count": "11",
+    "area_id": "Q11058424",
+    "position_item_id": "Q59528920",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Tsafe legislative council",
+    "house_item_id": "Q59523838",
+    "seat_count": "11",
+    "area_id": "Q255961",
+    "position_item_id": "Q59528921",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ughelli North legislative council",
+    "house_item_id": "Q59523840",
+    "seat_count": "11",
+    "area_id": "Q15043628",
+    "position_item_id": "Q59528923",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ungogo legislative council",
+    "house_item_id": "Q59523842",
+    "seat_count": "11",
+    "area_id": "Q3510251",
+    "position_item_id": "Q59528925",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Uyo legislative council",
+    "house_item_id": "Q59523844",
+    "seat_count": "11",
+    "area_id": "Q1999000",
+    "position_item_id": "Q59528926",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Warri South legislative council",
+    "house_item_id": "Q59523845",
+    "seat_count": "12",
+    "area_id": "Q7970687",
+    "position_item_id": "Q59528927",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Wasagu/Danko legislative council",
+    "house_item_id": "Q59523846",
+    "seat_count": "11",
+    "area_id": "Q7971327",
+    "position_item_id": "Q59528929",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Yamaltu/Deba legislative council",
+    "house_item_id": "Q59523847",
+    "seat_count": "11",
+    "area_id": "Q3510505",
+    "position_item_id": "Q59528931",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Yenegoa legislative council",
+    "house_item_id": "Q59523848",
+    "seat_count": "15",
+    "area_id": "Q648749",
+    "position_item_id": "Q59528932",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Zangon-Kataf legislative council",
+    "house_item_id": "Q59523857",
+    "seat_count": "11",
+    "area_id": "Q8066201",
+    "position_item_id": "Q59528939",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Zaria legislative council",
+    "house_item_id": "Q59523858",
+    "seat_count": "13",
+    "area_id": "Q147975",
+    "position_item_id": "Q59528940",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Zurmi legislative council",
+    "house_item_id": "Q59523859",
+    "seat_count": "11",
+    "area_id": "Q8075410",
+    "position_item_id": "Q59528941",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
     "comment": "Kano State House of Assembly",
     "house_item_id": "Q6364192",
     "seat_count": "40",

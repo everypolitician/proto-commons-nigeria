@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Abeokuta South legislative council"
+      },
+      "id": "Q59523637",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523637"
+        }
+      ],
+      "area_id": "Q3509517",
+      "seat_counts": {
+        "Q59528666": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

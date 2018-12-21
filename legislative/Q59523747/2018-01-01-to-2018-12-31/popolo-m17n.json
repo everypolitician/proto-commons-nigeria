@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Jos North legislative council"
+      },
+      "id": "Q59523747",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523747"
+        }
+      ],
+      "area_id": "Q10967141",
+      "seat_counts": {
+        "Q59528814": "14"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

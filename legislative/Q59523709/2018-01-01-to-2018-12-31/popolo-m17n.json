@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Gwoza legislative council"
+      },
+      "id": "Q59523709",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523709"
+        }
+      ],
+      "area_id": "Q5623719",
+      "seat_counts": {
+        "Q59528766": "13"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

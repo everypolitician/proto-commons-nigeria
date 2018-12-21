@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Wasagu/Danko legislative council"
+      },
+      "id": "Q59523846",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523846"
+        }
+      ],
+      "area_id": "Q7971327",
+      "seat_counts": {
+        "Q59528929": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

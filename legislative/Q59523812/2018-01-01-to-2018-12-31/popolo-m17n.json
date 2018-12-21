@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Oshodi-Isolo legislative council"
+      },
+      "id": "Q59523812",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523812"
+        }
+      ],
+      "area_id": "Q7106648",
+      "seat_counts": {
+        "Q59528889": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

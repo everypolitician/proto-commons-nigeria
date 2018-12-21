@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kano Municipal legislative council"
+      },
+      "id": "Q59523756",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523756"
+        }
+      ],
+      "area_id": "Q10313749",
+      "seat_counts": {
+        "Q59528824": "13"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

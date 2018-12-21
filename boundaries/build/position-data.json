@@ -608,6 +608,1926 @@
     }
   },
   {
+    "role_id": "Q59514378",
+    "role_name": {
+      "lang:en": "Chairman of Aba South local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685068",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Aba South local government"
+    }
+  },
+  {
+    "role_id": "Q59514379",
+    "role_name": {
+      "lang:en": "Chairman of Abeokuta South local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685069",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Abeokuta South local government"
+    }
+  },
+  {
+    "role_id": "Q59514381",
+    "role_name": {
+      "lang:en": "Chairman of Abua/Odual local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685070",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Abua/Odual local government"
+    }
+  },
+  {
+    "role_id": "Q59514382",
+    "role_name": {
+      "lang:en": "Chairman of Abuja Municipal (Amac) local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685071",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Abuja Municipal (Amac) local government"
+    }
+  },
+  {
+    "role_id": "Q59514384",
+    "role_name": {
+      "lang:en": "Chairman of Ado Ekiti local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685073",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ado Ekiti local government"
+    }
+  },
+  {
+    "role_id": "Q59514385",
+    "role_name": {
+      "lang:en": "Chairman of Ado-Odo/Ota local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685074",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ado-Odo/Ota local government"
+    }
+  },
+  {
+    "role_id": "Q59514386",
+    "role_name": {
+      "lang:en": "Chairman of Agege local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685075",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Agege local government"
+    }
+  },
+  {
+    "role_id": "Q59514387",
+    "role_name": {
+      "lang:en": "Chairman of Aguata local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685076",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Aguata local government"
+    }
+  },
+  {
+    "role_id": "Q59514390",
+    "role_name": {
+      "lang:en": "Chairman of Ajeromi-Ifelodun local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685078",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ajeromi-Ifelodun local government"
+    }
+  },
+  {
+    "role_id": "Q59514399",
+    "role_name": {
+      "lang:en": "Chairman of Akko local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685082",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Akko local government"
+    }
+  },
+  {
+    "role_id": "Q59514400",
+    "role_name": {
+      "lang:en": "Chairman of Akoko-Edo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685083",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Akoko-Edo local government"
+    }
+  },
+  {
+    "role_id": "Q59514402",
+    "role_name": {
+      "lang:en": "Chairman of Akpabuyo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685084",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Akpabuyo local government"
+    }
+  },
+  {
+    "role_id": "Q59514403",
+    "role_name": {
+      "lang:en": "Chairman of Akure South local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685085",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Akure South local government"
+    }
+  },
+  {
+    "role_id": "Q59514404",
+    "role_name": {
+      "lang:en": "Chairman of Alimosho local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685087",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Alimosho local government"
+    }
+  },
+  {
+    "role_id": "Q59514406",
+    "role_name": {
+      "lang:en": "Chairman of Alkaleri local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685089",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Alkaleri local government"
+    }
+  },
+  {
+    "role_id": "Q59514407",
+    "role_name": {
+      "lang:en": "Chairman of Amuwo-Odofin local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685090",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Amuwo-Odofin local government"
+    }
+  },
+  {
+    "role_id": "Q59514408",
+    "role_name": {
+      "lang:en": "Chairman of Anaocha local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685091",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Anaocha local government"
+    }
+  },
+  {
+    "role_id": "Q59514409",
+    "role_name": {
+      "lang:en": "Chairman of Ankpa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685092",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ankpa local government"
+    }
+  },
+  {
+    "role_id": "Q59514418",
+    "role_name": {
+      "lang:en": "Chairman of Bama local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685098",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Bama local government"
+    }
+  },
+  {
+    "role_id": "Q59514420",
+    "role_name": {
+      "lang:en": "Chairman of Bauchi local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685099",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Bauchi local government"
+    }
+  },
+  {
+    "role_id": "Q59514421",
+    "role_name": {
+      "lang:en": "Chairman of Bichi local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685100",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Bichi local government"
+    }
+  },
+  {
+    "role_id": "Q59514423",
+    "role_name": {
+      "lang:en": "Chairman of Birnin Kebbi local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685101",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Birnin Kebbi local government"
+    }
+  },
+  {
+    "role_id": "Q59514424",
+    "role_name": {
+      "lang:en": "Chairman of Birnin Kudu local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685102",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Birnin Kudu local government"
+    }
+  },
+  {
+    "role_id": "Q59514426",
+    "role_name": {
+      "lang:en": "Chairman of Birnin-Gwari local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685103",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Birnin-Gwari local government"
+    }
+  },
+  {
+    "role_id": "Q59514427",
+    "role_name": {
+      "lang:en": "Chairman of Bungudu local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685104",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Bungudu local government"
+    }
+  },
+  {
+    "role_id": "Q59514428",
+    "role_name": {
+      "lang:en": "Chairman of Chikun local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685105",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Chikun local government"
+    }
+  },
+  {
+    "role_id": "Q59514429",
+    "role_name": {
+      "lang:en": "Chairman of Dala local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685106",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Dala local government"
+    }
+  },
+  {
+    "role_id": "Q59514438",
+    "role_name": {
+      "lang:en": "Chairman of Dekina local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685109",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Dekina local government"
+    }
+  },
+  {
+    "role_id": "Q59514439",
+    "role_name": {
+      "lang:en": "Chairman of Dutse local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685111",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Dutse local government"
+    }
+  },
+  {
+    "role_id": "Q59514440",
+    "role_name": {
+      "lang:en": "Chairman of Egbeda local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685112",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Egbeda local government"
+    }
+  },
+  {
+    "role_id": "Q59514442",
+    "role_name": {
+      "lang:en": "Chairman of Egor local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685113",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Egor local government"
+    }
+  },
+  {
+    "role_id": "Q59514443",
+    "role_name": {
+      "lang:en": "Chairman of Ekeremor local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685115",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ekeremor local government"
+    }
+  },
+  {
+    "role_id": "Q59514445",
+    "role_name": {
+      "lang:en": "Chairman of Enugu East local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685117",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Enugu East local government"
+    }
+  },
+  {
+    "role_id": "Q59514446",
+    "role_name": {
+      "lang:en": "Chairman of Eti-Osa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685118",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Eti-Osa local government"
+    }
+  },
+  {
+    "role_id": "Q59514447",
+    "role_name": {
+      "lang:en": "Chairman of Fune local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685119",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Fune local government"
+    }
+  },
+  {
+    "role_id": "Q59514448",
+    "role_name": {
+      "lang:en": "Chairman of Gamawa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685120",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gamawa local government"
+    }
+  },
+  {
+    "role_id": "Q59514458",
+    "role_name": {
+      "lang:en": "Chairman of Ganjuwa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685124",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ganjuwa local government"
+    }
+  },
+  {
+    "role_id": "Q59514459",
+    "role_name": {
+      "lang:en": "Chairman of Gboko local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685125",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gboko local government"
+    }
+  },
+  {
+    "role_id": "Q59514460",
+    "role_name": {
+      "lang:en": "Chairman of Gezawa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685127",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gezawa local government"
+    }
+  },
+  {
+    "role_id": "Q59514462",
+    "role_name": {
+      "lang:en": "Chairman of Giwa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685128",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Giwa local government"
+    }
+  },
+  {
+    "role_id": "Q59514464",
+    "role_name": {
+      "lang:en": "Chairman of Gombe local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685129",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gombe local government"
+    }
+  },
+  {
+    "role_id": "Q59514466",
+    "role_name": {
+      "lang:en": "Chairman of Gusau local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685130",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gusau local government"
+    }
+  },
+  {
+    "role_id": "Q59514467",
+    "role_name": {
+      "lang:en": "Chairman of Gwale local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685131",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gwale local government"
+    }
+  },
+  {
+    "role_id": "Q59514468",
+    "role_name": {
+      "lang:en": "Chairman of Gwaram local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685134",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gwaram local government"
+    }
+  },
+  {
+    "role_id": "Q59514469",
+    "role_name": {
+      "lang:en": "Chairman of Gwoza local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685135",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Gwoza local government"
+    }
+  },
+  {
+    "role_id": "Q59514479",
+    "role_name": {
+      "lang:en": "Chairman of Ibadan Central [Ibadan North East] local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685141",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ibadan Central [Ibadan North East] local government"
+    }
+  },
+  {
+    "role_id": "Q59514480",
+    "role_name": {
+      "lang:en": "Chairman of Ibadan North local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685142",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ibadan North local government"
+    }
+  },
+  {
+    "role_id": "Q59514481",
+    "role_name": {
+      "lang:en": "Chairman of Ibadan South East local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685144",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ibadan South East local government"
+    }
+  },
+  {
+    "role_id": "Q59514483",
+    "role_name": {
+      "lang:en": "Chairman of Ibadan South West local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685145",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ibadan South West local government"
+    }
+  },
+  {
+    "role_id": "Q59514484",
+    "role_name": {
+      "lang:en": "Chairman of Idemili North local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685147",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Idemili North local government"
+    }
+  },
+  {
+    "role_id": "Q59514486",
+    "role_name": {
+      "lang:en": "Chairman of Ifako-Ijaye local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685148",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ifako-Ijaye local government"
+    }
+  },
+  {
+    "role_id": "Q59514487",
+    "role_name": {
+      "lang:en": "Chairman of Ifo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685149",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ifo local government"
+    }
+  },
+  {
+    "role_id": "Q59514488",
+    "role_name": {
+      "lang:en": "Chairman of Igabi local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685150",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Igabi local government"
+    }
+  },
+  {
+    "role_id": "Q59514489",
+    "role_name": {
+      "lang:en": "Chairman of Igbo-Eze North local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685152",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Igbo-Eze North local government"
+    }
+  },
+  {
+    "role_id": "Q59514497",
+    "role_name": {
+      "lang:en": "Chairman of Ihiala local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685156",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ihiala local government"
+    }
+  },
+  {
+    "role_id": "Q59514498",
+    "role_name": {
+      "lang:en": "Chairman of Ijebu North local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685157",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ijebu North local government"
+    }
+  },
+  {
+    "role_id": "Q59514501",
+    "role_name": {
+      "lang:en": "Chairman of Ikeja local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685158",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ikeja local government"
+    }
+  },
+  {
+    "role_id": "Q59514503",
+    "role_name": {
+      "lang:en": "Chairman of Ikorodu local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685159",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ikorodu local government"
+    }
+  },
+  {
+    "role_id": "Q59514504",
+    "role_name": {
+      "lang:en": "Chairman of Ikpoba-Okha local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685160",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ikpoba-Okha local government"
+    }
+  },
+  {
+    "role_id": "Q59514505",
+    "role_name": {
+      "lang:en": "Chairman of Ilaje local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685162",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ilaje local government"
+    }
+  },
+  {
+    "role_id": "Q59514506",
+    "role_name": {
+      "lang:en": "Chairman of Ilorin West local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685163",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ilorin West local government"
+    }
+  },
+  {
+    "role_id": "Q59514508",
+    "role_name": {
+      "lang:en": "Chairman of Iseyin local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685164",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Iseyin local government"
+    }
+  },
+  {
+    "role_id": "Q59514509",
+    "role_name": {
+      "lang:en": "Chairman of Jema'A local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685165",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Jema'A local government"
+    }
+  },
+  {
+    "role_id": "Q59514517",
+    "role_name": {
+      "lang:en": "Chairman of Jos North local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685171",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Jos North local government"
+    }
+  },
+  {
+    "role_id": "Q59514519",
+    "role_name": {
+      "lang:en": "Chairman of Jos South local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685172",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Jos South local government"
+    }
+  },
+  {
+    "role_id": "Q59514520",
+    "role_name": {
+      "lang:en": "Chairman of Kachia local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685173",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kachia local government"
+    }
+  },
+  {
+    "role_id": "Q59514522",
+    "role_name": {
+      "lang:en": "Chairman of Kaduna North local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685174",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kaduna North local government"
+    }
+  },
+  {
+    "role_id": "Q59514523",
+    "role_name": {
+      "lang:en": "Chairman of Kaduna South local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685175",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kaduna South local government"
+    }
+  },
+  {
+    "role_id": "Q59514524",
+    "role_name": {
+      "lang:en": "Chairman of Kafin Hausa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685176",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kafin Hausa local government"
+    }
+  },
+  {
+    "role_id": "Q59514525",
+    "role_name": {
+      "lang:en": "Chairman of Kano Municipal local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685177",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kano Municipal local government"
+    }
+  },
+  {
+    "role_id": "Q59514527",
+    "role_name": {
+      "lang:en": "Chairman of Katagum local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685178",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Katagum local government"
+    }
+  },
+  {
+    "role_id": "Q59514528",
+    "role_name": {
+      "lang:en": "Chairman of Katsina local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685179",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Katsina local government"
+    }
+  },
+  {
+    "role_id": "Q59514538",
+    "role_name": {
+      "lang:en": "Chairman of Kaura Namoda local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685181",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kaura Namoda local government"
+    }
+  },
+  {
+    "role_id": "Q59514539",
+    "role_name": {
+      "lang:en": "Chairman of Khana local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685182",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Khana local government"
+    }
+  },
+  {
+    "role_id": "Q59514541",
+    "role_name": {
+      "lang:en": "Chairman of Kiru local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685183",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kiru local government"
+    }
+  },
+  {
+    "role_id": "Q59514543",
+    "role_name": {
+      "lang:en": "Chairman of Kosofe local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685184",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kosofe local government"
+    }
+  },
+  {
+    "role_id": "Q59514544",
+    "role_name": {
+      "lang:en": "Chairman of Kubau local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685186",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kubau local government"
+    }
+  },
+  {
+    "role_id": "Q59514545",
+    "role_name": {
+      "lang:en": "Chairman of Kumbotso local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685187",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Kumbotso local government"
+    }
+  },
+  {
+    "role_id": "Q59514546",
+    "role_name": {
+      "lang:en": "Chairman of Lafia local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685188",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Lafia local government"
+    }
+  },
+  {
+    "role_id": "Q59514548",
+    "role_name": {
+      "lang:en": "Chairman of Lagos Mainland local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685190",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Lagos Mainland local government"
+    }
+  },
+  {
+    "role_id": "Q59514550",
+    "role_name": {
+      "lang:en": "Chairman of Lere local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685192",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Lere local government"
+    }
+  },
+  {
+    "role_id": "Q59514555",
+    "role_name": {
+      "lang:en": "Chairman of Maiduguri local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685197",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Maiduguri local government"
+    }
+  },
+  {
+    "role_id": "Q59514556",
+    "role_name": {
+      "lang:en": "Chairman of Makurdi local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685198",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Makurdi local government"
+    }
+  },
+  {
+    "role_id": "Q59514557",
+    "role_name": {
+      "lang:en": "Chairman of Mangu local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685199",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Mangu local government"
+    }
+  },
+  {
+    "role_id": "Q59514559",
+    "role_name": {
+      "lang:en": "Chairman of Maru local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685200",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Maru local government"
+    }
+  },
+  {
+    "role_id": "Q59514560",
+    "role_name": {
+      "lang:en": "Chairman of Misau local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685201",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Misau local government"
+    }
+  },
+  {
+    "role_id": "Q59514561",
+    "role_name": {
+      "lang:en": "Chairman of Mushin local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685203",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Mushin local government"
+    }
+  },
+  {
+    "role_id": "Q59514562",
+    "role_name": {
+      "lang:en": "Chairman of Nasarawa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685204",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Nasarawa local government"
+    }
+  },
+  {
+    "role_id": "Q59514564",
+    "role_name": {
+      "lang:en": "Chairman of Ningi local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685206",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ningi local government"
+    }
+  },
+  {
+    "role_id": "Q59514567",
+    "role_name": {
+      "lang:en": "Chairman of Nsukka local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685207",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Nsukka local government"
+    }
+  },
+  {
+    "role_id": "Q59514573",
+    "role_name": {
+      "lang:en": "Chairman of Obia/Akpor local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685213",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Obia/Akpor local government"
+    }
+  },
+  {
+    "role_id": "Q59514574",
+    "role_name": {
+      "lang:en": "Chairman of Ogba/Egbema/Ndoni local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685214",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ogba/Egbema/Ndoni local government"
+    }
+  },
+  {
+    "role_id": "Q59514576",
+    "role_name": {
+      "lang:en": "Chairman of Ojo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685215",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ojo local government"
+    }
+  },
+  {
+    "role_id": "Q59514578",
+    "role_name": {
+      "lang:en": "Chairman of Okene local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685216",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Okene local government"
+    }
+  },
+  {
+    "role_id": "Q59514579",
+    "role_name": {
+      "lang:en": "Chairman of Ona-Ara local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685217",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ona-Ara local government"
+    }
+  },
+  {
+    "role_id": "Q59514580",
+    "role_name": {
+      "lang:en": "Chairman of Ondo West local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685218",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ondo West local government"
+    }
+  },
+  {
+    "role_id": "Q59514581",
+    "role_name": {
+      "lang:en": "Chairman of Oredo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685220",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Oredo local government"
+    }
+  },
+  {
+    "role_id": "Q59514583",
+    "role_name": {
+      "lang:en": "Chairman of Oshodi-Isolo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685221",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Oshodi-Isolo local government"
+    }
+  },
+  {
+    "role_id": "Q59514584",
+    "role_name": {
+      "lang:en": "Chairman of Oturkpo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685222",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Oturkpo local government"
+    }
+  },
+  {
+    "role_id": "Q59514593",
+    "role_name": {
+      "lang:en": "Chairman of Port-Harcourt local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685225",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Port-Harcourt local government"
+    }
+  },
+  {
+    "role_id": "Q59514594",
+    "role_name": {
+      "lang:en": "Chairman of Sabon-Gari local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685228",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Sabon-Gari local government"
+    }
+  },
+  {
+    "role_id": "Q59514596",
+    "role_name": {
+      "lang:en": "Chairman of Saki West local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685229",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Saki West local government"
+    }
+  },
+  {
+    "role_id": "Q59514598",
+    "role_name": {
+      "lang:en": "Chairman of Shagamu local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685230",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Shagamu local government"
+    }
+  },
+  {
+    "role_id": "Q59514599",
+    "role_name": {
+      "lang:en": "Chairman of Shomolu local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685231",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Shomolu local government"
+    }
+  },
+  {
+    "role_id": "Q59514600",
+    "role_name": {
+      "lang:en": "Chairman of Soba local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685232",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Soba local government"
+    }
+  },
+  {
+    "role_id": "Q59514603",
+    "role_name": {
+      "lang:en": "Chairman of Southern Ijaw local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685233",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Southern Ijaw local government"
+    }
+  },
+  {
+    "role_id": "Q59514604",
+    "role_name": {
+      "lang:en": "Chairman of Sumaila local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685235",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Sumaila local government"
+    }
+  },
+  {
+    "role_id": "Q59514605",
+    "role_name": {
+      "lang:en": "Chairman of Surulere local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685236",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Surulere local government"
+    }
+  },
+  {
+    "role_id": "Q59514614",
+    "role_name": {
+      "lang:en": "Chairman of Toro local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685241",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Toro local government"
+    }
+  },
+  {
+    "role_id": "Q59514615",
+    "role_name": {
+      "lang:en": "Chairman of Tsafe local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685242",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Tsafe local government"
+    }
+  },
+  {
+    "role_id": "Q59514617",
+    "role_name": {
+      "lang:en": "Chairman of Ughelli North local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685243",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ughelli North local government"
+    }
+  },
+  {
+    "role_id": "Q59514619",
+    "role_name": {
+      "lang:en": "Chairman of Ungogo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685244",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Ungogo local government"
+    }
+  },
+  {
+    "role_id": "Q59514620",
+    "role_name": {
+      "lang:en": "Chairman of Uyo local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685245",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Uyo local government"
+    }
+  },
+  {
+    "role_id": "Q59514621",
+    "role_name": {
+      "lang:en": "Chairman of Warri South local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685247",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Warri South local government"
+    }
+  },
+  {
+    "role_id": "Q59514623",
+    "role_name": {
+      "lang:en": "Chairman of Wasagu/Danko local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685249",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Wasagu/Danko local government"
+    }
+  },
+  {
+    "role_id": "Q59514624",
+    "role_name": {
+      "lang:en": "Chairman of Yamaltu/Deba local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685250",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Yamaltu/Deba local government"
+    }
+  },
+  {
+    "role_id": "Q59514625",
+    "role_name": {
+      "lang:en": "Chairman of Yenegoa local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685252",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Yenegoa local government"
+    }
+  },
+  {
+    "role_id": "Q59514631",
+    "role_name": {
+      "lang:en": "Chairman of Zangon-Kataf local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685258",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Zangon-Kataf local government"
+    }
+  },
+  {
+    "role_id": "Q59514632",
+    "role_name": {
+      "lang:en": "Chairman of Zaria local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685260",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Zaria local government"
+    }
+  },
+  {
+    "role_id": "Q59514635",
+    "role_name": {
+      "lang:en": "Chairman of Zurmi local government"
+    },
+    "generic_role_id": "Q59512604",
+    "generic_role_name": {
+      "lang:en": "chair of local government"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q59685261",
+    "organization_name": {
+      "lang:en": "supervisory councillors of Zurmi local government"
+    }
+  },
+  {
     "role_id": "Q59528223",
     "role_name": {
       "lang:en": "member of the Abia State House of Assembly"
@@ -1181,6 +3101,1926 @@
     "organization_id": "Q59518875",
     "organization_name": {
       "lang:en": "Zamfara State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528664",
+    "role_name": {
+      "lang:en": "Councillor of Aba South"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523636",
+    "organization_name": {
+      "lang:en": "Aba South legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528666",
+    "role_name": {
+      "lang:en": "Councillor of Abeokuta South"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523637",
+    "organization_name": {
+      "lang:en": "Abeokuta South legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528668",
+    "role_name": {
+      "lang:en": "Councillor of Abua/Odual"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523638",
+    "organization_name": {
+      "lang:en": "Abua/Odual legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528670",
+    "role_name": {
+      "lang:en": "Councillor of Abuja Municipal (Amac)"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523640",
+    "organization_name": {
+      "lang:en": "Abuja Municipal (Amac) legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528671",
+    "role_name": {
+      "lang:en": "Councillor of Ado Ekiti"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523641",
+    "organization_name": {
+      "lang:en": "Ado Ekiti legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528673",
+    "role_name": {
+      "lang:en": "Councillor of Ado-Odo/Ota"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523642",
+    "organization_name": {
+      "lang:en": "Ado-Odo/Ota legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528675",
+    "role_name": {
+      "lang:en": "Councillor of Agege"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523643",
+    "organization_name": {
+      "lang:en": "Agege legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528677",
+    "role_name": {
+      "lang:en": "Councillor of Aguata"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523644",
+    "organization_name": {
+      "lang:en": "Aguata legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528678",
+    "role_name": {
+      "lang:en": "Councillor of Ajeromi-Ifelodun"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523645",
+    "organization_name": {
+      "lang:en": "Ajeromi-Ifelodun legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528686",
+    "role_name": {
+      "lang:en": "Councillor of Akko"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523652",
+    "organization_name": {
+      "lang:en": "Akko legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528687",
+    "role_name": {
+      "lang:en": "Councillor of Akoko-Edo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523653",
+    "organization_name": {
+      "lang:en": "Akoko-Edo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528689",
+    "role_name": {
+      "lang:en": "Councillor of Akpabuyo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523654",
+    "organization_name": {
+      "lang:en": "Akpabuyo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528691",
+    "role_name": {
+      "lang:en": "Councillor of Akure South"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523655",
+    "organization_name": {
+      "lang:en": "Akure South legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528692",
+    "role_name": {
+      "lang:en": "Councillor of Alimosho"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523656",
+    "organization_name": {
+      "lang:en": "Alimosho legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528693",
+    "role_name": {
+      "lang:en": "Councillor of Alkaleri"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523658",
+    "organization_name": {
+      "lang:en": "Alkaleri legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528696",
+    "role_name": {
+      "lang:en": "Councillor of Amuwo-Odofin"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523659",
+    "organization_name": {
+      "lang:en": "Amuwo-Odofin legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528698",
+    "role_name": {
+      "lang:en": "Councillor of Anaocha"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523660",
+    "organization_name": {
+      "lang:en": "Anaocha legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528700",
+    "role_name": {
+      "lang:en": "Councillor of Ankpa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523661",
+    "organization_name": {
+      "lang:en": "Ankpa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528708",
+    "role_name": {
+      "lang:en": "Councillor of Bama"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523668",
+    "organization_name": {
+      "lang:en": "Bama legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528710",
+    "role_name": {
+      "lang:en": "Councillor of Bauchi"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523669",
+    "organization_name": {
+      "lang:en": "Bauchi legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528711",
+    "role_name": {
+      "lang:en": "Councillor of Bichi"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523670",
+    "organization_name": {
+      "lang:en": "Bichi legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528712",
+    "role_name": {
+      "lang:en": "Councillor of Birnin Kebbi"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523671",
+    "organization_name": {
+      "lang:en": "Birnin Kebbi legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528714",
+    "role_name": {
+      "lang:en": "Councillor of Birnin Kudu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523673",
+    "organization_name": {
+      "lang:en": "Birnin Kudu legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528716",
+    "role_name": {
+      "lang:en": "Councillor of Birnin-Gwari"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523674",
+    "organization_name": {
+      "lang:en": "Birnin-Gwari legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528717",
+    "role_name": {
+      "lang:en": "Councillor of Bungudu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523675",
+    "organization_name": {
+      "lang:en": "Bungudu legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528720",
+    "role_name": {
+      "lang:en": "Councillor of Chikun"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523676",
+    "organization_name": {
+      "lang:en": "Chikun legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528721",
+    "role_name": {
+      "lang:en": "Councillor of Dala"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523678",
+    "organization_name": {
+      "lang:en": "Dala legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528729",
+    "role_name": {
+      "lang:en": "Councillor of Dekina"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523684",
+    "organization_name": {
+      "lang:en": "Dekina legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528731",
+    "role_name": {
+      "lang:en": "Councillor of Dutse"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523685",
+    "organization_name": {
+      "lang:en": "Dutse legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528733",
+    "role_name": {
+      "lang:en": "Councillor of Egbeda"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523686",
+    "organization_name": {
+      "lang:en": "Egbeda legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528735",
+    "role_name": {
+      "lang:en": "Councillor of Egor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523687",
+    "organization_name": {
+      "lang:en": "Egor legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528736",
+    "role_name": {
+      "lang:en": "Councillor of Ekeremor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523688",
+    "organization_name": {
+      "lang:en": "Ekeremor legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528738",
+    "role_name": {
+      "lang:en": "Councillor of Enugu East"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523689",
+    "organization_name": {
+      "lang:en": "Enugu East legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528739",
+    "role_name": {
+      "lang:en": "Councillor of Eti-Osa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523691",
+    "organization_name": {
+      "lang:en": "Eti-Osa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528742",
+    "role_name": {
+      "lang:en": "Councillor of Fune"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523692",
+    "organization_name": {
+      "lang:en": "Fune legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528744",
+    "role_name": {
+      "lang:en": "Councillor of Gamawa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523693",
+    "organization_name": {
+      "lang:en": "Gamawa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528752",
+    "role_name": {
+      "lang:en": "Councillor of Ganjuwa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523700",
+    "organization_name": {
+      "lang:en": "Ganjuwa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528753",
+    "role_name": {
+      "lang:en": "Councillor of Gboko"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523702",
+    "organization_name": {
+      "lang:en": "Gboko legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528756",
+    "role_name": {
+      "lang:en": "Councillor of Gezawa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523703",
+    "organization_name": {
+      "lang:en": "Gezawa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528758",
+    "role_name": {
+      "lang:en": "Councillor of Giwa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523704",
+    "organization_name": {
+      "lang:en": "Giwa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528759",
+    "role_name": {
+      "lang:en": "Councillor of Gombe"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523705",
+    "organization_name": {
+      "lang:en": "Gombe legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528760",
+    "role_name": {
+      "lang:en": "Councillor of Gusau"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523706",
+    "organization_name": {
+      "lang:en": "Gusau legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528762",
+    "role_name": {
+      "lang:en": "Councillor of Gwale"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523707",
+    "organization_name": {
+      "lang:en": "Gwale legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528764",
+    "role_name": {
+      "lang:en": "Councillor of Gwaram"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523708",
+    "organization_name": {
+      "lang:en": "Gwaram legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528766",
+    "role_name": {
+      "lang:en": "Councillor of Gwoza"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523709",
+    "organization_name": {
+      "lang:en": "Gwoza legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528773",
+    "role_name": {
+      "lang:en": "Councillor of Ibadan Central [Ibadan North East]"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523716",
+    "organization_name": {
+      "lang:en": "Ibadan Central [Ibadan North East] legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528774",
+    "role_name": {
+      "lang:en": "Councillor of Ibadan North"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523717",
+    "organization_name": {
+      "lang:en": "Ibadan North legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528777",
+    "role_name": {
+      "lang:en": "Councillor of Ibadan South East"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523718",
+    "organization_name": {
+      "lang:en": "Ibadan South East legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528778",
+    "role_name": {
+      "lang:en": "Councillor of Ibadan South West"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523719",
+    "organization_name": {
+      "lang:en": "Ibadan South West legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528780",
+    "role_name": {
+      "lang:en": "Councillor of Idemili North"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523721",
+    "organization_name": {
+      "lang:en": "Idemili North legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528781",
+    "role_name": {
+      "lang:en": "Councillor of Ifako-Ijaye"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523722",
+    "organization_name": {
+      "lang:en": "Ifako-Ijaye legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528782",
+    "role_name": {
+      "lang:en": "Councillor of Ifo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523723",
+    "organization_name": {
+      "lang:en": "Ifo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528785",
+    "role_name": {
+      "lang:en": "Councillor of Igabi"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523724",
+    "organization_name": {
+      "lang:en": "Igabi legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528786",
+    "role_name": {
+      "lang:en": "Councillor of Igbo-Eze North"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523726",
+    "organization_name": {
+      "lang:en": "Igbo-Eze North legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528794",
+    "role_name": {
+      "lang:en": "Councillor of Ihiala"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523734",
+    "organization_name": {
+      "lang:en": "Ihiala legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528795",
+    "role_name": {
+      "lang:en": "Councillor of Ijebu North"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523735",
+    "organization_name": {
+      "lang:en": "Ijebu North legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528797",
+    "role_name": {
+      "lang:en": "Councillor of Ikeja"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523736",
+    "organization_name": {
+      "lang:en": "Ikeja legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528798",
+    "role_name": {
+      "lang:en": "Councillor of Ikorodu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523737",
+    "organization_name": {
+      "lang:en": "Ikorodu legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528799",
+    "role_name": {
+      "lang:en": "Councillor of Ikpoba-Okha"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523738",
+    "organization_name": {
+      "lang:en": "Ikpoba-Okha legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528801",
+    "role_name": {
+      "lang:en": "Councillor of Ilaje"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523739",
+    "organization_name": {
+      "lang:en": "Ilaje legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528803",
+    "role_name": {
+      "lang:en": "Councillor of Ilorin West"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523740",
+    "organization_name": {
+      "lang:en": "Ilorin West legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528805",
+    "role_name": {
+      "lang:en": "Councillor of Iseyin"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523741",
+    "organization_name": {
+      "lang:en": "Iseyin legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528806",
+    "role_name": {
+      "lang:en": "Councillor of Jema'A"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523743",
+    "organization_name": {
+      "lang:en": "Jema'A legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528814",
+    "role_name": {
+      "lang:en": "Councillor of Jos North"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523747",
+    "organization_name": {
+      "lang:en": "Jos North legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528816",
+    "role_name": {
+      "lang:en": "Councillor of Jos South"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523749",
+    "organization_name": {
+      "lang:en": "Jos South legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528818",
+    "role_name": {
+      "lang:en": "Councillor of Kachia"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523751",
+    "organization_name": {
+      "lang:en": "Kachia legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528819",
+    "role_name": {
+      "lang:en": "Councillor of Kaduna North"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523752",
+    "organization_name": {
+      "lang:en": "Kaduna North legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528820",
+    "role_name": {
+      "lang:en": "Councillor of Kaduna South"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523753",
+    "organization_name": {
+      "lang:en": "Kaduna South legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528822",
+    "role_name": {
+      "lang:en": "Councillor of Kafin Hausa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523755",
+    "organization_name": {
+      "lang:en": "Kafin Hausa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528824",
+    "role_name": {
+      "lang:en": "Councillor of Kano Municipal"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523756",
+    "organization_name": {
+      "lang:en": "Kano Municipal legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528826",
+    "role_name": {
+      "lang:en": "Councillor of Katagum"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523758",
+    "organization_name": {
+      "lang:en": "Katagum legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528829",
+    "role_name": {
+      "lang:en": "Councillor of Katsina"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523759",
+    "organization_name": {
+      "lang:en": "Katsina legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528834",
+    "role_name": {
+      "lang:en": "Councillor of Kaura Namoda"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523765",
+    "organization_name": {
+      "lang:en": "Kaura Namoda legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528836",
+    "role_name": {
+      "lang:en": "Councillor of Khana"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523766",
+    "organization_name": {
+      "lang:en": "Khana legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528837",
+    "role_name": {
+      "lang:en": "Councillor of Kiru"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523768",
+    "organization_name": {
+      "lang:en": "Kiru legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528839",
+    "role_name": {
+      "lang:en": "Councillor of Kosofe"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523770",
+    "organization_name": {
+      "lang:en": "Kosofe legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528841",
+    "role_name": {
+      "lang:en": "Councillor of Kubau"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523772",
+    "organization_name": {
+      "lang:en": "Kubau legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528842",
+    "role_name": {
+      "lang:en": "Councillor of Kumbotso"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523773",
+    "organization_name": {
+      "lang:en": "Kumbotso legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528843",
+    "role_name": {
+      "lang:en": "Councillor of Lafia"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523775",
+    "organization_name": {
+      "lang:en": "Lafia legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528846",
+    "role_name": {
+      "lang:en": "Councillor of Lagos Mainland"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523776",
+    "organization_name": {
+      "lang:en": "Lagos Mainland legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528847",
+    "role_name": {
+      "lang:en": "Councillor of Lere"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523777",
+    "organization_name": {
+      "lang:en": "Lere legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528854",
+    "role_name": {
+      "lang:en": "Councillor of Maiduguri"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523785",
+    "organization_name": {
+      "lang:en": "Maiduguri legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528856",
+    "role_name": {
+      "lang:en": "Councillor of Makurdi"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523787",
+    "organization_name": {
+      "lang:en": "Makurdi legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528857",
+    "role_name": {
+      "lang:en": "Councillor of Mangu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523788",
+    "organization_name": {
+      "lang:en": "Mangu legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528859",
+    "role_name": {
+      "lang:en": "Councillor of Maru"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523789",
+    "organization_name": {
+      "lang:en": "Maru legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528861",
+    "role_name": {
+      "lang:en": "Councillor of Misau"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523791",
+    "organization_name": {
+      "lang:en": "Misau legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528862",
+    "role_name": {
+      "lang:en": "Councillor of Mushin"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523792",
+    "organization_name": {
+      "lang:en": "Mushin legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528863",
+    "role_name": {
+      "lang:en": "Councillor of Nasarawa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523793",
+    "organization_name": {
+      "lang:en": "Nasarawa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528866",
+    "role_name": {
+      "lang:en": "Councillor of Ningi"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523794",
+    "organization_name": {
+      "lang:en": "Ningi legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528867",
+    "role_name": {
+      "lang:en": "Councillor of Nsukka"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523795",
+    "organization_name": {
+      "lang:en": "Nsukka legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528876",
+    "role_name": {
+      "lang:en": "Councillor of Obia/Akpor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523803",
+    "organization_name": {
+      "lang:en": "Obia/Akpor legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528878",
+    "role_name": {
+      "lang:en": "councillor in Ogba/Egbema/Ndoni"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523804",
+    "organization_name": {
+      "lang:en": "Ogba/Egbema/Ndoni legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528879",
+    "role_name": {
+      "lang:en": "Councillor of Ojo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523806",
+    "organization_name": {
+      "lang:en": "Ojo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528882",
+    "role_name": {
+      "lang:en": "Councillor of Okene"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523807",
+    "organization_name": {
+      "lang:en": "Okene legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528883",
+    "role_name": {
+      "lang:en": "Councillor of Ona-Ara"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523808",
+    "organization_name": {
+      "lang:en": "Ona-Ara legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528885",
+    "role_name": {
+      "lang:en": "Councillor of Ondo West"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523809",
+    "organization_name": {
+      "lang:en": "Ondo West legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528887",
+    "role_name": {
+      "lang:en": "Councillor of Oredo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523811",
+    "organization_name": {
+      "lang:en": "Oredo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528889",
+    "role_name": {
+      "lang:en": "Councillor of Oshodi-Isolo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523812",
+    "organization_name": {
+      "lang:en": "Oshodi-Isolo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528891",
+    "role_name": {
+      "lang:en": "Councillor of Oturkpo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523813",
+    "organization_name": {
+      "lang:en": "Oturkpo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528897",
+    "role_name": {
+      "lang:en": "Councillor of Port-Harcourt"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523821",
+    "organization_name": {
+      "lang:en": "Port-Harcourt legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528900",
+    "role_name": {
+      "lang:en": "Councillor of Sabon-Gari"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523822",
+    "organization_name": {
+      "lang:en": "Sabon-Gari legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528901",
+    "role_name": {
+      "lang:en": "Councillor of Saki West"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523823",
+    "organization_name": {
+      "lang:en": "Saki West legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528902",
+    "role_name": {
+      "lang:en": "Councillor of Shagamu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523824",
+    "organization_name": {
+      "lang:en": "Shagamu legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528905",
+    "role_name": {
+      "lang:en": "Councillor of Shomolu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523825",
+    "organization_name": {
+      "lang:en": "Shomolu legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528906",
+    "role_name": {
+      "lang:en": "Councillor of Soba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523826",
+    "organization_name": {
+      "lang:en": "Soba legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528907",
+    "role_name": {
+      "lang:en": "Councillor of Southern Ijaw"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523827",
+    "organization_name": {
+      "lang:en": "Southern Ijaw legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528910",
+    "role_name": {
+      "lang:en": "Councillor of Sumaila"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523829",
+    "organization_name": {
+      "lang:en": "Sumaila legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528911",
+    "role_name": {
+      "lang:en": "Councillor of Surulere"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523831",
+    "organization_name": {
+      "lang:en": "Surulere legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528920",
+    "role_name": {
+      "lang:en": "Councillor of Toro"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523837",
+    "organization_name": {
+      "lang:en": "Toro legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528921",
+    "role_name": {
+      "lang:en": "Councillor of Tsafe"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523838",
+    "organization_name": {
+      "lang:en": "Tsafe legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528923",
+    "role_name": {
+      "lang:en": "Councillor of Ughelli North"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523840",
+    "organization_name": {
+      "lang:en": "Ughelli North legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528925",
+    "role_name": {
+      "lang:en": "Councillor of Ungogo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523842",
+    "organization_name": {
+      "lang:en": "Ungogo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528926",
+    "role_name": {
+      "lang:en": "Councillor of Uyo"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523844",
+    "organization_name": {
+      "lang:en": "Uyo legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528927",
+    "role_name": {
+      "lang:en": "Councillor of Warri South"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523845",
+    "organization_name": {
+      "lang:en": "Warri South legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528929",
+    "role_name": {
+      "lang:en": "Councillor of Wasagu/Danko"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523846",
+    "organization_name": {
+      "lang:en": "Wasagu/Danko legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528931",
+    "role_name": {
+      "lang:en": "Councillor of Yamaltu/Deba"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523847",
+    "organization_name": {
+      "lang:en": "Yamaltu/Deba legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528932",
+    "role_name": {
+      "lang:en": "Councillor of Yenegoa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523848",
+    "organization_name": {
+      "lang:en": "Yenegoa legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528939",
+    "role_name": {
+      "lang:en": "Councillor of Zangon-Kataf"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523857",
+    "organization_name": {
+      "lang:en": "Zangon-Kataf legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528940",
+    "role_name": {
+      "lang:en": "Councillor of Zaria"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523858",
+    "organization_name": {
+      "lang:en": "Zaria legislative council"
+    }
+  },
+  {
+    "role_id": "Q59528941",
+    "role_name": {
+      "lang:en": "Councillor of Zurmi"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q59523859",
+    "organization_name": {
+      "lang:en": "Zurmi legislative council"
     }
   },
   {

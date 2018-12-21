@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Yamaltu/Deba legislative council"
+      },
+      "id": "Q59523847",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523847"
+        }
+      ],
+      "area_id": "Q3510505",
+      "seat_counts": {
+        "Q59528931": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

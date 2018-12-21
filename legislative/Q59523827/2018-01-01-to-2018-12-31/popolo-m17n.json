@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Southern Ijaw legislative council"
+      },
+      "id": "Q59523827",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523827"
+        }
+      ],
+      "area_id": "Q11058325",
+      "seat_counts": {
+        "Q59528907": "17"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}
