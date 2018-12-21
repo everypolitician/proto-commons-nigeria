@@ -5,11 +5,640 @@
     "associations": [
       {
         "comment": "President of Nigera",
-	"position_item_id": "Q500282"
+        "position_item_id": "Q500282"
       }
     ],
     "name_columns": {
       "lang:en": "NAME_EN"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of abia state",
+        "position_item_id": "Q19671478"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ab",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of adamawa state",
+        "position_item_id": "Q19671527"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of akwa ibom state",
+        "position_item_id": "Q19671558"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ak",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of anambra state",
+        "position_item_id": "Q19671587"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:an",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of bauchi state",
+        "position_item_id": "Q19681521"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of bayelsa state",
+        "position_item_id": "Q19681529"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:by",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of benue state",
+        "position_item_id": "Q19670906"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:be",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of borno state",
+        "position_item_id": "Q19681536"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:bo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of cross river state",
+        "position_item_id": "Q53845430"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:cr",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of delta state",
+        "position_item_id": "Q19682774"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:de",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of ebonyi state",
+        "position_item_id": "Q19682827"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:eb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of edo state",
+        "position_item_id": "Q19682857"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ed",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of ekiti state",
+        "position_item_id": "Q53857743"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ek",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of enugu state",
+        "position_item_id": "Q53857940"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:en",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of gombe state",
+        "position_item_id": "Q53857981"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:go",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of imo state",
+        "position_item_id": "Q53857987"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:im",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of jigawa state",
+        "position_item_id": "Q53857995"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ji",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of kaduna state",
+        "position_item_id": "Q14915296"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kd",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of kano state",
+        "position_item_id": "Q53864915"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kn",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of katsina state",
+        "position_item_id": "Q53864950"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kt",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of kebbi state",
+        "position_item_id": "Q6572142"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ke",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of kogi state",
+        "position_item_id": "Q53865201"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ko",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of kwara state",
+        "position_item_id": "Q53865552"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:kw",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of niger state",
+        "position_item_id": "Q53866438"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ni",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of ogun state",
+        "position_item_id": "Q53869139"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:og",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of ondo state",
+        "position_item_id": "Q53869155"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:on",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of osun state",
+        "position_item_id": "Q53869191"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:os",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of oyo state",
+        "position_item_id": "Q13140661"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:oy",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of plateau state",
+        "position_item_id": "Q53869276"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:pl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of rivers state",
+        "position_item_id": "Q23020727"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ri",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of sokoto state",
+        "position_item_id": "Q53869292"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:so",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of taraba state",
+        "position_item_id": "Q53869373"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:ta",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of yobe state",
+        "position_item_id": "Q53869380"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:yo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of zamfara state",
+        "position_item_id": "Q53869387"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:za",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q3330995",
+    "associations": [
+      {
+        "comment": "honorable minister of the federal capital territory",
+        "position_item_id": "Q59514359"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/capital-territory:fc",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "lagos state governor",
+        "position_item_id": "Q19901457"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:la",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q465842",
+    "associations": [
+      {
+        "comment": "governor of nasarawa state",
+        "position_item_id": "Q53866357"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:ng/state:na",
+      "column": "MS_FB"
     }
   }
 ]
