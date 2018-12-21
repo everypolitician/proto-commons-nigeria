@@ -168,7 +168,8 @@
       "role_code": "Q19822359",
       "role": {
         "lang:en": "member of the Senate of Nigeria"
-      }
+      },
+      "term_id": "Q20311259"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q32946601-2962C2E5-D8B5-4CD2-8853-45CE42DAA51B",
@@ -197,7 +198,8 @@
       "role_code": "Q19822359",
       "role": {
         "lang:en": "member of the Senate of Nigeria"
-      }
+      },
+      "term_id": "Q20311259"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q4666120-C76BBF2E-0DAE-4C46-BA4D-9156ECF9BF5C",
@@ -226,7 +228,8 @@
       "role_code": "Q19822359",
       "role": {
         "lang:en": "member of the Senate of Nigeria"
-      }
+      },
+      "term_id": "Q20311259"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5576947-F80F8E8F-7848-4504-8138-46C76AC02F7B",
@@ -241,7 +244,8 @@
       "role_code": "Q19822359",
       "role": {
         "lang:en": "member of the Senate of Nigeria"
-      }
+      },
+      "term_id": "Q20311259"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7607111-722F963B-D6AE-4F80-A303-C3FA9F61B485",
@@ -256,7 +260,8 @@
       "role_code": "Q19822359",
       "role": {
         "lang:en": "member of the Senate of Nigeria"
-      }
+      },
+      "term_id": "Q20311259"
     }
   ]
 }
