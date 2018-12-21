@@ -989,5 +989,617 @@
       "match": "country:ng/state:kd",
       "column": "MS_FB_PARE"
     }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818516",
+    "associations": [
+      {
+        "comment": "member of the abia state house of assembly",
+        "position_item_id": "Q59528223"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ab",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818517",
+    "associations": [
+      {
+        "comment": "member of the adamawa state house of assembly",
+        "position_item_id": "Q59528225"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ad",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818518",
+    "associations": [
+      {
+        "comment": "member of the anambra state house of assembly",
+        "position_item_id": "Q59528228"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:an",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818519",
+    "associations": [
+      {
+        "comment": "member of the akwa ibom state house of assembly",
+        "position_item_id": "Q59528226"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ak",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818520",
+    "associations": [
+      {
+        "comment": "member of the bauchi state house of assembly",
+        "position_item_id": "Q59528229"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ba",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818521",
+    "associations": [
+      {
+        "comment": "member of the bayelsa state house of assembly",
+        "position_item_id": "Q59528231"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:by",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818522",
+    "associations": [
+      {
+        "comment": "member of the benue state house of assembly",
+        "position_item_id": "Q59528232"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:be",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818523",
+    "associations": [
+      {
+        "comment": "member of the borno state house of assembly",
+        "position_item_id": "Q59528233"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:bo",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818525",
+    "associations": [
+      {
+        "comment": "member of the cross river state house of assembly",
+        "position_item_id": "Q59528236"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:cr",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818528",
+    "associations": [
+      {
+        "comment": "member of the delta state house of assembly",
+        "position_item_id": "Q59528246"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:de",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818529",
+    "associations": [
+      {
+        "comment": "member of the ebonyi state house of assembly",
+        "position_item_id": "Q59528248"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:eb",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818530",
+    "associations": [
+      {
+        "comment": "member of the edo state house of assembly",
+        "position_item_id": "Q59528250"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ed",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818531",
+    "associations": [
+      {
+        "comment": "member of the ekiti state house of assembly",
+        "position_item_id": "Q59528322"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ek",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818533",
+    "associations": [
+      {
+        "comment": "member of the enugu state house of assembly",
+        "position_item_id": "Q59528323"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:en",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818534",
+    "associations": [
+      {
+        "comment": "member of the gombe state house of assembly",
+        "position_item_id": "Q59528324"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:go",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818536",
+    "associations": [
+      {
+        "comment": "member of the imo state house of assembly",
+        "position_item_id": "Q59528327"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:im",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818537",
+    "associations": [
+      {
+        "comment": "member of the jigawa state house of assembly",
+        "position_item_id": "Q59528329"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ji",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818538",
+    "associations": [
+      {
+        "comment": "member of the kaduna state house of assembly",
+        "position_item_id": "Q59528330"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:kd",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818543",
+    "associations": [
+      {
+        "comment": "member of the kano state house of assembly",
+        "position_item_id": "Q59528338"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:kn",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818545",
+    "associations": [
+      {
+        "comment": "member of the katsina state house of assembly",
+        "position_item_id": "Q59528341"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:kt",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818546",
+    "associations": [
+      {
+        "comment": "member of the kebbi state house of assembly",
+        "position_item_id": "Q59528342"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ke",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818547",
+    "associations": [
+      {
+        "comment": "member of the kogi state house of assembly",
+        "position_item_id": "Q59528343"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ko",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818548",
+    "associations": [
+      {
+        "comment": "member of the kwara state house of assembly",
+        "position_item_id": "Q59528344"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:kw",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818549",
+    "associations": [
+      {
+        "comment": "member of the lagos state house of assembly",
+        "position_item_id": "Q59528346"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:la",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818550",
+    "associations": [
+      {
+        "comment": "member of the nasarawa state house of assembly",
+        "position_item_id": "Q59528348"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:na",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818551",
+    "associations": [
+      {
+        "comment": "member of the niger state house of assembly",
+        "position_item_id": "Q59528349"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ni",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818553",
+    "associations": [
+      {
+        "comment": "member of the ogun state house of assembly",
+        "position_item_id": "Q59528350"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:og",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818558",
+    "associations": [
+      {
+        "comment": "member of the ondo state house of assembly",
+        "position_item_id": "Q59528360"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:on",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818559",
+    "associations": [
+      {
+        "comment": "member of the osun state house of assembly",
+        "position_item_id": "Q59528361"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:os",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818560",
+    "associations": [
+      {
+        "comment": "member of the oyo state house of assembly",
+        "position_item_id": "Q59528363"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:oy",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818561",
+    "associations": [
+      {
+        "comment": "member of the plateau state house of assembly",
+        "position_item_id": "Q59528364"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:pl",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818562",
+    "associations": [
+      {
+        "comment": "member of the rivers state house of assembly",
+        "position_item_id": "Q59528366"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ri",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818563",
+    "associations": [
+      {
+        "comment": "member of the sokoto state house of assembly",
+        "position_item_id": "Q59528368"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:so",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818564",
+    "associations": [
+      {
+        "comment": "member of the taraba state house of assembly",
+        "position_item_id": "Q59528369"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:ta",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818573",
+    "associations": [
+      {
+        "comment": "member of the yobe state house of assembly",
+        "position_item_id": "Q59528370"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:yo",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-constituencies-no-geoms",
+    "area_type_wikidata_item_id": "Q59818574",
+    "associations": [
+      {
+        "comment": "member of the zamfara state house of assembly",
+        "position_item_id": "Q59528373"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:ng/state:za",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
