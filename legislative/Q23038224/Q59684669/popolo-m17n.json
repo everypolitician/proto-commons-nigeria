@@ -22,7 +22,650 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:749"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko North East"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:750"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko North West I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:751"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko North West II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:752"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko South East"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:753"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko South West I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:754"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko South West II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:755"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akure North"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:756"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akure South I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:757"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akure South II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:758"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ese Odo"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:759"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Idanre"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:760"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ifedore"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:761"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilaje I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:762OD"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilaje II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:763"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ileoluji/Okeigbo"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:764"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Irele"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819705",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:765"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819705"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Odigbo I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:766"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Odigbo II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:767"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okitipupa I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:768"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okitipupa II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:769"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ondo East"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:770"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ondo West I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:771"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ondo West II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:772"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ese"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:773"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Owo I"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59819717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/state-assembly-constituency:774"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528360"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ondo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Owo II"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q836654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q836654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869155"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ondo State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

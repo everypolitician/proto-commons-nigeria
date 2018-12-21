@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q464953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q464953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53865552"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kwara State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:608"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Afon"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:609"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onire/Owode"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:610"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilesha/Gwanara"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:611"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okuta/Ayashkira"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:612"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lafiagi"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:613"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Patigi"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:614"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekiti"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:615"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oke-Ero"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:616"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Omupo"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:617"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Share/Oke-Ode"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:618"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilorin East"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:619"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilorin South"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:620"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilorin Central"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:621"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilorin North West"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:622"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Irepodun"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:623"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isin"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:624"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwanabe/Adena/Banni"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:625"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kaiama/Wajibe/Kemanji"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:626"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lanwa/Ejidongari"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:627"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oloru/Malete/Ipaiye"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:628"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Balogun/Ojumu"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:629"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shawo/Essa"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:630"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Odo-Ogun"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59819535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/state-assembly-constituency:631"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528344"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kwara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oke-Ogun"
+      },
+      "parent_id": "Q464953"
+    }
   ],
   "memberships": [
 

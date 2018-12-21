@@ -22,7 +22,788 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q19462013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:872"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19462013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gokana"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q20707358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:858"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20707358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ahoada East I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q503923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q23020727"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Rivers State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:857"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abua/Odual"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:859"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ahoada East II"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:860"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ahoada West"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:861"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akuku-Toru I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:862"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akuku-Toru II"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:863"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Andoni I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:864"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Asari-Toru I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:865"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Asari-Toru II"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:866"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bonny"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:867"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Degema"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:868"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Emohua"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:869"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Eleme"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:870"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etche I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:871"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etche II"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:873"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikwere I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:874"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Khana I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:875"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819856"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Khana II"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:876"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obio/Akpor I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:877"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obio/Akpor Ii"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:878"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "(ogba/Egbema/Ndoni) Onelga I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:879"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onelga II"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:880"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogu/Bolo"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:881"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okrika"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:882"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Omuma"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819867",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:883"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819867"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Opobo/Nkoro"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:884"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oyigbo"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:885"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Port-Harcourt I"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:886"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Port-Harcourt II"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:887"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Port-Harcourt III"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q59819872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/state-assembly-constituency:888"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528366"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rivers state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tai"
+      },
+      "parent_id": "Q503923"
+    }
   ],
   "memberships": [
 

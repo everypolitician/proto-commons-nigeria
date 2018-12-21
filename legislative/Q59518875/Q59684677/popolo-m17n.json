@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q145793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869387"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Zamfara State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:967"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "K/Namoda North"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:968"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "K/Namoda South"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:969"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Birnin Magaji"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:970"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zurmi East"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:971"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zurmi West"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:972"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shinkafi"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:973"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tsafe East"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:974"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tsafe West"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:975"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gusau I"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:976"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gusau II"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:977"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bungudu East"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:978"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bungudu West"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:979"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maru North"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:980"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maru South"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:981"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Anka"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:982"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "T/Mafara North"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:983"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "T/Mafara South"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:984"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bakura"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:985"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maradun I"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:986"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maradun II"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:987"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gummi I"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59819998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:988"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gummi II"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59820000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:989"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59820000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bukkuyum North"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59820001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/state-assembly-constituency:990"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59820001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528373"
+      ],
+      "type": {
+        "lang:en": "constituency of the Zamfara state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bukkuyum South"
+      },
+      "parent_id": "Q145793"
+    }
   ],
   "memberships": [
 

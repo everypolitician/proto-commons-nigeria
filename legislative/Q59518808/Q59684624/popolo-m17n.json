@@ -22,7 +22,719 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q429908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19670906"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Benue State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ado"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818889",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818889"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Agbatu"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Apa"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Buruku"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gboko I (east)"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gboko West"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Guma"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818895",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818895"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwer East"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwer West"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Katsina Ala East"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Katsina-Ala West"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Konshisha I (gaav)"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kwande East"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kwande West"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Logo"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Makurdi I (north)"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818909",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818909"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Makurdi South"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obi"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbadibo"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohimini"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oju"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okpokwu"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Otukpo"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Otukpo North East"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tarka"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ukum I (ngenev)"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ushongo"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Vandeikya I"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59818925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/state-assembly-constituency:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528232"
+      ],
+      "type": {
+        "lang:en": "constituency of the Benue state house of assembly"
+      },
+      "name": {
+        "lang:en": "Vandeikya II"
+      },
+      "parent_id": "Q429908"
+    }
   ],
   "memberships": [
 

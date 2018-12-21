@@ -22,7 +22,650 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:723"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abeokuta South I"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:724"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abeokuta South II"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:725"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Odeda Area"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:726"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abeokuta North"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:727"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obafemi/Owode"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:728"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ifo I"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:729"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ifo II"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:730"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ewekoro/Itori/Elere-Adubi"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:731"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ijebu North I (Ijebu-Igbo)"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:732"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ijebu North II (Ago-Iwoye/Oru/Awa)"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:733"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ijebu East Area"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:734"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogun Waterside (abigi/Ibiade/Iwopin/Oni)"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:735"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ijebu-Ode"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:736"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Odogbolu (Alekkun-Ifesowapo/Laporu)"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:737"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ijebu North East Ilugun-Alaro"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:738"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sagamu I Offin"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:739"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sagamu II Makun"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:740"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikenne (irepodun)"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:941"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Remo North (idarapo)"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:742"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Imeko-Afon"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:743"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Egbado North I"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:744"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Egbado North II"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819680",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:745"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819680"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Idiroko Ipokia"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:746"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Egbado South (ilaro/Owode)"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:747"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ado/Odo/Ota I"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59819684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/state-assembly-constituency:748"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528350"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ogun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ado-Odo/Ota II"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q836657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q836657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869139"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ogun State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

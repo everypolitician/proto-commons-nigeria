@@ -49,7 +49,627 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59818964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abi"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akamkpa I"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akamkpa II"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akpabuyo"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bakassi"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Biase"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Boki I"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Boki II"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bekwarra"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Calabar Municipal"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Calabar South I"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Calabar South II"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etung"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikom I"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikom II"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obanleku"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obubra I"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obubra II"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obudu"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Odukpani"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogoja"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yakurr I"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yakurr II"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yala I"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59818996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/state-assembly-constituency:242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528236"
+      ],
+      "type": {
+        "lang:en": "constituency of the Cross River state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yala II"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q739676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53845430"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Cross River State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
     {

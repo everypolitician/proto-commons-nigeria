@@ -22,7 +22,650 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q534917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q534917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857743"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ekiti State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:320"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ado I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:321"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ado II"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819108",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:322"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819108"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gbonyin"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:323"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Efon"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:324"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekiti East I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:325"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekiti East II"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:326"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekiti West I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:327"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekiti West II"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:328"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekiti South West I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:329"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekiti South West II"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:330"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Emure"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:331"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ido/Osi I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:332"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ido/Osi Ii"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:333"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ijero"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:334"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikere I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:335"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikere II"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:336"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikole I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:337"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikole II"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:338"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilejemeje"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:339"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Irepodun/Ifelodun I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:340"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Irepodun/Ifelodun Ii"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:341"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ise/Orun"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:342"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Moba I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:343"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Moba II"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:344"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oye I"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59819145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/state-assembly-constituency:345"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528322"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ekiti state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oye II"
+      },
+      "parent_id": "Q534917"
+    }
   ],
   "memberships": [
 

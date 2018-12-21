@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3817714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3817714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857940"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Enugu State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:346"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aniniri"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:347"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Awgu North"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:348"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Awgu South"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:349"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Enugu East I"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:350"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Enugu East II"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:351"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Enugu North"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:352"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Enugu South I"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:353"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Enugu South II"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:354"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ezeagu"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:355"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igbo-Etiti East"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:356"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igbo-Etiti West"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:357"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igbo-Eze North I"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:358"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igbo-Eze North II"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:359"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igbo-Eze South"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:360"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isi-Uzo"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:361"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nkanu East"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:362"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nkanu West"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:363"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nsukka East"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:364"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nsukka West"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:365"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oji River"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:366"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Udenu"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:367"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Udi North"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:368"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Udi South"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59819174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/state-assembly-constituency:369"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528323"
+      ],
+      "type": {
+        "lang:en": "constituency of the Enugu state house of assembly"
+      },
+      "name": {
+        "lang:en": "Uzo Uwani"
+      },
+      "parent_id": "Q3817714"
+    }
   ],
   "memberships": [
 

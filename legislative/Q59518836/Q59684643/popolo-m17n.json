@@ -22,7 +22,673 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:394"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aboh Mbaise"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:395"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ahiazu Mbaise"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:396"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ehime Mbano"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:397"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ezinihitte"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:398"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ideato North"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:399"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ideato South"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:400"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ihite/Uboma"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:401"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikeduru"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:402"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isiala Mbano"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:403"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isu"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:404"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mbaitoli"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:405"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ngor Okpala"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:406"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Njaba"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:407"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nwangele"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:408"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nkwerre"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:409"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obowo"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:410"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oguta"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:411"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohaji/Egbema"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:412"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okigwe"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:413"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onuimo"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:414"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Orlu"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:415"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Orsu"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:416"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oru East"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:417"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oru West"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:418"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Owerri Municipal"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:419"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Owerri North"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59819238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/state-assembly-constituency:420"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528327"
+      ],
+      "type": {
+        "lang:en": "constituency of the Imo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Owerri West"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q842939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q842939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857987"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Imo State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

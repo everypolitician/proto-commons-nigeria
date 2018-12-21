@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q506808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q506808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19682827"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ebonyi State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819040",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819040"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abakaliki North"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abakaliki South"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:274"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Afikpo North East"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:275"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Afikpo North West"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:276"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Afikpo South East"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Afikpo South West"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:278"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ebonyi North East"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:279"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ebonyi North West"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:280"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ezza North East"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:281"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ezza North West"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:282"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ezza South"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikwo North"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:284"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikwo South"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:285"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ishielu North"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:286"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ishielu South"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:287"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ivo"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:288"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Izzi East"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:289"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Izzi West"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:290"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohaozara East"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:291"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohaozara West"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:292"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onicha East"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:293"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onicha West"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:294"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohaukwu North"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59819069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/state-assembly-constituency:295"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528248"
+      ],
+      "type": {
+        "lang:en": "constituency of the Ebonyi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohaukwu South"
+      },
+      "parent_id": "Q506808"
+    }
   ],
   "memberships": [
 
