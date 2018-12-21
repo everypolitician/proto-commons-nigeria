@@ -22,7 +22,834 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:525"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bakori"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:526"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bakori II (tsiga)"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:527"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Batsari"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:528"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Baure"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:529"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bindawa"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:530"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Charanchi"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:531"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dandume"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:532"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Danja"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:533"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Danmusa"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819396",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:534"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819396"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Daura"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:535"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dutsi"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:536"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dutsin-Ma"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:537"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Faskari"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:538"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Funtua"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:539"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ingawa"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:540"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jibia"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:541"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kafur"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:542"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kaita"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:543"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kankara"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:544"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kankia"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:546"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Katsina"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:547"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kurfi"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:545"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kusada"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:548"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mai’adua"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:549"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Malumfashi East"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:550"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mani"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:552"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mashi"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:551"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Matazu"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:553"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Musawa"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:554"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rimi"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:555"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sabuwa"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:556"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Safana"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:557"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sandamu"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59819427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/state-assembly-constituency:558"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528341"
+      ],
+      "type": {
+        "lang:en": "constituency of the Katsina state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zango"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q657821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53864950"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Katsina State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

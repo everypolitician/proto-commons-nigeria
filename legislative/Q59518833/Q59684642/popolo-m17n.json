@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q376241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q376241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857981"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Gombe State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:370"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akko West"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:371"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akko Central"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:372"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akko North"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:373"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Balanga North"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:374"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Balanga South"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:375"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Billiri East"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:076GM"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Billiri West"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:377"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dukku North"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:378"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dukku South"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:379"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Funakaye North"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:380"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Funakaye South"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:381"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gombe North"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:382"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gombe South"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:383"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kaltungo West"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:384"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kaltungo East"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:385"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nafada North"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:386"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nafada South"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:387"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shongom"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:388"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Pero Chonge"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:389"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Deba"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:390"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yamaltu East"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:391"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yamaltu West"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:392"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kwami East"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59819206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/state-assembly-constituency:393"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gombe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kwami West"
+      },
+      "parent_id": "Q376241"
+    }
   ],
   "memberships": [
 

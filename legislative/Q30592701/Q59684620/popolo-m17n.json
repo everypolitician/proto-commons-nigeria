@@ -49,7 +49,650 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q424388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q424388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671558"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Akwa Ibom State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abak"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Eket"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Essien Udim"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Esit Eket/Ibeno"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etim Ekpo/Ika"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etinan"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibesikpo Asutan"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibiono Ibom"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikono"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikot Abasi/Eastern Obolo"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikot Ekpene/Obot Akara"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818784",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818784"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ini"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Itu"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mbo"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mkpat Enin"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nsit Atai"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nsit Ibom"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nsit Ubium"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okobo"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onna"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oron/Udung Uko"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oruk Anam"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ukanafun"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Uruan"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Urue Offong/Oruko"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59818804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/state-assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528226"
+      ],
+      "type": {
+        "lang:en": "constituency of the Akwa-Ibom state house of assembly"
+      },
+      "name": {
+        "lang:en": "Uyo"
+      },
+      "parent_id": "Q424388"
+    }
   ],
   "memberships": [
     {

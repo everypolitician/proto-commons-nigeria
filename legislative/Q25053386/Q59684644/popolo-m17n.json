@@ -22,7 +22,742 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:421"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Auyo"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:422"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Babura"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:423"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kanya"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:424"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Birnin Kudu"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:425"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Birniwa"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:426"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Buji"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:427"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dutse"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:428"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gagarawa"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:429"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Garki"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:430"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gumel"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:431"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Guri"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:432"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwaram"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:433"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Fagam"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:434"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwiwa"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:435"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Hadejia"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:436"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jahun"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:437"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "K/Hausa"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:438"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bulangu"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:439"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "K/Kasamma"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:440"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kaugama"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:441"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kazaure"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:442"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kiyawa"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:443"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maigatar"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:444"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "M/Madori"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:445"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Miga"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:446"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ringin"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:447"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Roni"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:448"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "S/Tankara"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:449"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Taura"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59819277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/state-assembly-constituency:450"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528329"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jigawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yankwashi"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q682691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857995"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Jigawa State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

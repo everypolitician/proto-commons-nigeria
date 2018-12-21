@@ -49,7 +49,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q532153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q532153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19681529"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bayelsa State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Brass I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Brass II"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Brass IIi"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818859",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818859"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nembe I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nembe II"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nembe IIi"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbia I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbia II"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbia IIi"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kolokuma/Opokuma I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kolokuma/Opokuma Ii"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yenagoa I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yenagoa II"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yenagoa IIi"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818875",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818875"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekeremor I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekeremor II"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818878",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818878"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekeremor IIi"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sagbama I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sagbama II"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sagbama IIi"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Southern Ijaw I"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Southern Ijaw II"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818886",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818886"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Southern Ijaw IIi"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59818887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/state-assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528231"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bayelsa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Southern Ijaw Iv"
+      },
+      "parent_id": "Q532153"
+    }
   ],
   "memberships": [
     {

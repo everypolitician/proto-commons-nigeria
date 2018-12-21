@@ -22,7 +22,765 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q503936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19681521"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bauchi State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Pali"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Duguri/Gwana"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kirfi"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bauchi"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zungur/Galambi"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dass"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lere/Bula"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bogoro"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jama’a/Toro"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Warji"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lame"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ningi"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Burra"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Chiroma"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818828",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818828"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Hardawa"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dambam/Dagauda/Jalam"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Darazo"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sade"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ganjuwa East"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ganjuwa West"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Katagum"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sakwa"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jama’are"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818842"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Itas/Gadau"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Disina"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shira"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Giade"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Azare"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Madara/Chinade"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Udubo"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59818854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/state-assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528229"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bauchi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gamawa"
+      },
+      "parent_id": "Q503936"
+    }
   ],
   "memberships": [
 

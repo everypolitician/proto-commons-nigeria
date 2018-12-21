@@ -22,7 +22,696 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q130626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19681536"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Borno State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Abadam"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Askira"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bama"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bayo"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Biu"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Chibok"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Damaboa"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dikwa"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gubio"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gulumba"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Guzamala"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818944",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818944"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwoza"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Hawul"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jere"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kaga"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kala Balge"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Konduga"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kukawa"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kwaya Kusar"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mafa"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818954",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818954"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Magumeri"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maiduguri M.C"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Marte"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mobbar"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Monguno"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ngala"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nganzai"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59818963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/state-assembly-constituency:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528233"
+      ],
+      "type": {
+        "lang:en": "constituency of the Borno state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shani"
+      },
+      "parent_id": "Q130626"
+    }
   ],
   "memberships": [
 

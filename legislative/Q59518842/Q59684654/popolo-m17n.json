@@ -22,7 +22,627 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q387745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q387745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53865201"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kogi State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:583"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Adavi"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:584"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ajaokuta"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:585"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ankpa I"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:586"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ankpa II"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:587"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bassa"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:588"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dekina/Biraidu"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:589"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okura"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:590"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibaji"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:591"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Idah"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:592"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igalamela-Odolu"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:593"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ijumu"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:594"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kabba/Bunu"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:595"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kogi (k.K)"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:596"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lokoja I"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:597"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lokoja II"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:598"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mopamuro"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819492",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:599"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819492"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ofu"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:600"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogori/Magongo"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:601"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okehi"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:602"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okene Town"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:603"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okene II (south)"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:604"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Olamaboro I"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:605"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Omala"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:606"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yagba East"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59819504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/state-assembly-constituency:607"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528343"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kogi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yagba West"
+      },
+      "parent_id": "Q387745"
+    }
   ],
   "memberships": [
 

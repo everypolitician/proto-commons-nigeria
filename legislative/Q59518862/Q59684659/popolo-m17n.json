@@ -22,7 +22,673 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q503932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53866438"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Niger State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:696"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Agaie"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:697"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Agwara"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:698"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bida I"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:699"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bida II"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:700"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Borgu"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:701"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bosso"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:702"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Chanchanga"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:703"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Edatti"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:704"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gbako"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:705"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gurara"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:706"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Katcha"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:707"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kontagora I"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:708"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kotangora II"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:709"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lapai"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:710"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lavun"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:711"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Magama"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:712"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mariga"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:713"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mashegu"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:714"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mokwa"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:715"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Munya"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:716"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Paikoro"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:717"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rafi"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:718"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rijau"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:719"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shiroro"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:720"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Suleja"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:721"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tapa"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59819652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/state-assembly-constituency:722"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528349"
+      ],
+      "type": {
+        "lang:en": "constituency of the Niger state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wushishi"
+      },
+      "parent_id": "Q503932"
+    }
   ],
   "memberships": [
 

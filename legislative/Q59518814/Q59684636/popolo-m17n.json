@@ -22,7 +22,719 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q503910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19682774"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Delta State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aniocha North"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aniocha South"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bomadi"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Burutu"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Burutu North"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ethiope East"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ethiope West"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ika North East"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ika South"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isoko North"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isoko South I"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isoko South II"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ndokwa East"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ndokwa West"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Okpe"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oshimili North"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oshimili South"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Patani"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sapele"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Udu"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ughelli North I"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ughelli North II"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ughelli South"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ukwuani"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Uvwie"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Warri North"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Warri South I"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Warri South II"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59819039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/state-assembly-constituency:271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528246"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delta state house of assembly"
+      },
+      "name": {
+        "lang:en": "Warri South-west"
+      },
+      "parent_id": "Q503910"
+    }
   ],
   "memberships": [
 
