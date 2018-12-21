@@ -54,6 +54,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -108,6 +117,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -164,6 +182,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -209,6 +236,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -256,6 +292,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -302,6 +347,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -347,6 +401,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -403,6 +466,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -448,6 +520,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -495,6 +576,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -540,6 +630,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -587,6 +686,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -632,6 +740,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -688,6 +805,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -743,6 +869,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -788,6 +923,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -835,6 +979,15 @@
           "type": "literal",
           "value": "Governor of Kaduna State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515416"
@@ -880,6 +1033,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Kaduna State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",

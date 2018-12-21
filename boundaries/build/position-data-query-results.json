@@ -18,6 +18,552 @@
       {
         "position": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13140661"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Oyo State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q503905"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Oyo State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28456798"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Oyo State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14915296"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Kaduna State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q878284"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kaduna State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515416"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Kaduna State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19670906"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Benue State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q429908"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Benue State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515396"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Benue State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19671478"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Abia State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q320852"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Abia State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25053998"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Abia State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19671527"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Adamawa State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q337514"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adamawa State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515393"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Adamawa State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19671558"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Akwa Ibom State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q424388"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Akwa Ibom State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30674557"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Akwa Ibom Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19671587"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Anambra State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117714"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anambra State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28456805"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anambra State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19681521"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Bauchi State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q503936"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bauchi State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515395"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Bauchi State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19681529"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Bayelsa State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q532153"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bayelsa State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48816546"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Bayelsa State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19681536"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Borno State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130626"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Borno State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515397"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Borno State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19682774"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Delta State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q503910"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Delta State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30674575"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Delta State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19682827"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Ebonyi State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q506808"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ebonyi State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30589469"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ebonyi State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19682857"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Edo State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682704"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edo State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515400"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Edo State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q19822359"
         },
         "position_name_en": {
@@ -64,6 +610,48 @@
       {
         "position": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19901457"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lagos State Governor"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q815913"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lagos"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28456790"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lagos State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q21290864"
         },
         "position_name_en": {
@@ -105,6 +693,48 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "House of Representatives of Nigeria"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23020727"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Rivers State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q503923"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rivers State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25052309"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Rivers State"
         }
       },
       {
@@ -189,6 +819,846 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Cabinet of Nigeria"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53845430"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Cross River State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q739676"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cross River State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48816666"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Cross River State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53857743"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Ekiti State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q534917"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ekiti State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515401"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Ekiti State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53857940"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Enugu State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3817714"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Enugu State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515403"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Enugu State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53857981"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Gombe State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q376241"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gombe State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515404"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Gombe State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53857987"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Imo State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q842939"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Imo State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48816766"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Imo State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53857995"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Jigawa State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682691"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jigawa State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515405"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Jigawa State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53864915"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Kano State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682571"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kano State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48816769"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Kano State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53864950"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Katsina State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q657821"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Katsina State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30674611"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Katsina State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53865201"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Kogi State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q387745"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kogi State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515417"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Kogi State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53865552"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Kwara State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q464953"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kwara State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30674589"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kwara State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53866357"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Nasarawa State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q836645"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nasarawa State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28456809"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nasarawa State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53866438"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Niger State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q503932"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Niger State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515418"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Niger State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869139"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Ogun State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q836657"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ogun State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48816849"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Ogun State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869155"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Ondo State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q836654"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ondo State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515420"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Ondo State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869191"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Osun State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682721"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Osun State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28456804"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Osun State Executive Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869276"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Plateau State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q503928"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Plateau State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515421"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Plateau State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869292"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Sokoto State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q503941"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sokoto State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515422"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Sokoto State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869373"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Taraba State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q463959"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taraba State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48817777"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Taraba State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869380"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Yobe State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682777"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yobe State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515424"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Yobe State"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53869387"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Zamfara State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q145793"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zamfara State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59515426"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "executive council of Zamfara State"
         }
       },
       {
@@ -1845,6 +3315,48 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Zamfara State House of Assembly"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6572142"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governor of Kebbi State"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q748523"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kebbi State"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55611262"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Council of Kebbi State"
         }
       }
     ]

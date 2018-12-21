@@ -1,5 +1,213 @@
 [
   {
+    "role_id": "Q13140661",
+    "role_name": {
+      "lang:en": "Governor of Oyo State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q28456798",
+    "organization_name": {
+      "lang:en": "Oyo State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q14915296",
+    "role_name": {
+      "lang:en": "Governor of Kaduna State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515416",
+    "organization_name": {
+      "lang:en": "executive council of Kaduna State"
+    }
+  },
+  {
+    "role_id": "Q19670906",
+    "role_name": {
+      "lang:en": "Governor of Benue State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515396",
+    "organization_name": {
+      "lang:en": "executive council of Benue State"
+    }
+  },
+  {
+    "role_id": "Q19671478",
+    "role_name": {
+      "lang:en": "Governor of Abia State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q25053998",
+    "organization_name": {
+      "lang:en": "Executive Council of Abia State"
+    }
+  },
+  {
+    "role_id": "Q19671527",
+    "role_name": {
+      "lang:en": "Governor of Adamawa State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515393",
+    "organization_name": {
+      "lang:en": "executive council of Adamawa State"
+    }
+  },
+  {
+    "role_id": "Q19671558",
+    "role_name": {
+      "lang:en": "Governor of Akwa Ibom State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q30674557",
+    "organization_name": {
+      "lang:en": "Akwa Ibom Executive Council"
+    }
+  },
+  {
+    "role_id": "Q19671587",
+    "role_name": {
+      "lang:en": "Governor of Anambra State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q28456805",
+    "organization_name": {
+      "lang:en": "Anambra State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q19681521",
+    "role_name": {
+      "lang:en": "Governor of Bauchi State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515395",
+    "organization_name": {
+      "lang:en": "executive council of Bauchi State"
+    }
+  },
+  {
+    "role_id": "Q19681529",
+    "role_name": {
+      "lang:en": "Governor of Bayelsa State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q48816546",
+    "organization_name": {
+      "lang:en": "Executive Council of Bayelsa State"
+    }
+  },
+  {
+    "role_id": "Q19681536",
+    "role_name": {
+      "lang:en": "Governor of Borno State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515397",
+    "organization_name": {
+      "lang:en": "executive council of Borno State"
+    }
+  },
+  {
+    "role_id": "Q19682774",
+    "role_name": {
+      "lang:en": "Governor of Delta State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q30674575",
+    "organization_name": {
+      "lang:en": "Delta State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q19682827",
+    "role_name": {
+      "lang:en": "Governor of Ebonyi State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q30589469",
+    "organization_name": {
+      "lang:en": "Ebonyi State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q19682857",
+    "role_name": {
+      "lang:en": "Governor of Edo State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515400",
+    "organization_name": {
+      "lang:en": "executive council of Edo State"
+    }
+  },
+  {
     "role_id": "Q19822359",
     "role_name": {
       "lang:en": "member of the Senate of Nigeria"
@@ -13,6 +221,22 @@
     "organization_id": "Q2993611",
     "organization_name": {
       "lang:en": "Senate of Nigeria"
+    }
+  },
+  {
+    "role_id": "Q19901457",
+    "role_name": {
+      "lang:en": "Lagos State Governor"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q28456790",
+    "organization_name": {
+      "lang:en": "Lagos State Executive Council"
     }
   },
   {
@@ -32,6 +256,22 @@
     }
   },
   {
+    "role_id": "Q23020727",
+    "role_name": {
+      "lang:en": "Governor of Rivers State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q25052309",
+    "organization_name": {
+      "lang:en": "Executive Council of Rivers State"
+    }
+  },
+  {
     "role_id": "Q500282",
     "role_name": {
       "lang:en": "President of Nigeria"
@@ -45,6 +285,326 @@
     "organization_id": "Q5015542",
     "organization_name": {
       "lang:en": "Cabinet of Nigeria"
+    }
+  },
+  {
+    "role_id": "Q53845430",
+    "role_name": {
+      "lang:en": "Governor of Cross River State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q48816666",
+    "organization_name": {
+      "lang:en": "Executive Council of Cross River State"
+    }
+  },
+  {
+    "role_id": "Q53857743",
+    "role_name": {
+      "lang:en": "Governor of Ekiti State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515401",
+    "organization_name": {
+      "lang:en": "executive council of Ekiti State"
+    }
+  },
+  {
+    "role_id": "Q53857940",
+    "role_name": {
+      "lang:en": "Governor of Enugu State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515403",
+    "organization_name": {
+      "lang:en": "executive council of Enugu State"
+    }
+  },
+  {
+    "role_id": "Q53857981",
+    "role_name": {
+      "lang:en": "Governor of Gombe State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515404",
+    "organization_name": {
+      "lang:en": "executive council of Gombe State"
+    }
+  },
+  {
+    "role_id": "Q53857987",
+    "role_name": {
+      "lang:en": "Governor of Imo State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q48816766",
+    "organization_name": {
+      "lang:en": "Executive Council of Imo State"
+    }
+  },
+  {
+    "role_id": "Q53857995",
+    "role_name": {
+      "lang:en": "Governor of Jigawa State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515405",
+    "organization_name": {
+      "lang:en": "executive council of Jigawa State"
+    }
+  },
+  {
+    "role_id": "Q53864915",
+    "role_name": {
+      "lang:en": "Governor of Kano State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q48816769",
+    "organization_name": {
+      "lang:en": "Executive Council of Kano State"
+    }
+  },
+  {
+    "role_id": "Q53864950",
+    "role_name": {
+      "lang:en": "Governor of Katsina State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q30674611",
+    "organization_name": {
+      "lang:en": "Katsina State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q53865201",
+    "role_name": {
+      "lang:en": "Governor of Kogi State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515417",
+    "organization_name": {
+      "lang:en": "executive council of Kogi State"
+    }
+  },
+  {
+    "role_id": "Q53865552",
+    "role_name": {
+      "lang:en": "Governor of Kwara State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q30674589",
+    "organization_name": {
+      "lang:en": "Kwara State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q53866357",
+    "role_name": {
+      "lang:en": "Governor of Nasarawa State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q28456809",
+    "organization_name": {
+      "lang:en": "Nasarawa State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q53866438",
+    "role_name": {
+      "lang:en": "Governor of Niger State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515418",
+    "organization_name": {
+      "lang:en": "executive council of Niger State"
+    }
+  },
+  {
+    "role_id": "Q53869139",
+    "role_name": {
+      "lang:en": "Governor of Ogun State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q48816849",
+    "organization_name": {
+      "lang:en": "Executive Council of Ogun State"
+    }
+  },
+  {
+    "role_id": "Q53869155",
+    "role_name": {
+      "lang:en": "Governor of Ondo State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515420",
+    "organization_name": {
+      "lang:en": "executive council of Ondo State"
+    }
+  },
+  {
+    "role_id": "Q53869191",
+    "role_name": {
+      "lang:en": "Governor of Osun State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q28456804",
+    "organization_name": {
+      "lang:en": "Osun State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q53869276",
+    "role_name": {
+      "lang:en": "Governor of Plateau State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515421",
+    "organization_name": {
+      "lang:en": "executive council of Plateau State"
+    }
+  },
+  {
+    "role_id": "Q53869292",
+    "role_name": {
+      "lang:en": "Governor of Sokoto State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515422",
+    "organization_name": {
+      "lang:en": "executive council of Sokoto State"
+    }
+  },
+  {
+    "role_id": "Q53869373",
+    "role_name": {
+      "lang:en": "Governor of Taraba State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q48817777",
+    "organization_name": {
+      "lang:en": "Executive Council of Taraba State"
+    }
+  },
+  {
+    "role_id": "Q53869380",
+    "role_name": {
+      "lang:en": "Governor of Yobe State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515424",
+    "organization_name": {
+      "lang:en": "executive council of Yobe State"
+    }
+  },
+  {
+    "role_id": "Q53869387",
+    "role_name": {
+      "lang:en": "Governor of Zamfara State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59515426",
+    "organization_name": {
+      "lang:en": "executive council of Zamfara State"
     }
   },
   {
@@ -621,6 +1181,22 @@
     "organization_id": "Q59518875",
     "organization_name": {
       "lang:en": "Zamfara State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q6572142",
+    "role_name": {
+      "lang:en": "Governor of Kebbi State"
+    },
+    "generic_role_id": "Q56284759",
+    "generic_role_name": {
+      "lang:en": "governor of a Nigerian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55611262",
+    "organization_name": {
+      "lang:en": "Executive Council of Kebbi State"
     }
   }
 ]

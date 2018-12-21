@@ -213,6 +213,10 @@
       "person_id": "Q26897264",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -224,6 +228,10 @@
       "on_behalf_of_id": "Q2649119",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -235,6 +243,10 @@
       "on_behalf_of_id": "Q4729266",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -245,6 +257,10 @@
       "person_id": "Q4773221",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -255,6 +271,10 @@
       "person_id": "Q4773627",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -266,6 +286,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -277,6 +301,10 @@
       "on_behalf_of_id": "Q2649119",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -287,6 +315,10 @@
       "person_id": "Q6524226",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -298,6 +330,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -309,6 +345,10 @@
       "on_behalf_of_id": "Q343617",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"
@@ -319,6 +359,10 @@
       "person_id": "Q7782278",
       "organization_id": "Q28456804",
       "area_id": "Q682721",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869191",
       "role": {
         "lang:en": "Governor of Osun State"

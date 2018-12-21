@@ -56,6 +56,10 @@
       "organization_id": "Q48816546",
       "area_id": "Q532153",
       "start_date": "2012-02-14",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19681529",
       "role": {
         "lang:en": "Governor of Bayelsa State"

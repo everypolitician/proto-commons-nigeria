@@ -231,6 +231,10 @@
       "on_behalf_of_id": "Q6978037",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -241,6 +245,10 @@
       "person_id": "Q13140713",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -251,6 +259,10 @@
       "person_id": "Q13140755",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -261,6 +273,10 @@
       "person_id": "Q17721981",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -272,6 +288,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -282,6 +302,10 @@
       "person_id": "Q4670502",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -292,6 +316,10 @@
       "person_id": "Q4695671",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -303,6 +331,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -314,6 +346,10 @@
       "on_behalf_of_id": "Q4729266",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -324,6 +360,10 @@
       "person_id": "Q5606794",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -334,6 +374,10 @@
       "person_id": "Q6142964",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
@@ -345,6 +389,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515393",
       "area_id": "Q337514",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671527",
       "role": {
         "lang:en": "Governor of Adamawa State"
