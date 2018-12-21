@@ -5,17 +5,6 @@ WARNING: Position member of the Jigawa State House of Assembly (Q59528329) not i
 WARNING: Position member of the Anambra State House of Assembly (Q59528228) not in boundary associated_wikidata_positions
 WARNING: the district Oyi (Q59818764) wasn't found in the boundary data for position member of the Anambra State House of Assembly (Q59528228)
 WARNING: Position member of the Ogun State House of Assembly (Q59528350) not in boundary associated_wikidata_positions
-WARNING: Position member of the Senate of Nigeria (Q19822359) not in boundary associated_wikidata_positions
-WARNING: the district Adamawa North (Q59678317) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Adamawa North (Q59678317) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Abia Central (Q59678314) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Abia Central (Q59678314) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Osun East (Q59678440) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Osun East (Q59678440) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Akwa Ibom North-West (Q59678321) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Akwa Ibom North-West (Q59678321) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Anambra North (Q59678326) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
-WARNING: the district Anambra North (Q59678326) wasn't found in the boundary data for position member of the Senate of Nigeria (Q19822359)
 WARNING: Position member of the Akwa Ibom State House of Assembly (Q59528226) not in boundary associated_wikidata_positions
 WARNING: the district Nsit Ubium (Q59818791) wasn't found in the boundary data for position member of the Akwa Ibom State House of Assembly (Q59528226)
 WARNING: Position member of the Adamawa State House of Assembly (Q59528225) not in boundary associated_wikidata_positions
