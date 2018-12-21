@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Eti-Osa legislative council"
+      },
+      "id": "Q59523691",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523691"
+        }
+      ],
+      "area_id": "Q5404527",
+      "seat_counts": {
+        "Q59528739": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

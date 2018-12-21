@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Igbo-Eze North legislative council"
+      },
+      "id": "Q59523726",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523726"
+        }
+      ],
+      "area_id": "Q5991578",
+      "seat_counts": {
+        "Q59528786": "20"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

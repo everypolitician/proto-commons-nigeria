@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ihiala legislative council"
+      },
+      "id": "Q59523734",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523734"
+        }
+      ],
+      "area_id": "Q3056230",
+      "seat_counts": {
+        "Q59528794": "20"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

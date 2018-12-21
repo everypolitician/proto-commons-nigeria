@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ajeromi-Ifelodun legislative council"
+      },
+      "id": "Q59523645",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523645"
+        }
+      ],
+      "area_id": "Q3509013",
+      "seat_counts": {
+        "Q59528678": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

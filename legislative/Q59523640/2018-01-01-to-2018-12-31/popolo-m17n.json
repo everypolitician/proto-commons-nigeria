@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Abuja Municipal (Amac) legislative council"
+      },
+      "id": "Q59523640",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523640"
+        }
+      ],
+      "area_id": "Q28468899",
+      "seat_counts": {
+        "Q59528670": "12"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

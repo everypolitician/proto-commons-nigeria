@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Port-Harcourt legislative council"
+      },
+      "id": "Q59523821",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523821"
+        }
+      ],
+      "area_id": "Q20614811",
+      "seat_counts": {
+        "Q59528897": "20"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

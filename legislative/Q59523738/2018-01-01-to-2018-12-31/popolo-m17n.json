@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ikpoba-Okha legislative council"
+      },
+      "id": "Q59523738",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523738"
+        }
+      ],
+      "area_id": "Q5996228",
+      "seat_counts": {
+        "Q59528799": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

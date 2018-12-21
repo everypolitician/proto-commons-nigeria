@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Mangu legislative council"
+      },
+      "id": "Q59523788",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523788"
+        }
+      ],
+      "area_id": "Q6749158",
+      "seat_counts": {
+        "Q59528857": "16"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

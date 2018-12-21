@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Akpabuyo legislative council"
+      },
+      "id": "Q59523654",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523654"
+        }
+      ],
+      "area_id": "Q4701571",
+      "seat_counts": {
+        "Q59528689": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

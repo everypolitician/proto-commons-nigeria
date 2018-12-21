@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Zangon-Kataf legislative council"
+      },
+      "id": "Q59523857",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523857"
+        }
+      ],
+      "area_id": "Q8066201",
+      "seat_counts": {
+        "Q59528939": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Sabon-Gari legislative council"
+      },
+      "id": "Q59523822",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523822"
+        }
+      ],
+      "area_id": "Q7396283",
+      "seat_counts": {
+        "Q59528900": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

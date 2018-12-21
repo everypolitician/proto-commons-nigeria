@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Birnin Kudu legislative council"
+      },
+      "id": "Q59523673",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523673"
+        }
+      ],
+      "area_id": "Q4916902",
+      "seat_counts": {
+        "Q59528714": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

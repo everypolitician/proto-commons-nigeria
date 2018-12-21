@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Birnin-Gwari legislative council"
+      },
+      "id": "Q59523674",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523674"
+        }
+      ],
+      "area_id": "Q13140400",
+      "seat_counts": {
+        "Q59528716": "11"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Bama legislative council"
+      },
+      "id": "Q59523668",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59523668"
+        }
+      ],
+      "area_id": "Q3331583",
+      "seat_counts": {
+        "Q59528708": "14"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}
