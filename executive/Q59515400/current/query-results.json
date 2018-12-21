@@ -63,6 +63,15 @@
           "type": "literal",
           "value": "Governor of Edo State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515400"
@@ -117,6 +126,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Edo State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -173,6 +191,15 @@
           "type": "literal",
           "value": "Governor of Edo State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515400"
@@ -228,6 +255,15 @@
           "type": "literal",
           "value": "Governor of Edo State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515400"
@@ -273,6 +309,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Edo State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -320,6 +365,15 @@
           "type": "literal",
           "value": "Governor of Edo State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515400"
@@ -365,6 +419,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Edo State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -421,6 +484,15 @@
           "type": "literal",
           "value": "Governor of Edo State"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59515400"
@@ -466,6 +538,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Edo State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",
@@ -521,6 +602,15 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Governor of Edo State"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
         },
         "org": {
           "type": "uri",

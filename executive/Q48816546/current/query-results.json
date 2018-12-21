@@ -68,6 +68,15 @@
           "type": "literal",
           "value": "2012-02-14T00:00:00Z"
         },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56284759"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "governor of a Nigerian state"
+        },
         "org": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q48816546"
