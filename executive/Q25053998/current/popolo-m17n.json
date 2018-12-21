@@ -174,6 +174,10 @@
       "person_id": "Q13140865",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -184,6 +188,10 @@
       "person_id": "Q13655513",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -195,6 +203,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -206,6 +218,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -216,6 +232,10 @@
       "person_id": "Q4773221",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -226,6 +246,10 @@
       "person_id": "Q5101386",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -236,6 +260,10 @@
       "person_id": "Q5484963",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -246,6 +274,10 @@
       "person_id": "Q6915780",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"
@@ -257,6 +289,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q25053998",
       "area_id": "Q320852",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671478",
       "role": {
         "lang:en": "Governor of Abia State"

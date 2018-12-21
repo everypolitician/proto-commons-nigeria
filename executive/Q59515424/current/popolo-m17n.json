@@ -145,6 +145,10 @@
       "on_behalf_of_id": "Q1432251",
       "organization_id": "Q59515424",
       "area_id": "Q682777",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869380",
       "role": {
         "lang:en": "Governor of Yobe State"
@@ -155,6 +159,10 @@
       "person_id": "Q5207522",
       "organization_id": "Q59515424",
       "area_id": "Q682777",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869380",
       "role": {
         "lang:en": "Governor of Yobe State"
@@ -166,6 +174,10 @@
       "on_behalf_of_id": "Q1432251",
       "organization_id": "Q59515424",
       "area_id": "Q682777",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869380",
       "role": {
         "lang:en": "Governor of Yobe State"
@@ -176,6 +188,10 @@
       "person_id": "Q6221489",
       "organization_id": "Q59515424",
       "area_id": "Q682777",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869380",
       "role": {
         "lang:en": "Governor of Yobe State"
@@ -187,6 +203,10 @@
       "on_behalf_of_id": "Q1432251",
       "organization_id": "Q59515424",
       "area_id": "Q682777",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869380",
       "role": {
         "lang:en": "Governor of Yobe State"
@@ -197,6 +217,10 @@
       "person_id": "Q6939945",
       "organization_id": "Q59515424",
       "area_id": "Q682777",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869380",
       "role": {
         "lang:en": "Governor of Yobe State"
@@ -207,6 +231,10 @@
       "person_id": "Q7418254",
       "organization_id": "Q59515424",
       "area_id": "Q682777",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869380",
       "role": {
         "lang:en": "Governor of Yobe State"

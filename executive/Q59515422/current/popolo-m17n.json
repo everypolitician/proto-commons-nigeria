@@ -305,6 +305,10 @@
       "person_id": "Q4666128",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -315,6 +319,10 @@
       "person_id": "Q4695941",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -326,6 +334,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -337,6 +349,10 @@
       "on_behalf_of_id": "Q1432251",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -347,6 +363,10 @@
       "person_id": "Q4866857",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -357,6 +377,10 @@
       "person_id": "Q5516410",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -367,6 +391,10 @@
       "person_id": "Q5521965",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -377,6 +405,10 @@
       "person_id": "Q5521967",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -388,6 +420,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -399,6 +435,10 @@
       "on_behalf_of_id": "Q6974818",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -409,6 +449,10 @@
       "person_id": "Q7294836",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -419,6 +463,10 @@
       "person_id": "Q7377879",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -430,6 +478,10 @@
       "on_behalf_of_id": "Q6974818",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -440,6 +492,10 @@
       "person_id": "Q7881174",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -450,6 +506,10 @@
       "person_id": "Q7902046",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -461,6 +521,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"
@@ -471,6 +535,10 @@
       "person_id": "Q8047225",
       "organization_id": "Q59515422",
       "area_id": "Q503941",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869292",
       "role": {
         "lang:en": "Governor of Sokoto State"

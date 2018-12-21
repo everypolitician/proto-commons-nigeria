@@ -159,6 +159,10 @@
       "person_id": "Q13628228",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"
@@ -170,6 +174,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"
@@ -180,6 +188,10 @@
       "person_id": "Q3510732",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"
@@ -191,6 +203,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"
@@ -201,6 +217,10 @@
       "person_id": "Q5004746",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"
@@ -212,6 +232,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"
@@ -222,6 +246,10 @@
       "person_id": "Q5219982",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"
@@ -232,6 +260,10 @@
       "person_id": "Q7152825",
       "organization_id": "Q59515417",
       "area_id": "Q387745",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53865201",
       "role": {
         "lang:en": "Governor of Kogi State"

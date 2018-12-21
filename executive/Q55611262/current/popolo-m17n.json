@@ -144,6 +144,10 @@
       "person_id": "Q13140838",
       "organization_id": "Q55611262",
       "area_id": "Q748523",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q6572142",
       "role": {
         "lang:en": "Governor of Kebbi State"
@@ -155,6 +159,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q55611262",
       "area_id": "Q748523",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q6572142",
       "role": {
         "lang:en": "Governor of Kebbi State"
@@ -166,6 +174,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q55611262",
       "area_id": "Q748523",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q6572142",
       "role": {
         "lang:en": "Governor of Kebbi State"
@@ -176,6 +188,10 @@
       "person_id": "Q6261545",
       "organization_id": "Q55611262",
       "area_id": "Q748523",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q6572142",
       "role": {
         "lang:en": "Governor of Kebbi State"
@@ -186,6 +202,10 @@
       "person_id": "Q7146067",
       "organization_id": "Q55611262",
       "area_id": "Q748523",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q6572142",
       "role": {
         "lang:en": "Governor of Kebbi State"
@@ -196,6 +216,10 @@
       "person_id": "Q7404523",
       "organization_id": "Q55611262",
       "area_id": "Q748523",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q6572142",
       "role": {
         "lang:en": "Governor of Kebbi State"
@@ -207,6 +231,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q55611262",
       "area_id": "Q748523",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q6572142",
       "role": {
         "lang:en": "Governor of Kebbi State"

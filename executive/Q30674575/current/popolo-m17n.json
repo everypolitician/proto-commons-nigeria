@@ -146,6 +146,10 @@
       "person_id": "Q13140715",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"
@@ -156,6 +160,10 @@
       "person_id": "Q3339484",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"
@@ -166,6 +174,10 @@
       "person_id": "Q4868128",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"
@@ -176,6 +188,10 @@
       "person_id": "Q5442241",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"
@@ -186,6 +202,10 @@
       "person_id": "Q5984620",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"
@@ -196,6 +216,10 @@
       "person_id": "Q6182063",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"
@@ -206,6 +230,10 @@
       "person_id": "Q6701885",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"
@@ -216,6 +244,10 @@
       "person_id": "Q7964825",
       "organization_id": "Q30674575",
       "area_id": "Q503910",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682774",
       "role": {
         "lang:en": "Governor of Delta State"

@@ -144,6 +144,10 @@
       "person_id": "Q24565884",
       "organization_id": "Q48817777",
       "area_id": "Q463959",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869373",
       "role": {
         "lang:en": "Governor of Taraba State"
@@ -154,6 +158,10 @@
       "person_id": "Q4682425",
       "organization_id": "Q48817777",
       "area_id": "Q463959",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869373",
       "role": {
         "lang:en": "Governor of Taraba State"
@@ -164,6 +172,10 @@
       "person_id": "Q4697379",
       "organization_id": "Q48817777",
       "area_id": "Q463959",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869373",
       "role": {
         "lang:en": "Governor of Taraba State"
@@ -174,6 +186,10 @@
       "person_id": "Q4742384",
       "organization_id": "Q48817777",
       "area_id": "Q463959",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869373",
       "role": {
         "lang:en": "Governor of Taraba State"
@@ -185,6 +201,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q48817777",
       "area_id": "Q463959",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869373",
       "role": {
         "lang:en": "Governor of Taraba State"
@@ -196,6 +216,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q48817777",
       "area_id": "Q463959",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869373",
       "role": {
         "lang:en": "Governor of Taraba State"
@@ -206,6 +230,10 @@
       "person_id": "Q8054462",
       "organization_id": "Q48817777",
       "area_id": "Q463959",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53869373",
       "role": {
         "lang:en": "Governor of Taraba State"

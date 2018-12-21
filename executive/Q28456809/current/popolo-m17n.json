@@ -128,6 +128,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q28456809",
       "area_id": "Q836645",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53866357",
       "role": {
         "lang:en": "Governor of Nasarawa State"
@@ -138,6 +142,10 @@
       "person_id": "Q4666132",
       "organization_id": "Q28456809",
       "area_id": "Q836645",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53866357",
       "role": {
         "lang:en": "Governor of Nasarawa State"
@@ -149,6 +157,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q28456809",
       "area_id": "Q836645",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53866357",
       "role": {
         "lang:en": "Governor of Nasarawa State"
@@ -160,6 +172,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q28456809",
       "area_id": "Q836645",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53866357",
       "role": {
         "lang:en": "Governor of Nasarawa State"
@@ -171,6 +187,10 @@
       "on_behalf_of_id": "Q5160852",
       "organization_id": "Q28456809",
       "area_id": "Q836645",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53866357",
       "role": {
         "lang:en": "Governor of Nasarawa State"

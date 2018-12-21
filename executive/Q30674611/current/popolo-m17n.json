@@ -173,6 +173,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"
@@ -183,6 +187,10 @@
       "person_id": "Q13140838",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"
@@ -193,6 +201,10 @@
       "person_id": "Q4666138",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"
@@ -203,6 +215,10 @@
       "person_id": "Q5373114",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"
@@ -213,6 +229,10 @@
       "person_id": "Q6246345",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"
@@ -224,6 +244,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"
@@ -234,6 +258,10 @@
       "person_id": "Q6504442",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"
@@ -245,6 +273,10 @@
       "on_behalf_of_id": "Q6978037",
       "organization_id": "Q30674611",
       "area_id": "Q657821",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53864950",
       "role": {
         "lang:en": "Governor of Katsina State"

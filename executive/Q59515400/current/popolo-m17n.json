@@ -229,6 +229,10 @@
       "on_behalf_of_id": "Q343617",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -240,6 +244,10 @@
       "on_behalf_of_id": "Q4729266",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -251,6 +259,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -262,6 +274,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -272,6 +288,10 @@
       "person_id": "Q4837260",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -282,6 +302,10 @@
       "person_id": "Q4868128",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -292,6 +316,10 @@
       "person_id": "Q6232105",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -303,6 +331,10 @@
       "on_behalf_of_id": "Q1432251",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -313,6 +345,10 @@
       "person_id": "Q6892863",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"
@@ -324,6 +360,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q59515400",
       "area_id": "Q682704",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19682857",
       "role": {
         "lang:en": "Governor of Edo State"

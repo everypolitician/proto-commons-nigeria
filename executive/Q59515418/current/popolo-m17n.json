@@ -56,6 +56,10 @@
       "organization_id": "Q59515418",
       "area_id": "Q503932",
       "start_date": "2015-05-29",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q53866438",
       "role": {
         "lang:en": "Governor of Niger State"

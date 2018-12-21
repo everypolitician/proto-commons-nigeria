@@ -203,6 +203,10 @@
       "on_behalf_of_id": "Q6972241",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -213,6 +217,10 @@
       "person_id": "Q20982220",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -224,6 +232,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -235,6 +247,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -246,6 +262,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -257,6 +277,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -267,6 +291,10 @@
       "person_id": "Q6231109",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -277,6 +305,10 @@
       "person_id": "Q6280914",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -288,6 +320,10 @@
       "on_behalf_of_id": "Q1551163",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
@@ -298,6 +334,10 @@
       "person_id": "Q8047224",
       "organization_id": "Q30674557",
       "area_id": "Q424388",
+      "role_superclass_code": "Q56284759",
+      "role_superclass": {
+        "lang:en": "governor of a Nigerian state"
+      },
       "role_code": "Q19671558",
       "role": {
         "lang:en": "Governor of Akwa Ibom State"
