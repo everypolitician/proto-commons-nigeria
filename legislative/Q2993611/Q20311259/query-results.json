@@ -18,7 +18,8 @@
       "org",
       "org_en",
       "org_jurisdiction",
-      "org_seat_count"
+      "org_seat_count",
+      "linkedToTerm"
     ]
   },
   "results": {
@@ -90,6 +91,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -159,6 +165,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -215,6 +226,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
         }
       },
       {
@@ -271,6 +287,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
         }
       },
       {
@@ -340,6 +361,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -409,6 +435,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -465,6 +496,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
         }
       },
       {
@@ -521,6 +557,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
         }
       },
       {
@@ -590,6 +631,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -659,6 +705,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -728,6 +779,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -797,6 +853,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -866,6 +927,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -935,6 +1001,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
           "type": "literal",
           "value": "109"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       }
     ]
