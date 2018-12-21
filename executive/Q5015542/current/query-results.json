@@ -25,34 +25,134 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q59829052-8AE8B3EE-5D26-47DA-A15B-BC787A99B9FC"
+          "value": "http://www.wikidata.org/entity/statement/Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59829052"
+          "value": "http://www.wikidata.org/entity/Q361567"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Alhaji Muhammad Musa Bello"
+          "value": "Muhammadu Buhari"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4729266"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "All Progressives Congress"
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q509300"
+          "value": "http://www.wikidata.org/entity/Q1033"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Federal Capital Territory"
+          "value": "Nigeria"
         },
         "role": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59514359"
+          "value": "http://www.wikidata.org/entity/Q500282"
         },
         "role_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Honorable Minister of the Federal Capital Territory"
+          "value": "President of Nigeria"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-05-29T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "MuhammaduBuhari"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2285706"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "head of government"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5015542"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cabinet of Nigeria"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1033"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q361567"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Muhammadu Buhari"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4729266"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "All Progressives Congress"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1033"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nigeria"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q500282"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of Nigeria"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-05-29T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "MuhammaduBuhari"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30461"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "president"
         },
         "org": {
           "type": "uri",

@@ -58,8 +58,8 @@ WARNING: the district Ogbia (Q59681013) wasn't found in the boundary data for po
 WARNING: the district Ogbia (Q59681013) wasn't found in the boundary data for position member of the House of Representatives of Nigeria (Q21290864)
 WARNING: the district Obingwa/Ugwunagbo/Osisioma (Q59680919) wasn't found in the boundary data for position member of the House of Representatives of Nigeria (Q21290864)
 WARNING: the district Obingwa/Ugwunagbo/Osisioma (Q59680919) wasn't found in the boundary data for position member of the House of Representatives of Nigeria (Q21290864)
-WARNING: the district Madagali/Michika (Q59680939) wasn't found in the boundary data for position member of the House of Representatives of Nigeria (Q21290864)
-WARNING: the district Madagali/Michika (Q59680939) wasn't found in the boundary data for position member of the House of Representatives of Nigeria (Q21290864)
+WARNING: the district  (Q59680939) wasn't found in the boundary data for position member of the House of Representatives of Nigeria (Q21290864)
+WARNING: the district  (Q59680939) wasn't found in the boundary data for position member of the House of Representatives of Nigeria (Q21290864)
 WARNING: Position member of the Rivers State House of Assembly (Q59528366) not in boundary associated_wikidata_positions
 WARNING: Position Governor of Rivers State (Q23020727) not in boundary associated_wikidata_positions
 WARNING: the district Rivers State (Q503923) wasn't found in the boundary data for position Governor of Rivers State (Q23020727)
@@ -257,9 +257,8 @@ WARNING: the district Taraba State (Q463959) wasn't found in the boundary data f
 WARNING: the district Taraba State (Q463959) wasn't found in the boundary data for position Governor of Taraba State (Q53869373)
 WARNING: the district Taraba State (Q463959) wasn't found in the boundary data for position Governor of Taraba State (Q53869373)
 WARNING: Position President of Nigeria (Q500282) not in boundary associated_wikidata_positions
-WARNING: the district Federal Capital Territory (Q509300) wasn't found in the boundary data for position Honorable Minister of the Federal Capital Territory (Q59514359)
-WARNING: Position Honorable Minister of the Federal Capital Territory (Q59514359) not in boundary associated_wikidata_positions
-WARNING: the district Federal Capital Territory (Q509300) wasn't found in the boundary data for position Honorable Minister of the Federal Capital Territory (Q59514359)
+WARNING: the district Nigeria (Q1033) wasn't found in the boundary data for position President of Nigeria (Q500282)
+WARNING: the district Nigeria (Q1033) wasn't found in the boundary data for position President of Nigeria (Q500282)
 WARNING: Position Honorable Minister of the Federal Capital Territory (Q59514359) not in boundary associated_wikidata_positions
 WARNING: the district Federal Capital Territory (Q509300) wasn't found in the boundary data for position Honorable Minister of the Federal Capital Territory (Q59514359)
 WARNING: Position Governor of Kebbi State (Q6572142) not in boundary associated_wikidata_positions

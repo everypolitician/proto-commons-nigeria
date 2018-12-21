@@ -2,17 +2,20 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Alhaji Muhammad Musa Bello"
+        "lang:en": "Muhammadu Buhari"
       },
-      "id": "Q59829052",
+      "id": "Q361567",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q59829052"
+          "identifier": "Q361567"
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MuhammaduBuhari"
+        }
       ]
     }
   ],
@@ -29,7 +32,20 @@
           "identifier": "Q5015542"
         }
       ],
-      "area_id": "Q509300"
+      "area_id": "Q1033"
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
     }
   ],
   "areas": [
@@ -37,13 +53,35 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q59829052-8AE8B3EE-5D26-47DA-A15B-BC787A99B9FC",
-      "person_id": "Q59829052",
+      "id": "http://www.wikidata.org/entity/statement/Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815",
+      "person_id": "Q361567",
+      "on_behalf_of_id": "Q4729266",
       "organization_id": "Q5015542",
-      "area_id": "Q509300",
-      "role_code": "Q59514359",
+      "area_id": "Q1033",
+      "start_date": "2015-05-29",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:en": "head of government"
+      },
+      "role_code": "Q500282",
       "role": {
-        "lang:en": "Honorable Minister of the Federal Capital Territory"
+        "lang:en": "President of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815",
+      "person_id": "Q361567",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q5015542",
+      "area_id": "Q1033",
+      "start_date": "2015-05-29",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:en": "president"
+      },
+      "role_code": "Q500282",
+      "role": {
+        "lang:en": "President of Nigeria"
       }
     }
   ]
