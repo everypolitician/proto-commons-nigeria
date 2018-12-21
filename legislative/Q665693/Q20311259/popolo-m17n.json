@@ -17,6 +17,21 @@
     },
     {
       "name": {
+        "lang:en": "Dogara Yakubu"
+      },
+      "id": "Q19957516",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19957516"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Philip Shaibu"
       },
       "id": "Q28606434",
@@ -47,6 +62,36 @@
     },
     {
       "name": {
+        "lang:en": "Ochepo Adamu"
+      },
+      "id": "Q35537499",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35537499"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sodaguwo Festus-omoni"
+      },
+      "id": "Q35538817",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35538817"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Hassan Saleh"
       },
       "id": "Q35539072",
@@ -54,6 +99,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q35539072"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Solomon Adaelu"
+      },
+      "id": "Q35539211",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35539211"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adamu Kamale"
+      },
+      "id": "Q35539342",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35539342"
         }
       ],
       "links": [
@@ -195,7 +270,22 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19957516-9E4560BE-326C-4577-A0CA-F83C5746FC98",
+      "person_id": "Q19957516",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q665693",
+      "area_id": "Q59680996",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -210,7 +300,7 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -225,7 +315,37 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q35537499-1844DF48-C3A7-48F1-9B02-55C32349F1FE",
+      "person_id": "Q35537499",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q665693",
+      "area_id": "Q59681026",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q35538817-829F8B8D-BBD2-4615-9A07-D7B7520A0796",
+      "person_id": "Q35538817",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q665693",
+      "area_id": "Q59681013",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -240,7 +360,7 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -255,7 +375,37 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q35539211-63EE0D1A-1670-4E71-9823-A8F11A3A560A",
+      "person_id": "Q35539211",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q665693",
+      "area_id": "Q59680919",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "member of the House of Representatives of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q35539342-83EB7FF4-D72B-45D3-A60B-A3961FAD8D4B",
+      "person_id": "Q35539342",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q665693",
+      "area_id": "Q59680939",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q21290864",
+      "role": {
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -268,7 +418,7 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -281,7 +431,7 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -294,7 +444,7 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     },
     {
@@ -307,7 +457,7 @@
       },
       "role_code": "Q21290864",
       "role": {
-        "lang:en": "Member of the House of Representatives of Nigeria"
+        "lang:en": "member of the House of Representatives of Nigeria"
       }
     }
   ]

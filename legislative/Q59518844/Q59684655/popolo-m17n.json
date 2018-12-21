@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kwara State House of Assembly"
+      },
+      "id": "Q59518844",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518844"
+        }
+      ],
+      "area_id": "Q464953",
+      "seat_counts": {
+        "Q59528344": "24"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kebbi State House of Assembly"
+      },
+      "id": "Q59518841",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518841"
+        }
+      ],
+      "area_id": "Q748523",
+      "seat_counts": {
+        "Q59528342": "24"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

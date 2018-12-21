@@ -2,6 +2,21 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Binta Garba"
+      },
+      "id": "Q19560093",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19560093"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Ademola Adeleke"
       },
       "id": "Q32946601",
@@ -17,6 +32,21 @@
     },
     {
       "name": {
+        "lang:en": "Theodore Orji"
+      },
+      "id": "Q3510938",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510938"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Abdullahi Adamu"
       },
       "id": "Q4666120",
@@ -24,6 +54,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4666120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Omoworare Babajide"
+      },
+      "id": "Q5112997",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5112997"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Godswill Akpabio"
+      },
+      "id": "Q5576947",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5576947"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oduah Stella"
+      },
+      "id": "Q7607111",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7607111"
         }
       ],
       "links": [
@@ -48,12 +123,53 @@
       "seat_counts": {
         "Q19822359": "109"
       }
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
     }
   ],
   "areas": [
 
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19560093-FAAFB9B7-2DE9-45A7-A65E-7C4DF330257D",
+      "person_id": "Q19560093",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q2993611",
+      "area_id": "Q59678317",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q19822359",
+      "role": {
+        "lang:en": "member of the Senate of Nigeria"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q32946601-2962C2E5-D8B5-4CD2-8853-45CE42DAA51B",
       "person_id": "Q32946601",
@@ -65,7 +181,22 @@
       },
       "role_code": "Q19822359",
       "role": {
-        "lang:en": "Member of the Senate of Nigeria"
+        "lang:en": "member of the Senate of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510938-14CEFD40-C448-47A1-B802-2F37B2ACF3D6",
+      "person_id": "Q3510938",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q2993611",
+      "area_id": "Q59678314",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q19822359",
+      "role": {
+        "lang:en": "member of the Senate of Nigeria"
       }
     },
     {
@@ -79,7 +210,52 @@
       },
       "role_code": "Q19822359",
       "role": {
-        "lang:en": "Member of the Senate of Nigeria"
+        "lang:en": "member of the Senate of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5112997-9E77FEB5-AC65-4FA3-816D-CE0956F37568",
+      "person_id": "Q5112997",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q2993611",
+      "area_id": "Q59678440",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q19822359",
+      "role": {
+        "lang:en": "member of the Senate of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5576947-F80F8E8F-7848-4504-8138-46C76AC02F7B",
+      "person_id": "Q5576947",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q2993611",
+      "area_id": "Q59678321",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q19822359",
+      "role": {
+        "lang:en": "member of the Senate of Nigeria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7607111-722F963B-D6AE-4F80-A303-C3FA9F61B485",
+      "person_id": "Q7607111",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q2993611",
+      "area_id": "Q59678326",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q19822359",
+      "role": {
+        "lang:en": "member of the Senate of Nigeria"
       }
     }
   ]

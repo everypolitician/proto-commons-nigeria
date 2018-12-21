@@ -1,0 +1,392 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Harris Eghagha"
+      },
+      "id": "Q11058367",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11058367"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gbenga Daniel"
+      },
+      "id": "Q11058541",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11058541"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oladipo Diya"
+      },
+      "id": "Q3511673",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3511673"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Daniel Akintonde"
+      },
+      "id": "Q5216375",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5216375"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibikunle Amosun"
+      },
+      "id": "Q5984059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kayode Olofin-Moyin"
+      },
+      "id": "Q6380663",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6380663"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olabisi Onabanjo"
+      },
+      "id": "Q7082909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7082909"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oladeinde Joseph"
+      },
+      "id": "Q7082915",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7082915"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oladayo Popoola"
+      },
+      "id": "Q7082916",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7082916"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olusegun Osoba"
+      },
+      "id": "Q7088864",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7088864"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raji Rasaki"
+      },
+      "id": "Q7286136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286136"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saidu Ayodele Balogun"
+      },
+      "id": "Q7399989",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399989"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sam Ewang"
+      },
+      "id": "Q7407453",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7407453"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Ogun State"
+      },
+      "id": "Q48816849",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48816849"
+        }
+      ],
+      "area_id": "Q836657"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11058367-B9D4EB7A-EB74-4D9E-963F-1207C786ADC8",
+      "person_id": "Q11058367",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11058541-FE331FDC-0140-48E5-B3E5-38ED969A046C",
+      "person_id": "Q11058541",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3511673-1ABCCF9E-FB7B-446E-ADB5-00103BAED2F9",
+      "person_id": "Q3511673",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5216375-F520898F-C48B-4C61-B5C4-C51458FCD966",
+      "person_id": "Q5216375",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984059-247C84E2-68EB-4811-BDF8-1BDF1B977BF3",
+      "person_id": "Q5984059",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6380663-CBA2F51F-55B0-492A-9C43-CD65C1C085DA",
+      "person_id": "Q6380663",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7082909-6A04AAF8-B92C-44DE-BFF3-524A03791C3A",
+      "person_id": "Q7082909",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7082915-8D45E5B4-176C-40AC-AB45-C9F8658A830F",
+      "person_id": "Q7082915",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7082916-6A7879CB-2AB5-434C-91A1-F73E48F8B77E",
+      "person_id": "Q7082916",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7088864-BF025DDD-B0EC-42BA-A1E9-5D61A4F007CF",
+      "person_id": "Q7088864",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7286136-BF6C771D-CC6E-4C2F-9323-915476054199",
+      "person_id": "Q7286136",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7399989-925FDDA7-C82A-4908-97FC-0F466D1E67A3",
+      "person_id": "Q7399989",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7407453-1AC31B3E-AD79-4FE1-A927-A8C9450D6A5D",
+      "person_id": "Q7407453",
+      "organization_id": "Q48816849",
+      "area_id": "Q836657",
+      "role_code": "Q53869139",
+      "role": {
+        "lang:en": "Governor of Ogun State"
+      }
+    }
+  ]
+}

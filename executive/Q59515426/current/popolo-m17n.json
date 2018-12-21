@@ -1,0 +1,180 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mamuda Aliyu Shinkafi"
+      },
+      "id": "Q16885645",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16885645"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmad Sani Yerima"
+      },
+      "id": "Q3510720",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510720"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul'aziz Abubakar Yari"
+      },
+      "id": "Q4665219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jibril Yakubu"
+      },
+      "id": "Q6192070",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6192070"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mahmud Shinkafi"
+      },
+      "id": "Q6734515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6734515"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Zamfara State"
+      },
+      "id": "Q59515426",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515426"
+        }
+      ],
+      "area_id": "Q145793"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16885645-5CC37995-4FBE-42BE-8B22-B4F6DE6391C4",
+      "person_id": "Q16885645",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515426",
+      "area_id": "Q145793",
+      "role_code": "Q53869387",
+      "role": {
+        "lang:en": "Governor of Zamfara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510720-00A91046-393B-4A4C-9A40-FE40E97BBDBE",
+      "person_id": "Q3510720",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515426",
+      "area_id": "Q145793",
+      "role_code": "Q53869387",
+      "role": {
+        "lang:en": "Governor of Zamfara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665219-367C209F-BE57-4990-A586-DB0B8B311D79",
+      "person_id": "Q4665219",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515426",
+      "area_id": "Q145793",
+      "role_code": "Q53869387",
+      "role": {
+        "lang:en": "Governor of Zamfara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6192070-BB36F636-8106-4637-AB68-97A54F5DD915",
+      "person_id": "Q6192070",
+      "organization_id": "Q59515426",
+      "area_id": "Q145793",
+      "role_code": "Q53869387",
+      "role": {
+        "lang:en": "Governor of Zamfara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6734515-CB985378-B351-4120-A775-27114322819F",
+      "person_id": "Q6734515",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515426",
+      "area_id": "Q145793",
+      "role_code": "Q53869387",
+      "role": {
+        "lang:en": "Governor of Zamfara State"
+      }
+    }
+  ]
+}

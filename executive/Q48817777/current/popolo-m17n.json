@@ -1,0 +1,215 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Darius Ishaku"
+      },
+      "id": "Q24565884",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24565884"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adeyemi Afolahan"
+      },
+      "id": "Q4682425",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4682425"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aina Owoniyi"
+      },
+      "id": "Q4697379",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4697379"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amen Edore Oyakhire"
+      },
+      "id": "Q4742384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4742384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Danbaba Suntai"
+      },
+      "id": "Q5214942",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5214942"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jolly Nyame"
+      },
+      "id": "Q6270108",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6270108"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yohanna Dickson"
+      },
+      "id": "Q8054462",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8054462"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Taraba State"
+      },
+      "id": "Q48817777",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48817777"
+        }
+      ],
+      "area_id": "Q463959"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24565884-4C351C4B-A14C-4F54-AC24-AADD4CA10E9D",
+      "person_id": "Q24565884",
+      "organization_id": "Q48817777",
+      "area_id": "Q463959",
+      "role_code": "Q53869373",
+      "role": {
+        "lang:en": "Governor of Taraba State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4682425-B667C387-F0E2-4412-A594-8D252C6FD6AB",
+      "person_id": "Q4682425",
+      "organization_id": "Q48817777",
+      "area_id": "Q463959",
+      "role_code": "Q53869373",
+      "role": {
+        "lang:en": "Governor of Taraba State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4697379-852F6316-B4EB-461F-8340-8450BDA9AC11",
+      "person_id": "Q4697379",
+      "organization_id": "Q48817777",
+      "area_id": "Q463959",
+      "role_code": "Q53869373",
+      "role": {
+        "lang:en": "Governor of Taraba State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4742384-70D1805C-7C94-4B38-A0A0-399171158ABA",
+      "person_id": "Q4742384",
+      "organization_id": "Q48817777",
+      "area_id": "Q463959",
+      "role_code": "Q53869373",
+      "role": {
+        "lang:en": "Governor of Taraba State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5214942-A64842B5-F107-4875-B3C3-B1856FB47751",
+      "person_id": "Q5214942",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48817777",
+      "area_id": "Q463959",
+      "role_code": "Q53869373",
+      "role": {
+        "lang:en": "Governor of Taraba State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6270108-8E1CA080-7729-4DF4-9AB2-015D92DEEE24",
+      "person_id": "Q6270108",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48817777",
+      "area_id": "Q463959",
+      "role_code": "Q53869373",
+      "role": {
+        "lang:en": "Governor of Taraba State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8054462-42C3ACC2-FCEF-44C7-82E9-E6D5F8E22659",
+      "person_id": "Q8054462",
+      "organization_id": "Q48817777",
+      "area_id": "Q463959",
+      "role_code": "Q53869373",
+      "role": {
+        "lang:en": "Governor of Taraba State"
+      }
+    }
+  ]
+}

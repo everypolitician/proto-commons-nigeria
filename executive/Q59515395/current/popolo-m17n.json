@@ -1,0 +1,506 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mohammed Kaliel"
+      },
+      "id": "Q13140750",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140750"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Abdullahi Abubakar"
+      },
+      "id": "Q20810373",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20810373"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adamu Mu'azu"
+      },
+      "id": "Q3510746",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510746"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joshua Madaki"
+      },
+      "id": "Q379526",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q379526"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Mshelia"
+      },
+      "id": "Q4665570",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665570"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Abutu Garuba"
+      },
+      "id": "Q5105676",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5105676"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colonel Abu Ali"
+      },
+      "id": "Q5148086",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5148086"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dahiru Mohammed"
+      },
+      "id": "Q5208842",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5208842"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nuhu Gidado"
+      },
+      "id": "Q54860904",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54860904"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Garba Duba"
+      },
+      "id": "Q5521965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5521965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Shehu Shema"
+      },
+      "id": "Q5984734",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984734"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Isa Yuguda"
+      },
+      "id": "Q6075740",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6075740"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Kalau"
+      },
+      "id": "Q6137091",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6137091"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Sani Sami"
+      },
+      "id": "Q6893322",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893322"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rasheed Adisa Raji"
+      },
+      "id": "Q7294836",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7294836"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tatari Ali"
+      },
+      "id": "Q7687894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7687894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Theophilus Bamigboye"
+      },
+      "id": "Q7782278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7782278"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Bauchi State"
+      },
+      "id": "Q59515395",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515395"
+        }
+      ],
+      "area_id": "Q503936"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140750-F5CF5FEB-21D0-4D27-AEA6-E2BDFB643D1F",
+      "person_id": "Q13140750",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20810373-20440c67-36b3-4268-a5bb-28ce6231075d",
+      "person_id": "Q20810373",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510746-067D8B75-E95C-4C0D-966A-14954E77E1E4",
+      "person_id": "Q3510746",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379526-8317E64E-EA69-4616-983C-C8A32D9CC160",
+      "person_id": "Q379526",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379526-8317E64E-EA69-4616-983C-C8A32D9CC160",
+      "person_id": "Q379526",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665570-C890CB41-461C-4A84-823A-9135A536EB8D",
+      "person_id": "Q4665570",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5105676-D5D1666E-90B6-469A-AA79-E94E70DBA49C",
+      "person_id": "Q5105676",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5148086-72005C9A-F0F3-400C-9A8B-1E5C4A192A1B",
+      "person_id": "Q5148086",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5208842-E3A3F0DA-C003-43D3-9638-10E56C50C892",
+      "person_id": "Q5208842",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54860904-19ab6a6d-f04a-4975-aaaa-d02eaa269072",
+      "person_id": "Q54860904",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5521965-FE050173-0333-42BB-9AEF-7DD632C10453",
+      "person_id": "Q5521965",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984734-6d93087d-a91e-46be-8f04-c1ea7bc5a799",
+      "person_id": "Q5984734",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6075740-FE1AAFDC-5F3C-4AD3-ABEC-DCDC86D9CEB7",
+      "person_id": "Q6075740",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6137091-9CCAB0D6-5599-4383-A11E-ABEFBA446A0E",
+      "person_id": "Q6137091",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893322-E75EAB20-8E7C-4109-A139-ED5A3E11A813",
+      "person_id": "Q6893322",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7294836-3AC54304-7C28-47CF-A8FB-AFB782D1583B",
+      "person_id": "Q7294836",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7687894-E4D0ACDA-85D2-45CA-A78A-7CDF6C8C3F30",
+      "person_id": "Q7687894",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7782278-EF45357E-B870-4984-8471-903E0BC2526A",
+      "person_id": "Q7782278",
+      "organization_id": "Q59515395",
+      "area_id": "Q503936",
+      "role_code": "Q19681521",
+      "role": {
+        "lang:en": "Governor of Bauchi State"
+      }
+    }
+  ]
+}

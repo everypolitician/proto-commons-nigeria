@@ -2,7 +2,7 @@
   {
     "role_id": "Q19822359",
     "role_name": {
-      "lang:en": "Member of the Senate of Nigeria"
+      "lang:en": "member of the Senate of Nigeria"
     },
     "generic_role_id": "Q15686806",
     "generic_role_name": {
@@ -18,7 +18,7 @@
   {
     "role_id": "Q21290864",
     "role_name": {
-      "lang:en": "Member of the House of Representatives of Nigeria"
+      "lang:en": "member of the House of Representatives of Nigeria"
     },
     "generic_role_id": "Q486839",
     "generic_role_name": {
@@ -29,6 +29,598 @@
     "organization_id": "Q665693",
     "organization_name": {
       "lang:en": "House of Representatives of Nigeria"
+    }
+  },
+  {
+    "role_id": "Q500282",
+    "role_name": {
+      "lang:en": "President of Nigeria"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q5015542",
+    "organization_name": {
+      "lang:en": "Cabinet of Nigeria"
+    }
+  },
+  {
+    "role_id": "Q59528223",
+    "role_name": {
+      "lang:en": "member of the Abia State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q21043169",
+    "organization_name": {
+      "lang:en": "Abia State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528225",
+    "role_name": {
+      "lang:en": "member of the Adamawa State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518801",
+    "organization_name": {
+      "lang:en": "Adamawa State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528226",
+    "role_name": {
+      "lang:en": "member of the Akwa Ibom State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q30592701",
+    "organization_name": {
+      "lang:en": "Akwa Ibom State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528228",
+    "role_name": {
+      "lang:en": "member of the Anambra State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q28406862",
+    "organization_name": {
+      "lang:en": "Anambra State House Of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528229",
+    "role_name": {
+      "lang:en": "member of the Bauchi State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518803",
+    "organization_name": {
+      "lang:en": "Bauchi State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528231",
+    "role_name": {
+      "lang:en": "member of the Bayelsa State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518804",
+    "organization_name": {
+      "lang:en": "Bayelsa State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528232",
+    "role_name": {
+      "lang:en": "member of the Benue State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518808",
+    "organization_name": {
+      "lang:en": "Benue State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528233",
+    "role_name": {
+      "lang:en": "member of the Borno State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518810",
+    "organization_name": {
+      "lang:en": "Borno State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528236",
+    "role_name": {
+      "lang:en": "member of the Cross River State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518811",
+    "organization_name": {
+      "lang:en": "Cross River State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528246",
+    "role_name": {
+      "lang:en": "member of the Delta State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518814",
+    "organization_name": {
+      "lang:en": "Delta State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528248",
+    "role_name": {
+      "lang:en": "member of the Ebonyi State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518815",
+    "organization_name": {
+      "lang:en": "Ebonyi State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528250",
+    "role_name": {
+      "lang:en": "member of the Edo State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518817",
+    "organization_name": {
+      "lang:en": "Edo State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528322",
+    "role_name": {
+      "lang:en": "member of the Ekiti State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518829",
+    "organization_name": {
+      "lang:en": "Ekiti State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528323",
+    "role_name": {
+      "lang:en": "member of the Enugu State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518830",
+    "organization_name": {
+      "lang:en": "Enugu State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528324",
+    "role_name": {
+      "lang:en": "member of the Gombe State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518833",
+    "organization_name": {
+      "lang:en": "Gombe State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528327",
+    "role_name": {
+      "lang:en": "member of the Imo State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518836",
+    "organization_name": {
+      "lang:en": "Imo State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528329",
+    "role_name": {
+      "lang:en": "member of the Jigawa State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q25053386",
+    "organization_name": {
+      "lang:en": "Jigawa State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528330",
+    "role_name": {
+      "lang:en": "member of the Kaduna State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518837",
+    "organization_name": {
+      "lang:en": "Kaduna State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528338",
+    "role_name": {
+      "lang:en": "member of the Kano State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6364192",
+    "organization_name": {
+      "lang:en": "Kano State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528341",
+    "role_name": {
+      "lang:en": "member of the Katsina State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518839",
+    "organization_name": {
+      "lang:en": "Katsina State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528342",
+    "role_name": {
+      "lang:en": "member of the Kebbi State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518841",
+    "organization_name": {
+      "lang:en": "Kebbi State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528343",
+    "role_name": {
+      "lang:en": "member of the Kogi State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518842",
+    "organization_name": {
+      "lang:en": "Kogi State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528344",
+    "role_name": {
+      "lang:en": "member of the Kwara State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518844",
+    "organization_name": {
+      "lang:en": "Kwara State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528346",
+    "role_name": {
+      "lang:en": "member of the Lagos State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6472612",
+    "organization_name": {
+      "lang:en": "Lagos State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528348",
+    "role_name": {
+      "lang:en": "member of the Nasarawa State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518861",
+    "organization_name": {
+      "lang:en": "Nasarawa State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528349",
+    "role_name": {
+      "lang:en": "member of the Niger State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518862",
+    "organization_name": {
+      "lang:en": "Niger State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528350",
+    "role_name": {
+      "lang:en": "member of the Ogun State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q28450719",
+    "organization_name": {
+      "lang:en": "Ogun State House Of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528360",
+    "role_name": {
+      "lang:en": "member of the Ondo State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q23038224",
+    "organization_name": {
+      "lang:en": "Ondo State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528361",
+    "role_name": {
+      "lang:en": "member of the Osun State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518864",
+    "organization_name": {
+      "lang:en": "Osun State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528363",
+    "role_name": {
+      "lang:en": "member of the Oyo State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518867",
+    "organization_name": {
+      "lang:en": "Oyo State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528364",
+    "role_name": {
+      "lang:en": "member of the Plateau State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518868",
+    "organization_name": {
+      "lang:en": "Plateau State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528366",
+    "role_name": {
+      "lang:en": "member of the Rivers State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7338303",
+    "organization_name": {
+      "lang:en": "Rivers State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528368",
+    "role_name": {
+      "lang:en": "member of the Sokoto State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518870",
+    "organization_name": {
+      "lang:en": "Sokoto State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528369",
+    "role_name": {
+      "lang:en": "member of the Taraba State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518872",
+    "organization_name": {
+      "lang:en": "Taraba State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528370",
+    "role_name": {
+      "lang:en": "member of the Yobe State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518873",
+    "organization_name": {
+      "lang:en": "Yobe State House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q59528373",
+    "role_name": {
+      "lang:en": "member of the Zamfara State House of Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q59518875",
+    "organization_name": {
+      "lang:en": "Zamfara State House of Assembly"
     }
   }
 ]

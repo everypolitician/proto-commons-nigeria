@@ -1,0 +1,241 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Augustine Aniebo"
+      },
+      "id": "Q13628228",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13628228"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Idris Wada"
+      },
+      "id": "Q22331789",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22331789"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Audu"
+      },
+      "id": "Q3510732",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510732"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Idris"
+      },
+      "id": "Q3510788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bzigu Afakirya"
+      },
+      "id": "Q5004746",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5004746"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Clarence Olafemi"
+      },
+      "id": "Q5126681",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5126681"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Danladi Mohammed Zakari"
+      },
+      "id": "Q5219982",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5219982"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Omeruo"
+      },
+      "id": "Q7152825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7152825"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Kogi State"
+      },
+      "id": "Q59515417",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515417"
+        }
+      ],
+      "area_id": "Q387745"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13628228-3CBC7970-EA29-4FEB-8F61-F2D8B2E5337A",
+      "person_id": "Q13628228",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22331789-20DE35E9-4011-4CB4-BCDE-770C3B6E62F3",
+      "person_id": "Q22331789",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510732-D5A7AD85-4B7C-4711-800C-CA32BAC3C3C9",
+      "person_id": "Q3510732",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510788-2D2E1A90-397E-4386-9877-774D00EF3357",
+      "person_id": "Q3510788",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5004746-DD226F6F-DEBE-4096-A560-1948194B0113",
+      "person_id": "Q5004746",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5126681-C6193620-3DC2-4BEC-9B50-51B201AA39F8",
+      "person_id": "Q5126681",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5219982-774258E5-4211-4D10-A54E-88AF7E2429AA",
+      "person_id": "Q5219982",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7152825-B0CD6FDA-BCB2-43C3-B925-E0D8B920CC98",
+      "person_id": "Q7152825",
+      "organization_id": "Q59515417",
+      "area_id": "Q387745",
+      "role_code": "Q53865201",
+      "role": {
+        "lang:en": "Governor of Kogi State"
+      }
+    }
+  ]
+}

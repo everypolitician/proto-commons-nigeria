@@ -1,0 +1,328 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Hareter Babatunde Oralusi"
+      },
+      "id": "Q26897264",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26897264"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adebisi Akande"
+      },
+      "id": "Q4681477",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4681477"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anthony Obi"
+      },
+      "id": "Q4773221",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4773221"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anthony Udofia"
+      },
+      "id": "Q4773627",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4773627"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Isiaka Adetunji Adeleke"
+      },
+      "id": "Q6080812",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6080812"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Leo Segun Ajiborisha"
+      },
+      "id": "Q6524226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6524226"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olagunsoye Oyinlola"
+      },
+      "id": "Q7083033",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7083033"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rauf Aregbesola"
+      },
+      "id": "Q7296120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7296120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Theophilus Bamigboye"
+      },
+      "id": "Q7782278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7782278"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Osun State Executive Council"
+      },
+      "id": "Q28456804",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28456804"
+        }
+      ],
+      "area_id": "Q682721"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Action Congress of Nigeria"
+      },
+      "id": "Q343617",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q343617"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26897264-25DE1DFF-C8EE-4D6A-8E13-31F66934F720",
+      "person_id": "Q26897264",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4681477-0E91DB7E-2826-45BE-AA87-93AE7E3C5E91",
+      "person_id": "Q4681477",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4681477-0E91DB7E-2826-45BE-AA87-93AE7E3C5E91",
+      "person_id": "Q4681477",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4773221-7BFD64BA-E9D2-476B-8616-75CC73E6402A",
+      "person_id": "Q4773221",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4773627-66999CDC-5655-40C2-90ED-5026BDA5221B",
+      "person_id": "Q4773627",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6080812-B37EB926-A550-4BFB-AA9A-2C5429B2CFD6",
+      "person_id": "Q6080812",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6080812-B37EB926-A550-4BFB-AA9A-2C5429B2CFD6",
+      "person_id": "Q6080812",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6524226-567DE55B-5C90-4D75-9BA0-04600327A991",
+      "person_id": "Q6524226",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7083033-8E02E072-52F0-434D-B4B8-28E6EC3EEB39",
+      "person_id": "Q7083033",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7296120-749BFFED-1909-40FA-BF21-78784EFFB45E",
+      "person_id": "Q7296120",
+      "on_behalf_of_id": "Q343617",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7782278-8849C3D0-94BA-458C-85BD-EE00A131A15A",
+      "person_id": "Q7782278",
+      "organization_id": "Q28456804",
+      "area_id": "Q682721",
+      "role_code": "Q53869191",
+      "role": {
+        "lang:en": "Governor of Osun State"
+      }
+    }
+  ]
+}

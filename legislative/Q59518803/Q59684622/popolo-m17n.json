@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Bauchi State House of Assembly"
+      },
+      "id": "Q59518803",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518803"
+        }
+      ],
+      "area_id": "Q503936",
+      "seat_counts": {
+        "Q59528229": "31"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

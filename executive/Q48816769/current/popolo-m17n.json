@@ -1,0 +1,469 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Ishaya Shekari"
+      },
+      "id": "Q13140700",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140700"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammadu Abdullahi Wase"
+      },
+      "id": "Q13140752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdullahi Umar Ganduje"
+      },
+      "id": "Q18719262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18719262"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rabiu Kwankwaso"
+      },
+      "id": "Q3509922",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3509922"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Rimi"
+      },
+      "id": "Q4670499",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670499"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmed Muhammad Daku"
+      },
+      "id": "Q4695941",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4695941"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aminu Isa Kontagora"
+      },
+      "id": "Q4746478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4746478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Audu Bako"
+      },
+      "id": "Q4820219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4820219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dominic Oneya"
+      },
+      "id": "Q5290614",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5290614"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hamza Abdullahi"
+      },
+      "id": "Q5646492",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5646492"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Idris Garba"
+      },
+      "id": "Q5989606",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5989606"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kabiru Ibrahim Gaya"
+      },
+      "id": "Q6344250",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6344250"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Ndatsu Umaru"
+      },
+      "id": "Q6893252",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893252"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sabo Bakin Zuwo"
+      },
+      "id": "Q7396272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7396272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sani Bello"
+      },
+      "id": "Q7418245",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7418245"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Shekarau"
+      },
+      "id": "Q82535",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82535"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Kano State"
+      },
+      "id": "Q48816769",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48816769"
+        }
+      ],
+      "area_id": "Q682571"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Party of Nigeria"
+      },
+      "id": "Q6974818",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6974818"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140700-2CAFD94B-A95E-46AF-AEB2-DF1B6EF39720",
+      "person_id": "Q13140700",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140752-C49897BF-7C6D-4D0F-BA3F-7422DACFE2B9",
+      "person_id": "Q13140752",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18719262-E3CB73E9-78D1-42CA-B73E-4625FEE65F46",
+      "person_id": "Q18719262",
+      "on_behalf_of_id": "Q6974818",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3509922-DDF6BA9B-4C91-4467-BC9D-B49FE0BDB41B",
+      "person_id": "Q3509922",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670499-1ED3A668-25A1-4D82-83B8-F2539F28AFE6",
+      "person_id": "Q4670499",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4695941-E91CF3AE-4DAD-4655-8BCB-145A81857C03",
+      "person_id": "Q4695941",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4746478-D83C12F4-3672-4AB8-A83A-4D7E9F8EF858",
+      "person_id": "Q4746478",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4820219-1D7ECB53-F19A-4429-BD41-D44470E0B2C8",
+      "person_id": "Q4820219",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5290614-309F4DEE-C8B7-40D5-B4D7-328EE5102385",
+      "person_id": "Q5290614",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5646492-AD190E62-E39D-49B7-B5B1-9648212F73FD",
+      "person_id": "Q5646492",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5989606-9A0BD4DE-98D5-42CE-8E38-0A943C102AAA",
+      "person_id": "Q5989606",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6344250-7DBA9E82-CC15-4ABC-96A3-3D72B5BFA008",
+      "person_id": "Q6344250",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893252-5D0812E4-831C-4663-80C5-C7F108ECC4BA",
+      "person_id": "Q6893252",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7396272-D0AC1698-90CB-4020-A290-D3B1B8FF91CD",
+      "person_id": "Q7396272",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7418245-120998FA-02BB-4842-8457-0A7108A279E7",
+      "person_id": "Q7418245",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q82535-E6CE9FDD-FBB8-4A6A-AD69-7B8035F3B7BE",
+      "person_id": "Q82535",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q48816769",
+      "area_id": "Q682571",
+      "role_code": "Q53864915",
+      "role": {
+        "lang:en": "Governor of Kano State"
+      }
+    }
+  ]
+}

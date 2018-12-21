@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Katsina State House of Assembly"
+      },
+      "id": "Q59518839",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518839"
+        }
+      ],
+      "area_id": "Q657821",
+      "seat_counts": {
+        "Q59528341": "34"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

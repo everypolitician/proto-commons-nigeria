@@ -1,0 +1,307 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Idongesit Nkanga"
+      },
+      "id": "Q13140680",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140680"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Udom Gabriel Emmanuel"
+      },
+      "id": "Q20982220",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20982220"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Victor Attah"
+      },
+      "id": "Q3510738",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510738"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Akpan Isemin"
+      },
+      "id": "Q4701574",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4701574"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Godswill Akpabio"
+      },
+      "id": "Q5576947",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5576947"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Godwin Abbe"
+      },
+      "id": "Q5576962",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5576962"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Ebiye"
+      },
+      "id": "Q6231109",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6231109"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Adeusi"
+      },
+      "id": "Q6280914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6280914"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tunde Ogbeha"
+      },
+      "id": "Q7852884",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7852884"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yakubu Bako"
+      },
+      "id": "Q8047224",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8047224"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Akwa Ibom Executive Council"
+      },
+      "id": "Q30674557",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30674557"
+        }
+      ],
+      "area_id": "Q424388"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Democratic Party"
+      },
+      "id": "Q6972241",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6972241"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140680-7CB8549D-0DF8-4E56-A1B4-0E6BED28D9ED",
+      "person_id": "Q13140680",
+      "on_behalf_of_id": "Q6972241",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20982220-98188135-d5c7-470a-bee6-fa246e87e245",
+      "person_id": "Q20982220",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510738-3791C54D-30C7-4837-95DD-AD203ED96D9A",
+      "person_id": "Q3510738",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4701574-BA4ACE73-AC52-4A2A-8539-95C780E35C3E",
+      "person_id": "Q4701574",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5576947-24B1E605-47F7-43DA-B5DC-4949BAAAE23F",
+      "person_id": "Q5576947",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5576962-305D8ADB-0D79-4A08-A35F-00AE8CD4282D",
+      "person_id": "Q5576962",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6231109-58D8D5BA-D49D-4090-9766-EADB77C54A1A",
+      "person_id": "Q6231109",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6280914-E804B9F2-4EBA-4F13-9D1A-0DB7A70B1F92",
+      "person_id": "Q6280914",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7852884-E10ED96B-8580-40E9-ACBB-5F113E674FD9",
+      "person_id": "Q7852884",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8047224-916A0C79-373E-4AC2-8DF7-E829ADF29D70",
+      "person_id": "Q8047224",
+      "organization_id": "Q30674557",
+      "area_id": "Q424388",
+      "role_code": "Q19671558",
+      "role": {
+        "lang:en": "Governor of Akwa Ibom State"
+      }
+    }
+  ]
+}

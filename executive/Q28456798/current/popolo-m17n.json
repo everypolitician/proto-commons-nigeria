@@ -1,0 +1,535 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Tunji Olurin"
+      },
+      "id": "Q10969003",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10969003"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Victor Omololu Olunloyo"
+      },
+      "id": "Q3509767",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3509767"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bola Ige"
+      },
+      "id": "Q3511524",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3511524"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lam Adesina"
+      },
+      "id": "Q38969",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38969"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdulkareem Adisa"
+      },
+      "id": "Q4665863",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665863"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abiola Ajimobi"
+      },
+      "id": "Q4667894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4667894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adetoye Oyetola Sode"
+      },
+      "id": "Q4682397",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4682397"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmed Usman"
+      },
+      "id": "Q4696051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4696051"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amen Edore Oyakhire"
+      },
+      "id": "Q4742384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4742384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chinyere Ike Nwosu"
+      },
+      "id": "Q5101386",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5101386"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christopher Alao-Akala"
+      },
+      "id": "Q5111837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5111837"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Jemibewon"
+      },
+      "id": "Q5235612",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5235612"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kolapo Ishola"
+      },
+      "id": "Q6427058",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6427058"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oladayo Popoola"
+      },
+      "id": "Q7082916",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7082916"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Tarfa"
+      },
+      "id": "Q7153924",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7153924"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rashidi Adewolu Ladoja"
+      },
+      "id": "Q7294952",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7294952"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sasaenia Oresanya"
+      },
+      "id": "Q7424966",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7424966"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Oyo State Executive Council"
+      },
+      "id": "Q28456798",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28456798"
+        }
+      ],
+      "area_id": "Q503905"
+    },
+    {
+      "name": {
+        "lang:en": "Action Group"
+      },
+      "id": "Q123708",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q123708"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q7550561",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7550561"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10969003-968D41C5-EE4C-4CCC-8479-8F97CCD1B331",
+      "person_id": "Q10969003",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3509767-B39E296B-4CA9-474B-90B9-33A50C94B334",
+      "person_id": "Q3509767",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3511524-341AE6F9-7D4A-4D55-8B17-723C42856953",
+      "person_id": "Q3511524",
+      "on_behalf_of_id": "Q123708",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3511524-341AE6F9-7D4A-4D55-8B17-723C42856953",
+      "person_id": "Q3511524",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q38969-2E93BA5B-8ACF-4997-B3AE-DB3E28E0863E",
+      "person_id": "Q38969",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665863-9A3B4772-1BFF-41D3-80AE-03A0D2FA503D",
+      "person_id": "Q4665863",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4667894-BA9381CA-9F44-453F-AEA4-9BEC3889D265",
+      "person_id": "Q4667894",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4682397-07561E2A-B41E-47D5-807D-65F14BC1560D",
+      "person_id": "Q4682397",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4696051-8CA231C5-A641-489F-A1F7-D3EC3A4DFB83",
+      "person_id": "Q4696051",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4742384-0A832967-B013-4E19-B13E-601EB8BA163A",
+      "person_id": "Q4742384",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5101386-BA6587FF-9138-4519-96BC-FF016F320973",
+      "person_id": "Q5101386",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5111837-384A8DBA-BC2E-49BB-8837-FD5F324B4B96",
+      "person_id": "Q5111837",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5235612-10268243-8EA3-4E38-9014-5AB80A73A8BE",
+      "person_id": "Q5235612",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6427058-86BBEBF9-C3AD-476F-B4D0-BAC6731400DB",
+      "person_id": "Q6427058",
+      "on_behalf_of_id": "Q7550561",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7082916-D82CA19F-9702-4AC1-8DAA-EAE73F9AD4D0",
+      "person_id": "Q7082916",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7153924-D0F9AD20-9F71-445A-A9DA-3050741B3213",
+      "person_id": "Q7153924",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7294952-C4759C62-C217-40F5-A262-A3307D85C7C0",
+      "person_id": "Q7294952",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7424966-3B5C0D3F-A0F2-4586-B267-1179B1EE4F69",
+      "person_id": "Q7424966",
+      "organization_id": "Q28456798",
+      "area_id": "Q503905",
+      "role_code": "Q13140661",
+      "role": {
+        "lang:en": "Governor of Oyo State"
+      }
+    }
+  ]
+}

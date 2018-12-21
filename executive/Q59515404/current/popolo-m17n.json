@@ -1,0 +1,179 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mohammed Danjuma Goje"
+      },
+      "id": "Q3510706",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510706"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Hassan Dankwambo"
+      },
+      "id": "Q3511510",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3511510"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Habu Hashidu"
+      },
+      "id": "Q4670489",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670489"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Orji"
+      },
+      "id": "Q6285965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6285965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Bawa"
+      },
+      "id": "Q6893015",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893015"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Gombe State"
+      },
+      "id": "Q59515404",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515404"
+        }
+      ],
+      "area_id": "Q376241"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510706-B39DF3C9-5E11-4610-87B8-8B3960088AF4",
+      "person_id": "Q3510706",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515404",
+      "area_id": "Q376241",
+      "role_code": "Q53857981",
+      "role": {
+        "lang:en": "Governor of Gombe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3511510-635785AB-0007-45F5-902E-9C74E3E24846",
+      "person_id": "Q3511510",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515404",
+      "area_id": "Q376241",
+      "role_code": "Q53857981",
+      "role": {
+        "lang:en": "Governor of Gombe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670489-7381BE36-E2B5-4F92-9929-229310F17C43",
+      "person_id": "Q4670489",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515404",
+      "area_id": "Q376241",
+      "role_code": "Q53857981",
+      "role": {
+        "lang:en": "Governor of Gombe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6285965-ADCD771A-F442-4081-9905-950B4F7FBD3C",
+      "person_id": "Q6285965",
+      "organization_id": "Q59515404",
+      "area_id": "Q376241",
+      "role_code": "Q53857981",
+      "role": {
+        "lang:en": "Governor of Gombe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893015-34ECE42D-6E86-4A33-BA9B-ACF856A2DDAD",
+      "person_id": "Q6893015",
+      "organization_id": "Q59515404",
+      "area_id": "Q376241",
+      "role_code": "Q53857981",
+      "role": {
+        "lang:en": "Governor of Gombe State"
+      }
+    }
+  ]
+}

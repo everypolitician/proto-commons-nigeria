@@ -1,0 +1,67 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Vivian Akpamgbo Okadigbo"
+      },
+      "id": "Q59828950",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59828950"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Anambra State House Of Assembly"
+      },
+      "id": "Q28406862",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28406862"
+        }
+      ],
+      "area_id": "Q117714",
+      "seat_counts": {
+        "Q59528228": "30"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59828950-652809AC-4A68-419E-A727-937FC0433CBC",
+      "person_id": "Q59828950",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28406862",
+      "area_id": "Q59818764",
+      "role_code": "Q59528228",
+      "role": {
+        "lang:en": "member of the Anambra State House of Assembly"
+      }
+    }
+  ]
+}

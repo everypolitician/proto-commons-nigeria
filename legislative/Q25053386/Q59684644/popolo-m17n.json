@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Jigawa State House of Assembly"
+      },
+      "id": "Q25053386",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25053386"
+        }
+      ],
+      "area_id": "Q682691",
+      "seat_counts": {
+        "Q59528329": "30"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

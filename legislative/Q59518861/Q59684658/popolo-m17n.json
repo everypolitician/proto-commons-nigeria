@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Nasarawa State House of Assembly"
+      },
+      "id": "Q59518861",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518861"
+        }
+      ],
+      "area_id": "Q836645",
+      "seat_counts": {
+        "Q59528348": "24"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Umaru Musa Yar'Adua"
+      },
+      "id": "Q104705",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q104705"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samaila Bature Chamah"
+      },
+      "id": "Q13140838",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140838"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdullahi Sarki Mukhtar"
+      },
+      "id": "Q4666138",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666138"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Emmanuel Acholonu"
+      },
+      "id": "Q5373114",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5373114"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Madaki"
+      },
+      "id": "Q6246345",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6246345"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Akaagerger"
+      },
+      "id": "Q6280933",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6280933"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lawrence Onoja"
+      },
+      "id": "Q6504442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6504442"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saidu Barda"
+      },
+      "id": "Q7399991",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399991"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Katsina State Executive Council"
+      },
+      "id": "Q30674611",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30674611"
+        }
+      ],
+      "area_id": "Q657821"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Republican Convention"
+      },
+      "id": "Q6978037",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6978037"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q104705-254A063F-07E0-461F-A3C2-6BC6AF4F9BF3",
+      "person_id": "Q104705",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140838-FC176DBF-6935-4F26-85F9-724CD9005312",
+      "person_id": "Q13140838",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666138-60DDEE90-ACD8-4847-AE36-6C016ACEB26C",
+      "person_id": "Q4666138",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5373114-FD8A604F-7172-466F-9E7C-510D9580B520",
+      "person_id": "Q5373114",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6246345-35EA6326-5C21-4636-8783-B9F1D07DE13B",
+      "person_id": "Q6246345",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6280933-63DD3B4F-87A7-43CA-A026-2D1560720D85",
+      "person_id": "Q6280933",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6504442-3F3D7819-9F97-44F5-9B17-2BC9C21B3358",
+      "person_id": "Q6504442",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7399991-A2B5A866-8F40-479A-9A15-03E54E4E4767",
+      "person_id": "Q7399991",
+      "on_behalf_of_id": "Q6978037",
+      "organization_id": "Q30674611",
+      "area_id": "Q657821",
+      "role_code": "Q53864950",
+      "role": {
+        "lang:en": "Governor of Katsina State"
+      }
+    }
+  ]
+}

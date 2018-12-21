@@ -1,0 +1,333 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Adams Oshiomhole"
+      },
+      "id": "Q11282486",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11282486"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Godwin Obaseki"
+      },
+      "id": "Q24049118",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24049118"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lucky Igbinedion"
+      },
+      "id": "Q3510810",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510810"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anthony Onyearugbulem"
+      },
+      "id": "Q4773229",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4773229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Baba Adamu Iyam"
+      },
+      "id": "Q4837260",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4837260"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bassey Asuquo"
+      },
+      "id": "Q4868128",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4868128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Ewerekumoh Yeri"
+      },
+      "id": "Q6232105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6232105"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Odigie Oyegun"
+      },
+      "id": "Q6251126",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6251126"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Abul-Salam Onuka"
+      },
+      "id": "Q6892863",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6892863"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oserheimen Osunbor"
+      },
+      "id": "Q7106495",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7106495"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Edo State"
+      },
+      "id": "Q59515400",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515400"
+        }
+      ],
+      "area_id": "Q682704"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Action Congress of Nigeria"
+      },
+      "id": "Q343617",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q343617"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11282486-a6a7e27b-e92c-450a-98fb-603403825d5c",
+      "person_id": "Q11282486",
+      "on_behalf_of_id": "Q343617",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24049118-698ff94a-18ca-40f5-b170-aaffb884d9a9",
+      "person_id": "Q24049118",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510810-94A69D9B-A324-4F0A-91CB-D209F8C11C4F",
+      "person_id": "Q3510810",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4773229-FA6A3B9C-7A2D-4241-90D8-A9A4D1330392",
+      "person_id": "Q4773229",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4837260-28FA7830-250F-4D94-B149-D1F2D8248C07",
+      "person_id": "Q4837260",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4868128-C4266A51-8F22-4EDE-8039-0668E17D7F57",
+      "person_id": "Q4868128",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6232105-51390DEB-F93B-414E-8B4B-D4D0B217E58F",
+      "person_id": "Q6232105",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6251126-6FAF9294-E9F0-4AA8-8569-DE0FC997C874",
+      "person_id": "Q6251126",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6892863-09A8DE3D-ACD2-40E5-A575-C5FC26CF20AE",
+      "person_id": "Q6892863",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7106495-4AB72502-B64C-4568-A155-2ECE5631E05A",
+      "person_id": "Q7106495",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515400",
+      "area_id": "Q682704",
+      "role_code": "Q19682857",
+      "role": {
+        "lang:en": "Governor of Edo State"
+      }
+    }
+  ]
+}

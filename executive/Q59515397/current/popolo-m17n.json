@@ -1,0 +1,504 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Augustine Aniebo"
+      },
+      "id": "Q13628228",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13628228"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tunde Idiagbon"
+      },
+      "id": "Q3509487",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3509487"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ali Modu Sheriff"
+      },
+      "id": "Q3510727",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510727"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul One Mohammed"
+      },
+      "id": "Q4665586",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665586"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdulmumini Aminu"
+      },
+      "id": "Q4666166",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666166"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Waziri"
+      },
+      "id": "Q4670510",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670510"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asheik Jarma"
+      },
+      "id": "Q4804801",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4804801"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Dada"
+      },
+      "id": "Q5984512",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984512"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kashim Shettima"
+      },
+      "id": "Q6374297",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6374297"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lawal Haruna"
+      },
+      "id": "Q6503554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6503554"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mala Kachalla"
+      },
+      "id": "Q6740685",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6740685"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Buba Marwa"
+      },
+      "id": "Q6893047",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893047"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Goni"
+      },
+      "id": "Q6893106",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893106"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Maina"
+      },
+      "id": "Q6893192",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893192"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mustapha Amin"
+      },
+      "id": "Q6943424",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6943424"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Victor Ozodinobi"
+      },
+      "id": "Q7926221",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7926221"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Borno State"
+      },
+      "id": "Q59515397",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515397"
+        }
+      ],
+      "area_id": "Q130626"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Great Nigeria People's Party"
+      },
+      "id": "Q5599626",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5599626"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13628228-CED22F0E-EFB5-4E5E-B0F5-8B2840E5F810",
+      "person_id": "Q13628228",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3509487-D77F1C92-477B-4386-B418-5CE52C2C7972",
+      "person_id": "Q3509487",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510727-2BBAA7C1-D6BC-4D13-807F-15B7750DB66D",
+      "person_id": "Q3510727",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665586-8F819BA6-0CCD-414D-8121-035B804D3FE9",
+      "person_id": "Q4665586",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666166-6B312178-F046-4C65-A069-D284B5EA241F",
+      "person_id": "Q4666166",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670510-328B0461-4B84-4C47-8E5E-6675CA74D525",
+      "person_id": "Q4670510",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4804801-D7C2B339-30D2-4FDC-A6A6-4B673E266724",
+      "person_id": "Q4804801",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984512-A53CFF57-A5E7-48E3-8E8B-14823F548D2B",
+      "person_id": "Q5984512",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6374297-9DD0148A-E981-4357-9875-7370B5C00D6C",
+      "person_id": "Q6374297",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6503554-8F594BB2-FDC5-4DE7-B180-ECB88E46E2E1",
+      "person_id": "Q6503554",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6740685-DFDEAEF9-C1F0-48B4-8DF4-1F3A06855BF8",
+      "person_id": "Q6740685",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6740685-DFDEAEF9-C1F0-48B4-8DF4-1F3A06855BF8",
+      "person_id": "Q6740685",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6740685-DFDEAEF9-C1F0-48B4-8DF4-1F3A06855BF8",
+      "person_id": "Q6740685",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893047-F05C489A-C534-4ABE-9FE9-143AE7DAC224",
+      "person_id": "Q6893047",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893106-A72EECB8-AA95-4C76-A776-35630CBD1156",
+      "person_id": "Q6893106",
+      "on_behalf_of_id": "Q5599626",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893192-B28AEF6C-0E5F-4A0B-888A-C8CD6371D0E8",
+      "person_id": "Q6893192",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6943424-7D425729-392F-4D2D-8B3F-478C4B2B1671",
+      "person_id": "Q6943424",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7926221-AF6DE7A4-B9B5-4501-9B4D-524E2AC7AC9B",
+      "person_id": "Q7926221",
+      "organization_id": "Q59515397",
+      "area_id": "Q130626",
+      "role_code": "Q19681536",
+      "role": {
+        "lang:en": "Governor of Borno State"
+      }
+    }
+  ]
+}

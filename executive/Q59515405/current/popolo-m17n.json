@@ -1,0 +1,229 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Ibrahim Aliyu"
+      },
+      "id": "Q10986593",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10986593"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Badaru Abubakar"
+      },
+      "id": "Q20090053",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20090053"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sule Lamido"
+      },
+      "id": "Q3041557",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3041557"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Saminu Turaki"
+      },
+      "id": "Q3509330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3509330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Maimalari"
+      },
+      "id": "Q4670493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670493"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ali Sa'ad Birnin-Kudu"
+      },
+      "id": "Q4725160",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4725160"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olayinka Sule"
+      },
+      "id": "Q7083266",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7083266"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Jigawa State"
+      },
+      "id": "Q59515405",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515405"
+        }
+      ],
+      "area_id": "Q682691"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q7550561",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7550561"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10986593-AD5C9B6C-39C3-4812-B54D-5137A2B88825",
+      "person_id": "Q10986593",
+      "organization_id": "Q59515405",
+      "area_id": "Q682691",
+      "role_code": "Q53857995",
+      "role": {
+        "lang:en": "Governor of Jigawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20090053-7F6A389A-5B3E-4F2B-873C-D969743CC9F1",
+      "person_id": "Q20090053",
+      "organization_id": "Q59515405",
+      "area_id": "Q682691",
+      "role_code": "Q53857995",
+      "role": {
+        "lang:en": "Governor of Jigawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3041557-C3309CB6-F4F3-4E63-842E-2286C6CD99AA",
+      "person_id": "Q3041557",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515405",
+      "area_id": "Q682691",
+      "role_code": "Q53857995",
+      "role": {
+        "lang:en": "Governor of Jigawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3509330-C911F809-921E-4FF3-B318-DD2CCD4090B0",
+      "person_id": "Q3509330",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515405",
+      "area_id": "Q682691",
+      "role_code": "Q53857995",
+      "role": {
+        "lang:en": "Governor of Jigawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670493-CFBB5FAA-6C48-47DC-A4A7-A7FDC781EC47",
+      "person_id": "Q4670493",
+      "organization_id": "Q59515405",
+      "area_id": "Q682691",
+      "role_code": "Q53857995",
+      "role": {
+        "lang:en": "Governor of Jigawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4725160-25DD1761-4C92-4EE5-9D28-1BBB2CC38389",
+      "person_id": "Q4725160",
+      "on_behalf_of_id": "Q7550561",
+      "organization_id": "Q59515405",
+      "area_id": "Q682691",
+      "role_code": "Q53857995",
+      "role": {
+        "lang:en": "Governor of Jigawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7083266-47D5680E-C067-4541-B881-18FBAF4B6DA9",
+      "person_id": "Q7083266",
+      "organization_id": "Q59515405",
+      "area_id": "Q682691",
+      "role_code": "Q53857995",
+      "role": {
+        "lang:en": "Governor of Jigawa State"
+      }
+    }
+  ]
+}

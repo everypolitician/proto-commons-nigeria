@@ -1,0 +1,225 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "John Dungs"
+      },
+      "id": "Q13140715",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140715"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdulkadir Shehu"
+      },
+      "id": "Q3339484",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3339484"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bassey Asuquo"
+      },
+      "id": "Q4868128",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4868128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Felix Ibru"
+      },
+      "id": "Q5442241",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5442241"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Kefas"
+      },
+      "id": "Q5984620",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984620"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jereton Mariere"
+      },
+      "id": "Q6182063",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6182063"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Luke Chijiuba Ochulor"
+      },
+      "id": "Q6701885",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6701885"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Walter Feghabo"
+      },
+      "id": "Q7964825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7964825"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Delta State Executive Council"
+      },
+      "id": "Q30674575",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30674575"
+        }
+      ],
+      "area_id": "Q503910"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140715-B98C8E8F-4EAE-4E34-B1E4-11C3A0738B64",
+      "person_id": "Q13140715",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3339484-DCC4A4D8-E596-40C3-9FC7-22A62F6F40BD",
+      "person_id": "Q3339484",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4868128-FF79103C-3797-4BCD-BA82-F1BC351F34DB",
+      "person_id": "Q4868128",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5442241-126207E8-DE63-4E77-AF77-F63090202D16",
+      "person_id": "Q5442241",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984620-EDB5F4F2-CBCD-4012-9DCB-B663B013709C",
+      "person_id": "Q5984620",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6182063-3D43ECE7-0B05-469B-8FCD-3C65208C61D9",
+      "person_id": "Q6182063",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6701885-0F30544F-BAA9-4205-A567-1F5D4A8ED7CB",
+      "person_id": "Q6701885",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7964825-FB0CB39E-7579-4826-85C2-60DA91160244",
+      "person_id": "Q7964825",
+      "organization_id": "Q30674575",
+      "area_id": "Q503910",
+      "role_code": "Q19682774",
+      "role": {
+        "lang:en": "Governor of Delta State"
+      }
+    }
+  ]
+}

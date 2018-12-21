@@ -1,0 +1,480 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Abdullahi Balarabe Salame"
+      },
+      "id": "Q4666128",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmed Muhammad Daku"
+      },
+      "id": "Q4695941",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4695941"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aliyu Magatakarda Wamakko"
+      },
+      "id": "Q4727555",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4727555"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Attahiru Bafarawa"
+      },
+      "id": "Q4818065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4818065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bashir Salihi Magashi"
+      },
+      "id": "Q4866857",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4866857"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gado Nasko"
+      },
+      "id": "Q5516410",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5516410"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Garba Duba"
+      },
+      "id": "Q5521965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5521965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Garba Mohammed"
+      },
+      "id": "Q5521967",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5521967"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Garba Nadama"
+      },
+      "id": "Q5521968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5521968"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rasheed Adisa Raji"
+      },
+      "id": "Q7294836",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7294836"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rufai Garba"
+      },
+      "id": "Q7377879",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7377879"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shehu Kangiwa"
+      },
+      "id": "Q7492860",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7492860"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Umaru Mohammed"
+      },
+      "id": "Q7881174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7881174"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Usman Faruk"
+      },
+      "id": "Q7902046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7902046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yahaya Abdulkarim"
+      },
+      "id": "Q8046794",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8046794"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yakubu Mu'azu"
+      },
+      "id": "Q8047225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8047225"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Sokoto State"
+      },
+      "id": "Q59515422",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515422"
+        }
+      ],
+      "area_id": "Q503941"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Party of Nigeria"
+      },
+      "id": "Q6974818",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6974818"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666128-EB31CA4D-2586-41B5-85CF-01AB7ECC1563",
+      "person_id": "Q4666128",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4695941-4274C74E-DE85-49D5-BA01-F0C662F4BCE1",
+      "person_id": "Q4695941",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4727555-0913CFC5-FBF7-4118-8135-94C2725FCFEE",
+      "person_id": "Q4727555",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4818065-2F8FA1BE-DF70-485F-A0C9-238A2FCA25F4",
+      "person_id": "Q4818065",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4866857-D491FA16-3DB2-4BEA-867A-A17C16582D2C",
+      "person_id": "Q4866857",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5516410-1CE383F2-98D4-48A9-B127-1A499857A714",
+      "person_id": "Q5516410",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5521965-F2984618-0074-47F8-AB05-5E53A86A463C",
+      "person_id": "Q5521965",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5521967-194E7CB7-19A5-4237-87AE-E0CE68DB9B75",
+      "person_id": "Q5521967",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5521968-25A74909-E2D2-4A95-9AA4-D88D3D4E289C",
+      "person_id": "Q5521968",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5521968-25A74909-E2D2-4A95-9AA4-D88D3D4E289C",
+      "person_id": "Q5521968",
+      "on_behalf_of_id": "Q6974818",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7294836-748B562D-61B3-4C68-8CA9-DF6CD128C6AC",
+      "person_id": "Q7294836",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7377879-CF14DF27-0F0D-4B45-BD28-DFB022BBD427",
+      "person_id": "Q7377879",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7492860-EEE48D7B-D991-470F-A156-D93EBECC67F6",
+      "person_id": "Q7492860",
+      "on_behalf_of_id": "Q6974818",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7881174-EC78BE8C-9FCF-49E0-9603-933AA29291F2",
+      "person_id": "Q7881174",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7902046-D180640D-61C5-44D4-B5F1-4B8C9DC1E180",
+      "person_id": "Q7902046",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8046794-88A2EC77-E8FB-4E31-9D9C-65DDAE18D421",
+      "person_id": "Q8046794",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8047225-63BB1596-A5C2-4A8E-8D77-27F9984B7C03",
+      "person_id": "Q8047225",
+      "organization_id": "Q59515422",
+      "area_id": "Q503941",
+      "role_code": "Q53869292",
+      "role": {
+        "lang:en": "Governor of Sokoto State"
+      }
+    }
+  ]
+}

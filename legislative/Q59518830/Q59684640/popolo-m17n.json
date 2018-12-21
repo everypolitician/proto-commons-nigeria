@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Enugu State House of Assembly"
+      },
+      "id": "Q59518830",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518830"
+        }
+      ],
+      "area_id": "Q3817714",
+      "seat_counts": {
+        "Q59528323": "24"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

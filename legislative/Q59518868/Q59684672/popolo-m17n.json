@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Plateau State House of Assembly"
+      },
+      "id": "Q59518868",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518868"
+        }
+      ],
+      "area_id": "Q503928",
+      "seat_counts": {
+        "Q59528364": "24"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

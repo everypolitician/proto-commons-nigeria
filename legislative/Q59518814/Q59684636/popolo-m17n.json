@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Delta State House of Assembly"
+      },
+      "id": "Q59518814",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518814"
+        }
+      ],
+      "area_id": "Q503910",
+      "seat_counts": {
+        "Q59528246": "29"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Abubakar Sani Bello"
+      },
+      "id": "Q19668818",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19668818"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Niger State"
+      },
+      "id": "Q59515418",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515418"
+        }
+      ],
+      "area_id": "Q503932"
+    },
+    {
+      "name": {
+        "lang:en": "Action Congress of Nigeria"
+      },
+      "id": "Q343617",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q343617"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19668818-f2f70c3e-f8f9-4e85-8f58-a8bdcd31b05e",
+      "person_id": "Q19668818",
+      "on_behalf_of_id": "Q343617",
+      "organization_id": "Q59515418",
+      "area_id": "Q503932",
+      "start_date": "2015-05-29",
+      "role_code": "Q53866438",
+      "role": {
+        "lang:en": "Governor of Niger State"
+      }
+    }
+  ]
+}

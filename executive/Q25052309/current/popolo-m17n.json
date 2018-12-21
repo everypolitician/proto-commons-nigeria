@@ -1,0 +1,193 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Celestine Omehia"
+      },
+      "id": "Q13140616",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140616"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ezenwo Nyesom Wike"
+      },
+      "id": "Q18354468",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18354468"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Odili"
+      },
+      "id": "Q3510771",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510771"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Melford Okilo"
+      },
+      "id": "Q6812232",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6812232"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rotimi Amaechi"
+      },
+      "id": "Q7370548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7370548"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rufus Ada-George"
+      },
+      "id": "Q7377996",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7377996"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Rivers State"
+      },
+      "id": "Q25052309",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25052309"
+        }
+      ],
+      "area_id": "Q503923"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140616-CCAD06D4-16E4-4791-AC86-30F635D4638D",
+      "person_id": "Q13140616",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25052309",
+      "area_id": "Q503923",
+      "role_code": "Q23020727",
+      "role": {
+        "lang:en": "Governor of Rivers State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18354468-38C2F02E-CA69-407F-AFC7-95BC0DD513EC",
+      "person_id": "Q18354468",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25052309",
+      "area_id": "Q503923",
+      "role_code": "Q23020727",
+      "role": {
+        "lang:en": "Governor of Rivers State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510771-38C57438-2419-4C57-B5CA-02BC97221801",
+      "person_id": "Q3510771",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25052309",
+      "area_id": "Q503923",
+      "role_code": "Q23020727",
+      "role": {
+        "lang:en": "Governor of Rivers State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6812232-DB615AC0-1B57-47FF-8DAE-2AD1122E5971",
+      "person_id": "Q6812232",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25052309",
+      "area_id": "Q503923",
+      "role_code": "Q23020727",
+      "role": {
+        "lang:en": "Governor of Rivers State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7370548-EA352D52-4040-4A71-AA5C-3BBF56A4AFE3",
+      "person_id": "Q7370548",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25052309",
+      "area_id": "Q503923",
+      "role_code": "Q23020727",
+      "role": {
+        "lang:en": "Governor of Rivers State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7377996-F7AAD063-0A4A-4567-9282-F99B5B567D9A",
+      "person_id": "Q7377996",
+      "organization_id": "Q25052309",
+      "area_id": "Q503923",
+      "role_code": "Q23020727",
+      "role": {
+        "lang:en": "Governor of Rivers State"
+      }
+    }
+  ]
+}
