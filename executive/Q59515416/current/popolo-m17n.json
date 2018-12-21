@@ -1,0 +1,506 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Usman Jibrin"
+      },
+      "id": "Q13140885",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140885"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Namadi Sambo"
+      },
+      "id": "Q2993602",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2993602"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patrick Ibrahim Yakowa"
+      },
+      "id": "Q3369538",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3369538"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abba Kyari"
+      },
+      "id": "Q4663653",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4663653"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abba Musa Rimi"
+      },
+      "id": "Q4663657",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4663657"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdulkadir Balarabe Musa"
+      },
+      "id": "Q4665854",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665854"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdullahi Sarki Mukhtar"
+      },
+      "id": "Q4666138",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666138"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Tanko Ayuba"
+      },
+      "id": "Q4670506",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670506"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dangiwa Umar"
+      },
+      "id": "Q5216173",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5216173"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hammed Ali"
+      },
+      "id": "Q5645584",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5645584"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Mahmud Alfa"
+      },
+      "id": "Q5984651",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984651"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lawal Jafaru Isa"
+      },
+      "id": "Q6503557",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6503557"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lawal Kaita"
+      },
+      "id": "Q6503558",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6503558"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Dabo Lere"
+      },
+      "id": "Q6893053",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893053"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mukhtar Ramalan Yero"
+      },
+      "id": "Q6933504",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6933504"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muktar Muhammed"
+      },
+      "id": "Q6933618",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6933618"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Umar Farouk Ahmed"
+      },
+      "id": "Q7881122",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7881122"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Usman Mu'azu"
+      },
+      "id": "Q7902054",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7902054"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Kaduna State"
+      },
+      "id": "Q59515416",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515416"
+        }
+      ],
+      "area_id": "Q878284"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Republican Convention"
+      },
+      "id": "Q6978037",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6978037"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140885-7fe22d5e-3290-44dc-89fa-f0eaeaa0511a",
+      "person_id": "Q13140885",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2993602-22A9FF98-A0BC-41BE-BC8E-69347576FD00",
+      "person_id": "Q2993602",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3369538-EFD8BCBB-2324-43FD-84AC-9C580AA3677F",
+      "person_id": "Q3369538",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4663653-c99a48ab-1994-4fc4-a641-d3fb3179429e",
+      "person_id": "Q4663653",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4663657-8D7184B6-BF48-4EB4-811F-F2A82BCE17D4",
+      "person_id": "Q4663657",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665854-274F2AA0-BB75-4518-80C5-E3B0B5CDCBBA",
+      "person_id": "Q4665854",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666138-C72C5D8D-A783-4410-A0AA-4C2EE1AC56F2",
+      "person_id": "Q4666138",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670506-CB1C3AC4-B13C-4EC9-BD00-0FC0D6EA1073",
+      "person_id": "Q4670506",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5216173-AC2C57AC-9DFB-493C-B0B8-484DAB1A5604",
+      "person_id": "Q5216173",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5645584-7DE8C941-66C8-4699-8DE9-9C133A57615F",
+      "person_id": "Q5645584",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984651-41F1F38E-6258-47DE-8077-9B9F8E60536B",
+      "person_id": "Q5984651",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6503557-C23DDB42-3B57-419A-BE9F-0AFC441FE1AE",
+      "person_id": "Q6503557",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6503558-CD450738-5E67-4DC5-83D6-9D403E15BA5A",
+      "person_id": "Q6503558",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893053-0782EB2D-8C63-4D34-B012-9770CA42CE58",
+      "person_id": "Q6893053",
+      "on_behalf_of_id": "Q6978037",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6933504-95AD1FA4-311B-4E6E-A79C-ED03C9258CB7",
+      "person_id": "Q6933504",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6933618-C3EAC0B5-C647-42A7-A94F-41F92BE68E28",
+      "person_id": "Q6933618",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7881122-EA63C9A6-E364-4EAF-9028-01E5F6721D99",
+      "person_id": "Q7881122",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7902054-CD4AC096-1541-4E7B-B47D-03FD91A90B61",
+      "person_id": "Q7902054",
+      "organization_id": "Q59515416",
+      "area_id": "Q878284",
+      "role_code": "Q14915296",
+      "role": {
+        "lang:en": "Governor of Kaduna State"
+      }
+    }
+  ]
+}

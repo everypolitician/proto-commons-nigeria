@@ -1,3 +1,431 @@
 [
-
+  {
+    "comment": "Executive Council of Rivers State",
+    "area_id": "Q503923",
+    "executive_item_id": "Q25052309",
+    "positions": [
+      {
+        "comment": "Governor of Rivers State",
+        "position_item_id": "Q23020727"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Abia State",
+    "area_id": "Q320852",
+    "executive_item_id": "Q25053998",
+    "positions": [
+      {
+        "comment": "Governor of Abia State",
+        "position_item_id": "Q19671478"
+      }
+    ]
+  },
+  {
+    "comment": "Lagos State Executive Council",
+    "area_id": "Q815913",
+    "executive_item_id": "Q28456790",
+    "positions": [
+      {
+        "comment": "Lagos State Governor",
+        "position_item_id": "Q19901457"
+      }
+    ]
+  },
+  {
+    "comment": "Oyo State Executive Council",
+    "area_id": "Q503905",
+    "executive_item_id": "Q28456798",
+    "positions": [
+      {
+        "comment": "Governor of Oyo State",
+        "position_item_id": "Q13140661"
+      }
+    ]
+  },
+  {
+    "comment": "Osun State Executive Council",
+    "area_id": "Q682721",
+    "executive_item_id": "Q28456804",
+    "positions": [
+      {
+        "comment": "Governor of Osun State",
+        "position_item_id": "Q53869191"
+      }
+    ]
+  },
+  {
+    "comment": "Anambra State Executive Council",
+    "area_id": "Q117714",
+    "executive_item_id": "Q28456805",
+    "positions": [
+      {
+        "comment": "Governor of Anambra State",
+        "position_item_id": "Q19671587"
+      }
+    ]
+  },
+  {
+    "comment": "Nasarawa State Executive Council",
+    "area_id": "Q836645",
+    "executive_item_id": "Q28456809",
+    "positions": [
+      {
+        "comment": "Governor of Nasarawa State",
+        "position_item_id": "Q53866357"
+      }
+    ]
+  },
+  {
+    "comment": "Ebonyi State Executive Council",
+    "area_id": "Q506808",
+    "executive_item_id": "Q30589469",
+    "positions": [
+      {
+        "comment": "Governor of Ebonyi State",
+        "position_item_id": "Q19682827"
+      }
+    ]
+  },
+  {
+    "comment": "Akwa Ibom Executive Council",
+    "area_id": "Q424388",
+    "executive_item_id": "Q30674557",
+    "positions": [
+      {
+        "comment": "Governor of Akwa Ibom State",
+        "position_item_id": "Q19671558"
+      }
+    ]
+  },
+  {
+    "comment": "Delta State Executive Council",
+    "area_id": "Q503910",
+    "executive_item_id": "Q30674575",
+    "positions": [
+      {
+        "comment": "Governor of Delta State",
+        "position_item_id": "Q19682774"
+      }
+    ]
+  },
+  {
+    "comment": "Kwara State Executive Council",
+    "area_id": "Q464953",
+    "executive_item_id": "Q30674589",
+    "positions": [
+      {
+        "comment": "Governor of Kwara State",
+        "position_item_id": "Q53865552"
+      }
+    ]
+  },
+  {
+    "comment": "Katsina State Executive Council",
+    "area_id": "Q657821",
+    "executive_item_id": "Q30674611",
+    "positions": [
+      {
+        "comment": "Governor of Katsina State",
+        "position_item_id": "Q53864950"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Bayelsa State",
+    "area_id": "Q532153",
+    "executive_item_id": "Q48816546",
+    "positions": [
+      {
+        "comment": "Governor of Bayelsa State",
+        "position_item_id": "Q19681529"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Cross River State",
+    "area_id": "Q739676",
+    "executive_item_id": "Q48816666",
+    "positions": [
+      {
+        "comment": "Governor of Cross River State",
+        "position_item_id": "Q53845430"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Imo State",
+    "area_id": "Q842939",
+    "executive_item_id": "Q48816766",
+    "positions": [
+      {
+        "comment": "Governor of Imo State",
+        "position_item_id": "Q53857987"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Kano State",
+    "area_id": "Q682571",
+    "executive_item_id": "Q48816769",
+    "positions": [
+      {
+        "comment": "Governor of Kano State",
+        "position_item_id": "Q53864915"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Ogun State",
+    "area_id": "Q836657",
+    "executive_item_id": "Q48816849",
+    "positions": [
+      {
+        "comment": "Governor of Ogun State",
+        "position_item_id": "Q53869139"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Taraba State",
+    "area_id": "Q463959",
+    "executive_item_id": "Q48817777",
+    "positions": [
+      {
+        "comment": "Governor of Taraba State",
+        "position_item_id": "Q53869373"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Nigeria",
+    "area_id": "Q1033",
+    "executive_item_id": "Q5015542",
+    "positions": [
+      {
+        "comment": "President of Nigeria",
+        "position_item_id": "Q500282"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Nigeria",
+    "area_id": "Q509300",
+    "executive_item_id": "Q5015542",
+    "positions": [
+      {
+        "comment": "Honorable Minister of the Federal Capital Territory",
+        "position_item_id": "Q59514359"
+      }
+    ]
+  },
+  {
+    "comment": "Federal Capital Territory Administration",
+    "area_id": "Q509300",
+    "executive_item_id": "Q5440052",
+    "positions": [
+      {
+        "comment": "Honorable Minister of the Federal Capital Territory",
+        "position_item_id": "Q59514359"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of Kebbi State",
+    "area_id": "Q748523",
+    "executive_item_id": "Q55611262",
+    "positions": [
+      {
+        "comment": "Governor of Kebbi State",
+        "position_item_id": "Q6572142"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Adamawa State",
+    "area_id": "Q337514",
+    "executive_item_id": "Q59515393",
+    "positions": [
+      {
+        "comment": "Governor of Adamawa State",
+        "position_item_id": "Q19671527"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Bauchi State",
+    "area_id": "Q503936",
+    "executive_item_id": "Q59515395",
+    "positions": [
+      {
+        "comment": "Governor of Bauchi State",
+        "position_item_id": "Q19681521"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Benue State",
+    "area_id": "Q429908",
+    "executive_item_id": "Q59515396",
+    "positions": [
+      {
+        "comment": "Governor of Benue State",
+        "position_item_id": "Q19670906"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Borno State",
+    "area_id": "Q130626",
+    "executive_item_id": "Q59515397",
+    "positions": [
+      {
+        "comment": "Governor of Borno State",
+        "position_item_id": "Q19681536"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Edo State",
+    "area_id": "Q682704",
+    "executive_item_id": "Q59515400",
+    "positions": [
+      {
+        "comment": "Governor of Edo State",
+        "position_item_id": "Q19682857"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Ekiti State",
+    "area_id": "Q534917",
+    "executive_item_id": "Q59515401",
+    "positions": [
+      {
+        "comment": "Governor of Ekiti State",
+        "position_item_id": "Q53857743"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Enugu State",
+    "area_id": "Q3817714",
+    "executive_item_id": "Q59515403",
+    "positions": [
+      {
+        "comment": "Governor of Enugu State",
+        "position_item_id": "Q53857940"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Gombe State",
+    "area_id": "Q376241",
+    "executive_item_id": "Q59515404",
+    "positions": [
+      {
+        "comment": "Governor of Gombe State",
+        "position_item_id": "Q53857981"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Jigawa State",
+    "area_id": "Q682691",
+    "executive_item_id": "Q59515405",
+    "positions": [
+      {
+        "comment": "Governor of Jigawa State",
+        "position_item_id": "Q53857995"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Kaduna State",
+    "area_id": "Q878284",
+    "executive_item_id": "Q59515416",
+    "positions": [
+      {
+        "comment": "Governor of Kaduna State",
+        "position_item_id": "Q14915296"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Kogi State",
+    "area_id": "Q387745",
+    "executive_item_id": "Q59515417",
+    "positions": [
+      {
+        "comment": "Governor of Kogi State",
+        "position_item_id": "Q53865201"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Niger State",
+    "area_id": "Q503932",
+    "executive_item_id": "Q59515418",
+    "positions": [
+      {
+        "comment": "Governor of Niger State",
+        "position_item_id": "Q53866438"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Ondo State",
+    "area_id": "Q836654",
+    "executive_item_id": "Q59515420",
+    "positions": [
+      {
+        "comment": "Governor of Ondo State",
+        "position_item_id": "Q53869155"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Plateau State",
+    "area_id": "Q503928",
+    "executive_item_id": "Q59515421",
+    "positions": [
+      {
+        "comment": "Governor of Plateau State",
+        "position_item_id": "Q53869276"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Sokoto State",
+    "area_id": "Q503941",
+    "executive_item_id": "Q59515422",
+    "positions": [
+      {
+        "comment": "Governor of Sokoto State",
+        "position_item_id": "Q53869292"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Yobe State",
+    "area_id": "Q682777",
+    "executive_item_id": "Q59515424",
+    "positions": [
+      {
+        "comment": "Governor of Yobe State",
+        "position_item_id": "Q53869380"
+      }
+    ]
+  },
+  {
+    "comment": "executive council of Zamfara State",
+    "area_id": "Q145793",
+    "executive_item_id": "Q59515426",
+    "positions": [
+      {
+        "comment": "Governor of Zamfara State",
+        "position_item_id": "Q53869387"
+      }
+    ]
+  }
 ]

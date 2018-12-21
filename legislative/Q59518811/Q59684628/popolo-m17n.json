@@ -1,0 +1,68 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "John Gaul Lebo"
+      },
+      "id": "Q51337238",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51337238"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Cross River State House of Assembly"
+      },
+      "id": "Q59518811",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518811"
+        }
+      ],
+      "area_id": "Q739676",
+      "seat_counts": {
+        "Q59528236": "25"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51337238-94CFCA75-4F3C-4217-AF6C-D48F3A129FEA",
+      "person_id": "Q51337238",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59518811",
+      "area_id": "Q59818964",
+      "role_code": "Q59528236",
+      "role": {
+        "lang:en": "member of the Cross River State House of Assembly"
+      },
+      "term_id": "Q59684628"
+    }
+  ]
+}

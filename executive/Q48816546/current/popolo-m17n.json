@@ -1,0 +1,65 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Henry Dickson"
+      },
+      "id": "Q5720323",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5720323"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Bayelsa State"
+      },
+      "id": "Q48816546",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48816546"
+        }
+      ],
+      "area_id": "Q532153"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5720323-F789B279-40B0-4881-BA6C-5DB12F383D3C",
+      "person_id": "Q5720323",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816546",
+      "area_id": "Q532153",
+      "start_date": "2012-02-14",
+      "role_code": "Q19681529",
+      "role": {
+        "lang:en": "Governor of Bayelsa State"
+      }
+    }
+  ]
+}

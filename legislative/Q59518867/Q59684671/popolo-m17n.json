@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Oyo State House of Assembly"
+      },
+      "id": "Q59518867",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518867"
+        }
+      ],
+      "area_id": "Q503905",
+      "seat_counts": {
+        "Q59528363": "32"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

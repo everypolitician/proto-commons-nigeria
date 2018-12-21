@@ -1,0 +1,418 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Ndubuisi Kanu"
+      },
+      "id": "Q13140759",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140759"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rochas Okorocha"
+      },
+      "id": "Q13140832",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140832"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ike Nwachukwu"
+      },
+      "id": "Q3381247",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3381247"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Achike Udenwa"
+      },
+      "id": "Q3510857",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510857"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ikedi Ohakim"
+      },
+      "id": "Q3510911",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510911"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Allison Madueke"
+      },
+      "id": "Q4732798",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4732798"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amadi Ikwechegh"
+      },
+      "id": "Q4739047",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4739047"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anthony E. Oguguo"
+      },
+      "id": "Q4772441",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4772441"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Evan Enwerem"
+      },
+      "id": "Q5415377",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5415377"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James N.J. Aneke"
+      },
+      "id": "Q6140229",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6140229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sam Mbakwe"
+      },
+      "id": "Q7407865",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7407865"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sunday Ajibade Adenihun"
+      },
+      "id": "Q7639330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7639330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tanko Zubairu"
+      },
+      "id": "Q7683559",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7683559"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Imo State"
+      },
+      "id": "Q48816766",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48816766"
+        }
+      ],
+      "area_id": "Q842939"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All People's Party"
+      },
+      "id": "Q2647821",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2647821"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Grand Alliance"
+      },
+      "id": "Q4729271",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729271"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nigerian People's Party"
+      },
+      "id": "Q7033003",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7033003"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140759-624A235C-5DE4-43E9-A590-FFFC64FAE22A",
+      "person_id": "Q13140759",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140832-66CCD9B3-7161-479B-80CF-11E6F067CDDB",
+      "person_id": "Q13140832",
+      "on_behalf_of_id": "Q4729271",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3381247-552CB13F-55BC-4002-9E6E-D6F8533BEBDC",
+      "person_id": "Q3381247",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510857-E51724E5-3661-4000-8A75-A9822F5E388F",
+      "person_id": "Q3510857",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510911-83FEF4CB-D877-4DE3-8108-16AEDA6B55CE",
+      "person_id": "Q3510911",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4732798-F8C85885-AEC5-490A-91CE-E1399945784C",
+      "person_id": "Q4732798",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4739047-B0D3C696-4306-4319-9C50-04139F3E3708",
+      "person_id": "Q4739047",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4772441-9A719128-DE09-4DE1-9816-56FD15D14E46",
+      "person_id": "Q4772441",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5415377-254E3403-794E-4A54-B532-35C90470A6C1",
+      "person_id": "Q5415377",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5415377-254E3403-794E-4A54-B532-35C90470A6C1",
+      "person_id": "Q5415377",
+      "on_behalf_of_id": "Q2647821",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6140229-BA27A6E7-41D7-47E9-AB33-304C20AEC5DC",
+      "person_id": "Q6140229",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7407865-B463B01F-AE6F-462D-AFF7-29B4BCEE1DA2",
+      "person_id": "Q7407865",
+      "on_behalf_of_id": "Q7033003",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7639330-4F363C82-0CF5-4CCF-9F08-FC22D6D650EA",
+      "person_id": "Q7639330",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7683559-B0271EF1-4AB6-4321-B409-655459F07E29",
+      "person_id": "Q7683559",
+      "organization_id": "Q48816766",
+      "area_id": "Q842939",
+      "role_code": "Q53857987",
+      "role": {
+        "lang:en": "Governor of Imo State"
+      }
+    }
+  ]
+}

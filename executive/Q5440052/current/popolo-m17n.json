@@ -1,0 +1,50 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Alhaji Muhammad Musa Bello"
+      },
+      "id": "Q59829052",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59829052"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Federal Capital Territory Administration"
+      },
+      "id": "Q5440052",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5440052"
+        }
+      ],
+      "area_id": "Q509300"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59829052-8AE8B3EE-5D26-47DA-A15B-BC787A99B9FC",
+      "person_id": "Q59829052",
+      "organization_id": "Q5440052",
+      "area_id": "Q509300",
+      "role_code": "Q59514359",
+      "role": {
+        "lang:en": "Honorable Minister of the Federal Capital Territory"
+      }
+    }
+  ]
+}

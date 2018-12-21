@@ -1,0 +1,384 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Uduokaha Esuene"
+      },
+      "id": "Q13140880",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140880"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Donald Duke"
+      },
+      "id": "Q3034236",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3034236"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Babatunde Elegbede"
+      },
+      "id": "Q4837544",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4837544"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christopher Osondu"
+      },
+      "id": "Q5113006",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5113006"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Clement Ebri"
+      },
+      "id": "Q5131313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5131313"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Clement Isong"
+      },
+      "id": "Q5131343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5131343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dan Archibong"
+      },
+      "id": "Q5213095",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5213095"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Donald Etiebet"
+      },
+      "id": "Q5294316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5294316"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eben Ibim Princewill"
+      },
+      "id": "Q5331604",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5331604"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ernest Attah"
+      },
+      "id": "Q5392744",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5392744"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liyel Imoke"
+      },
+      "id": "Q6660017",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6660017"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Omu"
+      },
+      "id": "Q7152830",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7152830"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Cross River State"
+      },
+      "id": "Q48816666",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48816666"
+        }
+      ],
+      "area_id": "Q739676"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Party of Nigeria"
+      },
+      "id": "Q6974818",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6974818"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q7550561",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7550561"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140880-9f6a25e8-2948-440c-a9ef-8ee9e11b49b5",
+      "person_id": "Q13140880",
+      "on_behalf_of_id": "Q7550561",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3034236-36751EE1-E01F-4D5E-B753-3C9A836E9F00",
+      "person_id": "Q3034236",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4837544-919d5c92-af1a-4a22-ad62-82a3028fbebe",
+      "person_id": "Q4837544",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5113006-d59e9568-3711-4976-ae7d-20992ffe4455",
+      "person_id": "Q5113006",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5131313-8CA4E70E-2FAF-4C0A-8BE5-3BB8D866DE06",
+      "person_id": "Q5131313",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5131343-E818C37D-0822-40FF-A18E-DB2E11673390",
+      "person_id": "Q5131343",
+      "on_behalf_of_id": "Q6974818",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5213095-90da965a-017b-4618-84d6-c30476cc42ad",
+      "person_id": "Q5213095",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5294316-B0347BC4-7D14-4FBD-896A-95F71F96C3A0",
+      "person_id": "Q5294316",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5331604-9f9ecb7f-a029-4db4-a693-90f74f4578d5",
+      "person_id": "Q5331604",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5392744-d8e9d6aa-b2e7-4aa3-9863-f424d4ef85e1",
+      "person_id": "Q5392744",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6660017-01A8BCA1-96F0-4C2B-B5D0-2230DCF869E2",
+      "person_id": "Q6660017",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7152830-2a889c00-69ff-4412-b017-59d35d032bbe",
+      "person_id": "Q7152830",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q48816666",
+      "area_id": "Q739676",
+      "role_code": "Q53845430",
+      "role": {
+        "lang:en": "Governor of Cross River State"
+      }
+    }
+  ]
+}

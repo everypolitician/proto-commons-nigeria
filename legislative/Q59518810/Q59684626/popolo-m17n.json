@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Borno State House of Assembly"
+      },
+      "id": "Q59518810",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518810"
+        }
+      ],
+      "area_id": "Q130626",
+      "seat_counts": {
+        "Q59528233": "28"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

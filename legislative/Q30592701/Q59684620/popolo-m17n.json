@@ -1,0 +1,68 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Onofiok A. Luke"
+      },
+      "id": "Q21063010",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21063010"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Akwa Ibom State House of Assembly"
+      },
+      "id": "Q30592701",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30592701"
+        }
+      ],
+      "area_id": "Q424388",
+      "seat_counts": {
+        "Q59528226": "26"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21063010-D4D3B497-77A9-4F1D-A6D8-B06022B4A9DC",
+      "person_id": "Q21063010",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30592701",
+      "area_id": "Q59818791",
+      "role_code": "Q59528226",
+      "role": {
+        "lang:en": "member of the Akwa Ibom State House of Assembly"
+      },
+      "term_id": "Q59684620"
+    }
+  ]
+}

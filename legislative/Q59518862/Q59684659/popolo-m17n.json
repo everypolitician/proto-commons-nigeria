@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Niger State House of Assembly"
+      },
+      "id": "Q59518862",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518862"
+        }
+      ],
+      "area_id": "Q503932",
+      "seat_counts": {
+        "Q59528349": "27"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

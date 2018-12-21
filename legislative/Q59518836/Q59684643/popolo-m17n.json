@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Imo State House of Assembly"
+      },
+      "id": "Q59518836",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518836"
+        }
+      ],
+      "area_id": "Q842939",
+      "seat_counts": {
+        "Q59528327": "27"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Sokoto State House of Assembly"
+      },
+      "id": "Q59518870",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518870"
+        }
+      ],
+      "area_id": "Q503941",
+      "seat_counts": {
+        "Q59528368": "30"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

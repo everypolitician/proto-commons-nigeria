@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Adamawa State House of Assembly"
+      },
+      "id": "Q59518801",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518801"
+        }
+      ],
+      "area_id": "Q337514",
+      "seat_counts": {
+        "Q59528225": "25"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ekiti State House of Assembly"
+      },
+      "id": "Q59518829",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518829"
+        }
+      ],
+      "area_id": "Q534917",
+      "seat_counts": {
+        "Q59528322": "26"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

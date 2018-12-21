@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Benue State House of Assembly"
+      },
+      "id": "Q59518808",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518808"
+        }
+      ],
+      "area_id": "Q429908",
+      "seat_counts": {
+        "Q59528232": "29"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Zamfara State House of Assembly"
+      },
+      "id": "Q59518875",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518875"
+        }
+      ],
+      "area_id": "Q145793",
+      "seat_counts": {
+        "Q59528373": "24"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

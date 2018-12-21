@@ -1,0 +1,216 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Samaila Bature Chamah"
+      },
+      "id": "Q13140838",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140838"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adamu Aliero"
+      },
+      "id": "Q3510712",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510712"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Musa"
+      },
+      "id": "Q4670496",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670496"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Ubah"
+      },
+      "id": "Q6261545",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6261545"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patrick Aziza"
+      },
+      "id": "Q7146067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7146067"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Salihu Tunde Bello"
+      },
+      "id": "Q7404523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7404523"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Usman Saidu Nasamu Dakingari"
+      },
+      "id": "Q7902060",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7902060"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Kebbi State"
+      },
+      "id": "Q55611262",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55611262"
+        }
+      ],
+      "area_id": "Q748523"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140838-98A9FF99-03F9-42EE-8245-AD4CA73396B7",
+      "person_id": "Q13140838",
+      "organization_id": "Q55611262",
+      "area_id": "Q748523",
+      "role_code": "Q6572142",
+      "role": {
+        "lang:en": "Governor of Kebbi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510712-7591071C-5834-4689-91FB-6735B8CFE13E",
+      "person_id": "Q3510712",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q55611262",
+      "area_id": "Q748523",
+      "role_code": "Q6572142",
+      "role": {
+        "lang:en": "Governor of Kebbi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670496-963C1CD1-186F-402E-A815-F60F9894A0E9",
+      "person_id": "Q4670496",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q55611262",
+      "area_id": "Q748523",
+      "role_code": "Q6572142",
+      "role": {
+        "lang:en": "Governor of Kebbi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6261545-877D05FF-FECD-4DD2-812F-E5AF5B14A98F",
+      "person_id": "Q6261545",
+      "organization_id": "Q55611262",
+      "area_id": "Q748523",
+      "role_code": "Q6572142",
+      "role": {
+        "lang:en": "Governor of Kebbi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7146067-7F979B85-CEE6-4D2C-8443-617E46D9B45D",
+      "person_id": "Q7146067",
+      "organization_id": "Q55611262",
+      "area_id": "Q748523",
+      "role_code": "Q6572142",
+      "role": {
+        "lang:en": "Governor of Kebbi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7404523-3A8F32DF-0B3D-4D10-987E-1604F0604E3B",
+      "person_id": "Q7404523",
+      "organization_id": "Q55611262",
+      "area_id": "Q748523",
+      "role_code": "Q6572142",
+      "role": {
+        "lang:en": "Governor of Kebbi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7902060-A6D36E06-CE24-4CA9-85F5-9BB5DB8D7230",
+      "person_id": "Q7902060",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q55611262",
+      "area_id": "Q748523",
+      "role_code": "Q6572142",
+      "role": {
+        "lang:en": "Governor of Kebbi State"
+      }
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mike Akhigbe"
+      },
+      "id": "Q3296213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3296213"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adebayo Adefarati"
+      },
+      "id": "Q3511666",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3511666"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmed Usman"
+      },
+      "id": "Q4696051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4696051"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anthony Onyearugbulem"
+      },
+      "id": "Q4773229",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4773229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bamidele Olumilua"
+      },
+      "id": "Q4853498",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4853498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bode George"
+      },
+      "id": "Q4936427",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4936427"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ekundayo Opaleye"
+      },
+      "id": "Q5350626",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5350626"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ita David Ikpeme"
+      },
+      "id": "Q6092241",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6092241"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oluwarotimi Odunayo Akeredolu"
+      },
+      "id": "Q6725311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6725311"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Adekunle Ajasin"
+      },
+      "id": "Q6828125",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6828125"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Bamidele Otiko"
+      },
+      "id": "Q6828397",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6828397"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mike Torey"
+      },
+      "id": "Q6849066",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6849066"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Moses Fasanya"
+      },
+      "id": "Q6915780",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6915780"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olusegun Agagu"
+      },
+      "id": "Q7088858",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7088858"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olusegun Mimiko"
+      },
+      "id": "Q7088860",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7088860"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raji Rasaki"
+      },
+      "id": "Q7286136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286136"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sunday Abiodun Olukoya"
+      },
+      "id": "Q7639323",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7639323"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sunday Tuoyo"
+      },
+      "id": "Q7639588",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7639588"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Ondo State"
+      },
+      "id": "Q59515420",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515420"
+        }
+      ],
+      "area_id": "Q836654"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party"
+      },
+      "id": "Q6467449",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6467449"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3296213-D1E4516C-1067-4DE3-842E-606480ADC5D1",
+      "person_id": "Q3296213",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3511666-8BDF4203-C2C1-4C1B-ACCE-7C5B1ECFAB94",
+      "person_id": "Q3511666",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4696051-2F21832A-7814-462F-8CB9-19A4FDF9865F",
+      "person_id": "Q4696051",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4773229-D5799004-9F51-40B7-AED1-AD803F695D0B",
+      "person_id": "Q4773229",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4853498-D3CE1F73-37AE-4786-A700-E4E3AF701C37",
+      "person_id": "Q4853498",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4936427-E3F10B90-FFC9-46E0-AB48-3A9FF8E68914",
+      "person_id": "Q4936427",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5350626-4516AFDB-4FFC-4007-8B09-D83DCCB4887A",
+      "person_id": "Q5350626",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6092241-27D46398-9006-4C36-8C15-0E2E48ED8977",
+      "person_id": "Q6092241",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6725311-66c13b23-8f68-4958-af68-f9660189a096",
+      "person_id": "Q6725311",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6828125-44E79C5B-E23D-4440-BBDE-97C708963805",
+      "person_id": "Q6828125",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6828397-299B5207-78C7-48A5-BA7A-B349D05D3BF2",
+      "person_id": "Q6828397",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6849066-6236919B-02E7-45B9-B3E9-9F85811084F3",
+      "person_id": "Q6849066",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6915780-C0871C27-9160-4036-84EA-DC6362FD3905",
+      "person_id": "Q6915780",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7088858-5569362B-CA87-40E7-A74D-E8FA3720B96B",
+      "person_id": "Q7088858",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7088860-88E2C0FE-B0DC-4008-B7FB-F705B163672B",
+      "person_id": "Q7088860",
+      "on_behalf_of_id": "Q6467449",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7286136-C23C922A-6CB9-475F-9B9D-9A4F48D0B1B7",
+      "person_id": "Q7286136",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7639323-E51B229D-E1E9-4888-81A7-B2F29BF036DD",
+      "person_id": "Q7639323",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7639588-AE849300-F23B-4132-91DD-E47016C97AB9",
+      "person_id": "Q7639588",
+      "organization_id": "Q59515420",
+      "area_id": "Q836654",
+      "role_code": "Q53869155",
+      "role": {
+        "lang:en": "Governor of Ondo State"
+      }
+    }
+  ]
+}

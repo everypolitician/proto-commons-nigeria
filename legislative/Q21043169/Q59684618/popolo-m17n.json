@@ -1,0 +1,68 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Chikwendu Kanu"
+      },
+      "id": "Q59828949",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59828949"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Abia State House of Assembly"
+      },
+      "id": "Q21043169",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21043169"
+        }
+      ],
+      "area_id": "Q320852",
+      "seat_counts": {
+        "Q59528223": "24"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59828949-F9FDF865-D327-458B-9E6A-BB6D57773766",
+      "person_id": "Q59828949",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q21043169",
+      "area_id": "Q59818656",
+      "role_code": "Q59528223",
+      "role": {
+        "lang:en": "member of the Abia State House of Assembly"
+      },
+      "term_id": "Q59684618"
+    }
+  ]
+}

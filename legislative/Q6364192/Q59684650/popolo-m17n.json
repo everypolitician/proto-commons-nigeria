@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kano State House of Assembly"
+      },
+      "id": "Q6364192",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6364192"
+        }
+      ],
+      "area_id": "Q682571",
+      "seat_counts": {
+        "Q59528338": "40"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

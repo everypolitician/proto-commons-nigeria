@@ -8,6 +8,42 @@ WHERE {
   VALUES (?house ?position) {
     (wd:Q2993611 wd:Q19822359)
     (wd:Q665693 wd:Q21290864)
+    (wd:Q21043169 wd:Q59528223)
+    (wd:Q23038224 wd:Q59528360)
+    (wd:Q25053386 wd:Q59528329)
+    (wd:Q28406862 wd:Q59528228)
+    (wd:Q28450719 wd:Q59528350)
+    (wd:Q30592701 wd:Q59528226)
+    (wd:Q59518801 wd:Q59528225)
+    (wd:Q59518803 wd:Q59528229)
+    (wd:Q59518804 wd:Q59528231)
+    (wd:Q59518808 wd:Q59528232)
+    (wd:Q59518810 wd:Q59528233)
+    (wd:Q59518811 wd:Q59528236)
+    (wd:Q59518814 wd:Q59528246)
+    (wd:Q59518815 wd:Q59528248)
+    (wd:Q59518817 wd:Q59528250)
+    (wd:Q59518829 wd:Q59528322)
+    (wd:Q59518830 wd:Q59528323)
+    (wd:Q59518833 wd:Q59528324)
+    (wd:Q59518836 wd:Q59528327)
+    (wd:Q59518837 wd:Q59528330)
+    (wd:Q59518839 wd:Q59528341)
+    (wd:Q59518841 wd:Q59528342)
+    (wd:Q59518842 wd:Q59528343)
+    (wd:Q59518844 wd:Q59528344)
+    (wd:Q59518861 wd:Q59528348)
+    (wd:Q59518862 wd:Q59528349)
+    (wd:Q59518864 wd:Q59528361)
+    (wd:Q59518867 wd:Q59528363)
+    (wd:Q59518868 wd:Q59528364)
+    (wd:Q59518870 wd:Q59528368)
+    (wd:Q59518872 wd:Q59528369)
+    (wd:Q59518873 wd:Q59528370)
+    (wd:Q59518875 wd:Q59528373)
+    (wd:Q6364192 wd:Q59528338)
+    (wd:Q6472612 wd:Q59528346)
+    (wd:Q7338303 wd:Q59528366)
   }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
@@ -25,7 +61,10 @@ WHERE {
                                    pq:P2937 ?term ] .
   }
 
+  # Only include terms without end dates or whose end dates are in the future
   FILTER (!BOUND(?termEnd) || ?termEnd > NOW())
-  FILTER (!BOUND(?termReplacedBy))
+  # Only include terms which haven't been replaced unless they have end dates
+  # (and so by implication, as per above, have end dates in the future)
+  FILTER (!BOUND(?termReplacedBy) || BOUND(?termEnd))
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 } ORDER BY ?termStart ?term

@@ -1,0 +1,141 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Sam Egwu"
+      },
+      "id": "Q3510864",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510864"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Martin Elechi"
+      },
+      "id": "Q3510875",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510875"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Simeon Oduoye"
+      },
+      "id": "Q7517631",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7517631"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Walter Feghabo"
+      },
+      "id": "Q7964825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7964825"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ebonyi State Executive Council"
+      },
+      "id": "Q30589469",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30589469"
+        }
+      ],
+      "area_id": "Q506808"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510864-A55882DE-19AB-409C-B2C3-A2B0A6634551",
+      "person_id": "Q3510864",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30589469",
+      "area_id": "Q506808",
+      "role_code": "Q19682827",
+      "role": {
+        "lang:en": "Governor of Ebonyi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510875-3B5B0EF2-DDB1-4733-8C03-D43F6C195879",
+      "person_id": "Q3510875",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30589469",
+      "area_id": "Q506808",
+      "role_code": "Q19682827",
+      "role": {
+        "lang:en": "Governor of Ebonyi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7517631-A1294548-29AF-411C-98B8-0ACA9170AC71",
+      "person_id": "Q7517631",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30589469",
+      "area_id": "Q506808",
+      "role_code": "Q19682827",
+      "role": {
+        "lang:en": "Governor of Ebonyi State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7964825-C9F59CFF-EE0E-4F99-83CE-FD656BFB5EA5",
+      "person_id": "Q7964825",
+      "organization_id": "Q30589469",
+      "area_id": "Q506808",
+      "role_code": "Q19682827",
+      "role": {
+        "lang:en": "Governor of Ebonyi State"
+      }
+    }
+  ]
+}

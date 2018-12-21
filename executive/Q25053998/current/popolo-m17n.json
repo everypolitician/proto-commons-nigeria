@@ -1,0 +1,266 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Temi Ejoor"
+      },
+      "id": "Q13140865",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140865"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ogbonnaya Onu"
+      },
+      "id": "Q13655513",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13655513"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Victor Okezie Ikpeazu"
+      },
+      "id": "Q19958158",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19958158"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Theodore Orji"
+      },
+      "id": "Q3510938",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510938"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anthony Obi"
+      },
+      "id": "Q4773221",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4773221"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chinyere Ike Nwosu"
+      },
+      "id": "Q5101386",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5101386"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frank Ajobena"
+      },
+      "id": "Q5484963",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5484963"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Moses Fasanya"
+      },
+      "id": "Q6915780",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6915780"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Orji Uzor Kalu"
+      },
+      "id": "Q738816",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q738816"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of Abia State"
+      },
+      "id": "Q25053998",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25053998"
+        }
+      ],
+      "area_id": "Q320852"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140865-B67DE1A2-38AB-4603-B931-A2F500BA0182",
+      "person_id": "Q13140865",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13655513-E9F972F6-0F9B-4B17-BA77-026CA6634FAB",
+      "person_id": "Q13655513",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19958158-40198B07-6AE6-453F-A8F2-82E93246E904",
+      "person_id": "Q19958158",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510938-0F8D950B-F88E-4254-B7BF-BFA39B59F429",
+      "person_id": "Q3510938",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4773221-960CFA43-A598-4E6F-B22F-451002801172",
+      "person_id": "Q4773221",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5101386-33CAC49F-8B8D-4CF9-9E57-AA3B8B657A1E",
+      "person_id": "Q5101386",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5484963-85B17BC9-8EF4-4831-BA52-FDD86FCE914A",
+      "person_id": "Q5484963",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6915780-1D799F39-ACA9-4C2E-82C7-D35A1C6C809C",
+      "person_id": "Q6915780",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q738816-1D4F0D18-9BD6-4CD1-80AE-827EBDA9450B",
+      "person_id": "Q738816",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q25053998",
+      "area_id": "Q320852",
+      "role_code": "Q19671478",
+      "role": {
+        "lang:en": "Governor of Abia State"
+      }
+    }
+  ]
+}

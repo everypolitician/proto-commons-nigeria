@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kaduna State House of Assembly"
+      },
+      "id": "Q59518837",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518837"
+        }
+      ],
+      "area_id": "Q878284",
+      "seat_counts": {
+        "Q59528330": "34"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

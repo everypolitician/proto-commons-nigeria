@@ -1,0 +1,455 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mustapha Ismail"
+      },
+      "id": "Q13140755",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140755"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Salaudeen Latinwo"
+      },
+      "id": "Q14475630",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14475630"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Agbazika Innih"
+      },
+      "id": "Q1506834",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1506834"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdulfatah Ahmed"
+      },
+      "id": "Q4665831",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665831"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adamu Atta"
+      },
+      "id": "Q4680541",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4680541"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmed Abdullahi"
+      },
+      "id": "Q4695710",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4695710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alwali Kazir"
+      },
+      "id": "Q4738359",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4738359"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Baba Adamu Iyam"
+      },
+      "id": "Q4837260",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4837260"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cornelius Adebayo"
+      },
+      "id": "Q5171295",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5171295"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Bamigboye"
+      },
+      "id": "Q5231086",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5231086"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Alkali"
+      },
+      "id": "Q5984462",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984462"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Taiwo"
+      },
+      "id": "Q5984753",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984753"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Ndatsu Umaru"
+      },
+      "id": "Q6893252",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893252"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Shaaba Lafiagi"
+      },
+      "id": "Q6893329",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893329"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Ogar"
+      },
+      "id": "Q7176212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7176212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sunday Ifere"
+      },
+      "id": "Q7639414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7639414"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kwara State Executive Council"
+      },
+      "id": "Q30674589",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30674589"
+        }
+      ],
+      "area_id": "Q464953"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Party of Nigeria"
+      },
+      "id": "Q6974818",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6974818"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140755-B3D2688E-0A8E-4979-965F-BDB5C6C1706E",
+      "person_id": "Q13140755",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q14475630-49C10DAA-7A90-4DDE-BBC0-DF704A548B25",
+      "person_id": "Q14475630",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1506834-930C7ECE-A55C-4877-B06C-2CDB9108D92D",
+      "person_id": "Q1506834",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665831-6F7AC53D-CF10-4E4A-A1B0-511939D5D198",
+      "person_id": "Q4665831",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "start_date": "2011-05-29",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4680541-393C5C54-C575-4614-B064-6C7226E7BB20",
+      "person_id": "Q4680541",
+      "on_behalf_of_id": "Q6974818",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4695710-82FF1DC7-6543-4317-80A6-558229A1B3DA",
+      "person_id": "Q4695710",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4738359-D99ECF77-6931-480C-92C6-ABDC20E2A762",
+      "person_id": "Q4738359",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4837260-BA09FE86-16D2-4DEB-B7BF-AD79600C0881",
+      "person_id": "Q4837260",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5171295-D497AAA1-19A6-48A7-84F8-912E1665A30F",
+      "person_id": "Q5171295",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5231086-1402BF75-0986-4FA8-B228-307AEF230297",
+      "person_id": "Q5231086",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984462-B344BCF6-FD80-44C9-9418-1CD0DEF61BC8",
+      "person_id": "Q5984462",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984753-23C08A5D-50A7-43A4-BFFC-9DF6E48A693B",
+      "person_id": "Q5984753",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893252-8AE6695F-066F-4787-AC3E-9B7A437FB081",
+      "person_id": "Q6893252",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893329-C6C007EC-D9F5-48F4-AF34-164CC9B85997",
+      "person_id": "Q6893329",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7176212-4A5DE31D-AA77-4EBE-A3B2-F22523E76A49",
+      "person_id": "Q7176212",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7639414-5A505E79-029D-4E42-8ED2-6E724498A405",
+      "person_id": "Q7639414",
+      "organization_id": "Q30674589",
+      "area_id": "Q464953",
+      "role_code": "Q53865552",
+      "role": {
+        "lang:en": "Governor of Kwara State"
+      }
+    }
+  ]
+}

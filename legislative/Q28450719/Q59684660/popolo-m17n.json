@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ogun State House Of Assembly"
+      },
+      "id": "Q28450719",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28450719"
+        }
+      ],
+      "area_id": "Q836657",
+      "seat_counts": {
+        "Q59528350": "26"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

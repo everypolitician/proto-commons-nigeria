@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Lagos State House of Assembly"
+      },
+      "id": "Q6472612",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6472612"
+        }
+      ],
+      "area_id": "Q815913",
+      "seat_counts": {
+        "Q59528346": "40"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

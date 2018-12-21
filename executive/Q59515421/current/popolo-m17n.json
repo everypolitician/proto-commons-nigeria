@@ -1,0 +1,492 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Joshua Madaki"
+      },
+      "id": "Q379526",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q379526"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aliyu Kama"
+      },
+      "id": "Q4727553",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4727553"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Alli"
+      },
+      "id": "Q5105721",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5105721"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dan Suleiman"
+      },
+      "id": "Q5214465",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5214465"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fidelis Tapgun"
+      },
+      "id": "Q5446772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5446772"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Habibu Idris Shuaibu"
+      },
+      "id": "Q5636841",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5636841"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jonah David Jang"
+      },
+      "id": "Q6271867",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6271867"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Gomwalk"
+      },
+      "id": "Q6283505",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6283505"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joshua Anaja"
+      },
+      "id": "Q6289617",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6289617"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joshua Dariye"
+      },
+      "id": "Q6289751",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6289751"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lawrence Onoja"
+      },
+      "id": "Q6504442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6504442"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Botmang"
+      },
+      "id": "Q6828741",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6828741"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Mana"
+      },
+      "id": "Q6893199",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893199"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Musa Shehu"
+      },
+      "id": "Q6939962",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6939962"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samuel Atukum"
+      },
+      "id": "Q7410799",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7410799"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Solomon Lar"
+      },
+      "id": "Q7558697",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7558697"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Plateau State"
+      },
+      "id": "Q59515421",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515421"
+        }
+      ],
+      "area_id": "Q503928"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party"
+      },
+      "id": "Q6467449",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6467449"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379526-9FA70363-1875-4BAE-B594-40D14358F99B",
+      "person_id": "Q379526",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379526-9FA70363-1875-4BAE-B594-40D14358F99B",
+      "person_id": "Q379526",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4727553-EAF03D00-BA3C-4D14-A117-B5C001544A01",
+      "person_id": "Q4727553",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5105721-75390260-212B-470D-8688-3D365ECA1976",
+      "person_id": "Q5105721",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5214465-8089117A-C208-4E49-ADE5-6BDBA490F376",
+      "person_id": "Q5214465",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5446772-31E99956-467D-4100-9A4D-AFD347225805",
+      "person_id": "Q5446772",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5636841-EB076D1D-D214-4114-BB08-B6030EAC01E2",
+      "person_id": "Q5636841",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6271867-AA0E48CE-3EC2-4F2F-9868-20EFC6D26A15",
+      "person_id": "Q6271867",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6283505-C5B90251-5915-4E80-90B4-C0F43BF908FF",
+      "person_id": "Q6283505",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6289617-CBB2FF97-ED20-4AF1-9DDF-32364B8AC1BC",
+      "person_id": "Q6289617",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6289751-C0B1FFFA-4571-48DC-9ED2-B84917418636",
+      "person_id": "Q6289751",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6289751-C0B1FFFA-4571-48DC-9ED2-B84917418636",
+      "person_id": "Q6289751",
+      "on_behalf_of_id": "Q6467449",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6504442-003967F6-0A1B-45BB-B869-C6A4FD27173B",
+      "person_id": "Q6504442",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6828741-F95A9CB4-546A-44CD-B252-AE93203EF538",
+      "person_id": "Q6828741",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893199-DE6E5712-7279-4A10-8E86-6C7CB736954C",
+      "person_id": "Q6893199",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6939962-D2C75FF6-DFB8-436B-9982-FAC496BFF331",
+      "person_id": "Q6939962",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7410799-D53B66E3-E7DE-483D-8AF5-CE19AC82C3C9",
+      "person_id": "Q7410799",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7558697-9E7DA498-F90D-4BDC-BAF4-A63A2BFF7623",
+      "person_id": "Q7558697",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515421",
+      "area_id": "Q503928",
+      "role_code": "Q53869276",
+      "role": {
+        "lang:en": "Governor of Plateau State"
+      }
+    }
+  ]
+}

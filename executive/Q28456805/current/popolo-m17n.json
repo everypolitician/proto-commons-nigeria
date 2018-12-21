@@ -1,0 +1,544 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Willie Obiano"
+      },
+      "id": "Q19671604",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19671604"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Ngige"
+      },
+      "id": "Q3510794",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510794"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Virginia Etiaba"
+      },
+      "id": "Q3510844",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510844"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Allison Madueke"
+      },
+      "id": "Q4732798",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4732798"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chinwoke Mbadinuju"
+      },
+      "id": "Q5101381",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5101381"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christian Onoh"
+      },
+      "id": "Q5109991",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5109991"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chukwuemeka Ezeife"
+      },
+      "id": "Q5116058",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5116058"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dabo Aliyu"
+      },
+      "id": "Q5207522",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5207522"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Datti Abubakar"
+      },
+      "id": "Q5227768",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5227768"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Emmanuel Ukaegbu"
+      },
+      "id": "Q5373355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5373355"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Herbert Eze"
+      },
+      "id": "Q5734048",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5734048"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim Nwobodo"
+      },
+      "id": "Q6197222",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6197222"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Kpera"
+      },
+      "id": "Q6243428",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6243428"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Abulu"
+      },
+      "id": "Q6280896",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6280896"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mike Attah"
+      },
+      "id": "Q6845904",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6845904"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Akonobi"
+      },
+      "id": "Q7341396",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7341396"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rufai Garba"
+      },
+      "id": "Q7377879",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7377879"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samson Omeruah"
+      },
+      "id": "Q7410392",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7410392"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Anambra State Executive Council"
+      },
+      "id": "Q28456805",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28456805"
+        }
+      ],
+      "area_id": "Q117714"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Action Congress of Nigeria"
+      },
+      "id": "Q343617",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q343617"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Grand Alliance"
+      },
+      "id": "Q4729271",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729271"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Social Democratic Party"
+      },
+      "id": "Q7550561",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7550561"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19671604-8d67f5e8-4a88-9e6f-3989-6ce392a7c743",
+      "person_id": "Q19671604",
+      "on_behalf_of_id": "Q4729271",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "start_date": "2014-03-17",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510794-A92744D5-0F24-4057-99FA-E7F085A92F87",
+      "person_id": "Q3510794",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510794-A92744D5-0F24-4057-99FA-E7F085A92F87",
+      "person_id": "Q3510794",
+      "on_behalf_of_id": "Q343617",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510844-33EE2383-3A76-4D37-BCB1-AB77AB6BF1DA",
+      "person_id": "Q3510844",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4732798-14A46B41-7B46-4DFD-B793-DD559E7E0015",
+      "person_id": "Q4732798",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5101381-9B22F8F1-D4B8-451F-8F38-8C3F90EB3C62",
+      "person_id": "Q5101381",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5109991-00A713AD-7293-4374-8122-E528BDB429C7",
+      "person_id": "Q5109991",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5116058-2724D021-D306-442F-ACB6-E65E9491EC0A",
+      "person_id": "Q5116058",
+      "on_behalf_of_id": "Q7550561",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5207522-019F4E38-5A1E-485D-AB34-08200A5572A7",
+      "person_id": "Q5207522",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5227768-D3503158-B4B2-4C4F-97FD-C43A3CF54845",
+      "person_id": "Q5227768",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5373355-BEEF3783-D3C8-40B7-96CE-F5C9DBCD3D03",
+      "person_id": "Q5373355",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5734048-CF7D5323-4591-4F23-9FE5-3858EBA989F0",
+      "person_id": "Q5734048",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6197222-9BEE2696-4E9C-486E-AFF8-13EE852AA265",
+      "person_id": "Q6197222",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6243428-C74F54AD-4F9F-4640-A6DC-801410D84D36",
+      "person_id": "Q6243428",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6280896-F5392E4C-566B-4F50-8D6A-947879349A90",
+      "person_id": "Q6280896",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6845904-D9887450-7BE8-4A16-93AC-0C11CF55FCA3",
+      "person_id": "Q6845904",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7341396-132337E8-06A1-410C-AAEB-93C005276551",
+      "person_id": "Q7341396",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7377879-AA6F9214-DB78-46F0-9867-9470D2EBEC0E",
+      "person_id": "Q7377879",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7410392-45B09376-2377-4F81-8CFA-2A519A6234DC",
+      "person_id": "Q7410392",
+      "organization_id": "Q28456805",
+      "area_id": "Q117714",
+      "role_code": "Q19671587",
+      "role": {
+        "lang:en": "Governor of Anambra State"
+      }
+    }
+  ]
+}

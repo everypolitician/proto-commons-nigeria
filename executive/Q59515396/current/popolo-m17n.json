@@ -1,0 +1,455 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Samuel Ioraer Ortom"
+      },
+      "id": "Q18354225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18354225"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Akume"
+      },
+      "id": "Q3510803",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510803"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdullahi Shelleng"
+      },
+      "id": "Q4666141",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666141"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adebayo Lawal"
+      },
+      "id": "Q4681472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4681472"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aminu Isa Kontagora"
+      },
+      "id": "Q4746478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4746478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aper Aku"
+      },
+      "id": "Q4779357",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4779357"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dominic Oneya"
+      },
+      "id": "Q5290614",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5290614"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fidelis Makka"
+      },
+      "id": "Q5446763",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5446763"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gabriel Suswam"
+      },
+      "id": "Q5515869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5515869"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Idris Garba"
+      },
+      "id": "Q5989606",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5989606"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ishaya Bakut"
+      },
+      "id": "Q6080062",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6080062"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Kpera"
+      },
+      "id": "Q6243428",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6243428"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jonah David Jang"
+      },
+      "id": "Q6271867",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6271867"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joshua Obademi"
+      },
+      "id": "Q6290096",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6290096"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Moses Adasu"
+      },
+      "id": "Q6915680",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6915680"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yohanna Madaki"
+      },
+      "id": "Q8054465",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8054465"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Benue State"
+      },
+      "id": "Q59515396",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515396"
+        }
+      ],
+      "area_id": "Q429908"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18354225-a7772c14-139a-4eca-a7c5-bcdf718ce6ad",
+      "person_id": "Q18354225",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510803-4705E506-C881-4301-A826-0963CD3F7F7B",
+      "person_id": "Q3510803",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666141-25E505D9-C214-4BD3-BE26-B71A25B24A2E",
+      "person_id": "Q4666141",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4681472-219834E1-9CC7-4170-9885-D3246CE288C6",
+      "person_id": "Q4681472",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4746478-60823EE0-827A-4B5F-A170-AB82154878D2",
+      "person_id": "Q4746478",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4779357-43562274-0D6C-44E0-A0AD-F02F3E542330",
+      "person_id": "Q4779357",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5290614-0098E5F8-A63D-4B92-B186-5AFEBC387CB0",
+      "person_id": "Q5290614",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5446763-BE042AB1-5DB0-4BA6-8D1F-C24E24A66E78",
+      "person_id": "Q5446763",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5515869-4345A43B-7C8B-4173-B5A6-ED1DD9CF794D",
+      "person_id": "Q5515869",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5989606-EC07DE34-DCCA-48CC-98BD-AB8DF08ED44B",
+      "person_id": "Q5989606",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6080062-B6C6677B-686C-489C-B63C-6C3B29C775BB",
+      "person_id": "Q6080062",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6243428-FD528E52-2DFB-48A2-B898-346293968388",
+      "person_id": "Q6243428",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6271867-A5603DF7-3CF0-4C69-AE34-A6EF17CCBB6A",
+      "person_id": "Q6271867",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6290096-2DDC9FC1-4986-4CE8-B68E-18912FCF160D",
+      "person_id": "Q6290096",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6915680-970C5C81-01ED-4B06-AC88-37F628DC312B",
+      "person_id": "Q6915680",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8054465-1A4C7B89-C4B9-446D-96FC-6BB9F2F12BBA",
+      "person_id": "Q8054465",
+      "organization_id": "Q59515396",
+      "area_id": "Q429908",
+      "role_code": "Q19670906",
+      "role": {
+        "lang:en": "Governor of Benue State"
+      }
+    }
+  ]
+}

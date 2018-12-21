@@ -1,0 +1,68 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Friday K. Benson"
+      },
+      "id": "Q59828951",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59828951"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Bayelsa State House of Assembly"
+      },
+      "id": "Q59518804",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518804"
+        }
+      ],
+      "area_id": "Q532153",
+      "seat_counts": {
+        "Q59528231": "24"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59828951-62F9192E-EBC5-4B46-903C-48895D5B9700",
+      "person_id": "Q59828951",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59518804",
+      "area_id": "Q59818887",
+      "role_code": "Q59528231",
+      "role": {
+        "lang:en": "member of the Bayelsa State House of Assembly"
+      },
+      "term_id": "Q59684623"
+    }
+  ]
+}

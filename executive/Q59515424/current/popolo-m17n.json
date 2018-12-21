@@ -1,0 +1,216 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Bukar Ibrahim"
+      },
+      "id": "Q4986810",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4986810"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dabo Aliyu"
+      },
+      "id": "Q5207522",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5207522"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Geidam"
+      },
+      "id": "Q5984545",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5984545"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Ben Kalio"
+      },
+      "id": "Q6221489",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6221489"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mamman Bello Ali"
+      },
+      "id": "Q6745774",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6745774"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Musa Mohammed"
+      },
+      "id": "Q6939945",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6939945"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sani Daura Ahmed"
+      },
+      "id": "Q7418254",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7418254"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Yobe State"
+      },
+      "id": "Q59515424",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515424"
+        }
+      ],
+      "area_id": "Q682777"
+    },
+    {
+      "name": {
+        "lang:en": "All Nigeria Peoples Party"
+      },
+      "id": "Q1432251",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1432251"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4986810-B32D74F1-7E21-4C3B-BA41-82FC42712AAA",
+      "person_id": "Q4986810",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515424",
+      "area_id": "Q682777",
+      "role_code": "Q53869380",
+      "role": {
+        "lang:en": "Governor of Yobe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5207522-CABAED12-31DE-4A8A-9120-5D56B5AEB8A1",
+      "person_id": "Q5207522",
+      "organization_id": "Q59515424",
+      "area_id": "Q682777",
+      "role_code": "Q53869380",
+      "role": {
+        "lang:en": "Governor of Yobe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5984545-AEFB49B6-7638-491B-A3C9-1CA050867E78",
+      "person_id": "Q5984545",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515424",
+      "area_id": "Q682777",
+      "role_code": "Q53869380",
+      "role": {
+        "lang:en": "Governor of Yobe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6221489-CDD710C7-DFDC-4C36-AA88-1B704B2969F9",
+      "person_id": "Q6221489",
+      "organization_id": "Q59515424",
+      "area_id": "Q682777",
+      "role_code": "Q53869380",
+      "role": {
+        "lang:en": "Governor of Yobe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6745774-6D59B38A-34AE-48CA-9CDF-B21BE7EF4FD6",
+      "person_id": "Q6745774",
+      "on_behalf_of_id": "Q1432251",
+      "organization_id": "Q59515424",
+      "area_id": "Q682777",
+      "role_code": "Q53869380",
+      "role": {
+        "lang:en": "Governor of Yobe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6939945-811C44C0-C585-4567-9DC7-916F8F4017FB",
+      "person_id": "Q6939945",
+      "organization_id": "Q59515424",
+      "area_id": "Q682777",
+      "role_code": "Q53869380",
+      "role": {
+        "lang:en": "Governor of Yobe State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7418254-A5183D8B-C791-4825-BBE1-D27F942581E9",
+      "person_id": "Q7418254",
+      "organization_id": "Q59515424",
+      "area_id": "Q682777",
+      "role_code": "Q53869380",
+      "role": {
+        "lang:en": "Governor of Yobe State"
+      }
+    }
+  ]
+}

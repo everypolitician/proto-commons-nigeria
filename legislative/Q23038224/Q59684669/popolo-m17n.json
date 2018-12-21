@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ondo State House of Assembly"
+      },
+      "id": "Q23038224",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23038224"
+        }
+      ],
+      "area_id": "Q836654",
+      "seat_counts": {
+        "Q59528360": "26"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

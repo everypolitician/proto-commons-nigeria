@@ -1,0 +1,244 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Tunji Olurin"
+      },
+      "id": "Q10969003",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10969003"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Niyi Adebayo"
+      },
+      "id": "Q13140763",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140763"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Atanda Yusuf"
+      },
+      "id": "Q4812775",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4812775"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kayode Fayemi"
+      },
+      "id": "Q6380660",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6380660"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammed Bawa"
+      },
+      "id": "Q6893015",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6893015"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olusegun Oni"
+      },
+      "id": "Q7088862",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7088862"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tope Ademiluyi"
+      },
+      "id": "Q7824801",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7824801"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Ekiti State"
+      },
+      "id": "Q59515401",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515401"
+        }
+      ],
+      "area_id": "Q534917"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance for Democracy"
+      },
+      "id": "Q2649119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2649119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Action Congress of Nigeria"
+      },
+      "id": "Q343617",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q343617"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10969003-EDB5742A-2484-4A42-A678-073CCF6796B7",
+      "person_id": "Q10969003",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515401",
+      "area_id": "Q534917",
+      "role_code": "Q53857743",
+      "role": {
+        "lang:en": "Governor of Ekiti State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140763-3DF8C581-AB1A-4905-AFB3-629C526A0770",
+      "person_id": "Q13140763",
+      "on_behalf_of_id": "Q2649119",
+      "organization_id": "Q59515401",
+      "area_id": "Q534917",
+      "role_code": "Q53857743",
+      "role": {
+        "lang:en": "Governor of Ekiti State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4812775-B477F0C6-3150-4F8F-AFD8-1414D848EA21",
+      "person_id": "Q4812775",
+      "organization_id": "Q59515401",
+      "area_id": "Q534917",
+      "role_code": "Q53857743",
+      "role": {
+        "lang:en": "Governor of Ekiti State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6380660-60FEEBC0-F483-4DD8-8EF7-B5A4B2F63C0C",
+      "person_id": "Q6380660",
+      "on_behalf_of_id": "Q343617",
+      "organization_id": "Q59515401",
+      "area_id": "Q534917",
+      "role_code": "Q53857743",
+      "role": {
+        "lang:en": "Governor of Ekiti State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6893015-AF26DDB1-384A-429D-8BB3-00EE6CCB9A04",
+      "person_id": "Q6893015",
+      "organization_id": "Q59515401",
+      "area_id": "Q534917",
+      "role_code": "Q53857743",
+      "role": {
+        "lang:en": "Governor of Ekiti State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7088862-D63E2233-2AF2-4EA7-AC78-32525D66245D",
+      "person_id": "Q7088862",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515401",
+      "area_id": "Q534917",
+      "role_code": "Q53857743",
+      "role": {
+        "lang:en": "Governor of Ekiti State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7824801-4BEA449D-958D-4AB0-8333-E9C495365F2B",
+      "person_id": "Q7824801",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515401",
+      "area_id": "Q534917",
+      "role_code": "Q53857743",
+      "role": {
+        "lang:en": "Governor of Ekiti State"
+      }
+    }
+  ]
+}

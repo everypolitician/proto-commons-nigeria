@@ -1,0 +1,354 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Abubakar Saleh Michika"
+      },
+      "id": "Q13140375",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140375"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joe Kalu-Igboama"
+      },
+      "id": "Q13140713",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140713"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mustapha Ismail"
+      },
+      "id": "Q13140755",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13140755"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Wilson Sabiya"
+      },
+      "id": "Q17721981",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17721981"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Boni Haruna"
+      },
+      "id": "Q3510778",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3510778"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abubakar Salihu"
+      },
+      "id": "Q4670502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4670502"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmadu Hussaini"
+      },
+      "id": "Q4695671",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4695671"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jibrilla Bindow"
+      },
+      "id": "Q4914035",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4914035"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gregory Agboneni"
+      },
+      "id": "Q5606794",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5606794"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Shaibu Barka"
+      },
+      "id": "Q6142964",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6142964"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Murtala Nyako"
+      },
+      "id": "Q6939711",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6939711"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive council of Adamawa State"
+      },
+      "id": "Q59515393",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59515393"
+        }
+      ],
+      "area_id": "Q337514"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Progressives Congress"
+      },
+      "id": "Q4729266",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4729266"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Republican Convention"
+      },
+      "id": "Q6978037",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6978037"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140375-7A433EDE-7DBA-4477-BB01-9D0DDF03EBF3",
+      "person_id": "Q13140375",
+      "on_behalf_of_id": "Q6978037",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140713-9EBEA9AD-F525-406B-AA6C-F0B134CB24AC",
+      "person_id": "Q13140713",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13140755-B52D8967-A55F-4186-BD2D-207910E56C2D",
+      "person_id": "Q13140755",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17721981-28423ea8-5a0a-406a-b2d1-e02981e69042",
+      "person_id": "Q17721981",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3510778-A79A3F18-3329-4266-A471-FD17F430B87A",
+      "person_id": "Q3510778",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4670502-C2879C89-9C26-4AB7-9E8B-F1D991EC1B1E",
+      "person_id": "Q4670502",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4695671-7489D0FE-C8F3-4DCB-B167-331CAF4CDA51",
+      "person_id": "Q4695671",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4914035-DA6CDA0B-E5AE-4B39-AB10-5A9512C5AA7C",
+      "person_id": "Q4914035",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4914035-DA6CDA0B-E5AE-4B39-AB10-5A9512C5AA7C",
+      "person_id": "Q4914035",
+      "on_behalf_of_id": "Q4729266",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5606794-FC8CE3CE-E02A-4899-A34D-6B5F1FFA4A10",
+      "person_id": "Q5606794",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6142964-CC0BEB9E-C452-4A90-A21C-00020F2780C1",
+      "person_id": "Q6142964",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6939711-9246D3CA-97EC-4579-8C4B-2FE2A015B099",
+      "person_id": "Q6939711",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q59515393",
+      "area_id": "Q337514",
+      "role_code": "Q19671527",
+      "role": {
+        "lang:en": "Governor of Adamawa State"
+      }
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Abdullahi Adamu"
+      },
+      "id": "Q4666120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdullahi Ibrahim"
+      },
+      "id": "Q4666132",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666132"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aliyu Doma"
+      },
+      "id": "Q4727551",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4727551"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bala Mande"
+      },
+      "id": "Q4849689",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4849689"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Umaru Tanko Al-Makura"
+      },
+      "id": "Q7881179",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7881179"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Nasarawa State Executive Council"
+      },
+      "id": "Q28456809",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28456809"
+        }
+      ],
+      "area_id": "Q836645"
+    },
+    {
+      "name": {
+        "lang:en": "People's Democratic Party"
+      },
+      "id": "Q1551163",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1551163"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Congress for Progressive Change"
+      },
+      "id": "Q5160852",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5160852"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666120-8065B85B-47E8-4C11-B54C-9CCDDF22CA30",
+      "person_id": "Q4666120",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456809",
+      "area_id": "Q836645",
+      "role_code": "Q53866357",
+      "role": {
+        "lang:en": "Governor of Nasarawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4666132-36A5CDEB-D540-48E1-A75E-460AA28478A5",
+      "person_id": "Q4666132",
+      "organization_id": "Q28456809",
+      "area_id": "Q836645",
+      "role_code": "Q53866357",
+      "role": {
+        "lang:en": "Governor of Nasarawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4727551-F74544ED-4C1F-422E-8207-213AAC54BAA7",
+      "person_id": "Q4727551",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456809",
+      "area_id": "Q836645",
+      "role_code": "Q53866357",
+      "role": {
+        "lang:en": "Governor of Nasarawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4849689-742D2DC1-72DC-4E53-A549-13AB798F6C1C",
+      "person_id": "Q4849689",
+      "on_behalf_of_id": "Q1551163",
+      "organization_id": "Q28456809",
+      "area_id": "Q836645",
+      "role_code": "Q53866357",
+      "role": {
+        "lang:en": "Governor of Nasarawa State"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7881179-0C80E878-3847-4682-A7AC-982DFF2596A4",
+      "person_id": "Q7881179",
+      "on_behalf_of_id": "Q5160852",
+      "organization_id": "Q28456809",
+      "area_id": "Q836645",
+      "role_code": "Q53866357",
+      "role": {
+        "lang:en": "Governor of Nasarawa State"
+      }
+    }
+  ]
+}

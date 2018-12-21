@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Kogi State House of Assembly"
+      },
+      "id": "Q59518842",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59518842"
+        }
+      ],
+      "area_id": "Q387745",
+      "seat_counts": {
+        "Q59528343": "25"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}
