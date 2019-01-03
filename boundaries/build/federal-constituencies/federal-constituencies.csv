@@ -8,7 +8,7 @@ Illela/Gwadabawa,country:ng/state:so,country:ng/state:so/federal-constituency:33
 Isa/Sabon Birni,country:ng/state:so,country:ng/state:so/federal-constituency:329,Q59681501,FC/329/SO
 Kebbe/Tambuwal,country:ng/state:so,country:ng/state:so/federal-constituency:339,Q59681514,FC/339/SO
 Damboa/Gwoza/Chibok,country:ng/state:bo,country:ng/state:bo/federal-constituency:070,Q59681043,FC/070/BO
-Askira ? Uba/Hawul,country:ng/state:bo,country:ng/state:bo/federal-constituency:066,Q59681039,FC/066/BO
+Askira–Uba/Hawul,country:ng/state:bo,country:ng/state:bo/federal-constituency:066,Q59681039,FC/066/BO
 Jere,country:ng/state:bo,country:ng/state:bo/federal-constituency:075,Q59681054,FC/075/BO
 Kaga/Gubio/Magumeri,country:ng/state:bo,country:ng/state:bo/federal-constituency:071,Q59681044,FC/071/BO
 Bama/Ngala/Kalabalge,country:ng/state:bo,country:ng/state:bo/federal-constituency:067,Q59681040,FC/067/BO
@@ -69,9 +69,9 @@ Misau/Danbam,country:ng/state:ba,country:ng/state:ba/federal-constituency:044,Q5
 Darazo/Ganjuwa,country:ng/state:ba,country:ng/state:ba/federal-constituency:043,Q59681000,FC/043/BA
 Gamawa,country:ng/state:ba,country:ng/state:ba/federal-constituency:046,Q59681008,FC/046/BA
 Shira/Giade,country:ng/state:ba,country:ng/state:ba/federal-constituency:048,Q59681010,FC/048/BA
-Jama?are/Itas Gadau,country:ng/state:ba,country:ng/state:ba/federal-constituency:047,Q59681009,FC/047/BA
+Jama'are/Itas Gadau,country:ng/state:ba,country:ng/state:ba/federal-constituency:047,Q59681009,FC/047/BA
 Katagum,country:ng/state:ba,country:ng/state:ba/federal-constituency:049,Q59681011,FC/049/BA
-Ningi/Warji,country:ng/state:ba,country:ng/state:ba/federal-constituency:040,Q59680999,FC/040/BA
+Ningi/Warji,country:ng/state:ba,country:ng/state:ba/federal-constituency:040,Q59680999,FC/042/BA
 Toro,country:ng/state:ba,country:ng/state:ba/federal-constituency:041,Q59680997,FC/041/BA
 Zaki,country:ng/state:ba,country:ng/state:ba/federal-constituency:045,Q59681002,FC/045/BA
 Brass/Nembe,country:ng/state:by,country:ng/state:by/federal-constituency:050,Q59681012,FC/050/BY
@@ -283,7 +283,7 @@ Ikenne /Remo North /Sagamu,country:ng/state:og,country:ng/state:og/federal-const
 Akoko N. East/ Akoko N.West,country:ng/state:on,country:ng/state:on/federal-constituency:276,Q59681407,FC/276/OD
 Akoko S. East/Akoko S.West,country:ng/state:on,country:ng/state:on/federal-constituency:277,Q59681409,FC/277/OD
 Akure North/Akure South,country:ng/state:on,country:ng/state:on/federal-constituency:278,Q59681410,FC/278/OD
-Ese ? Odo/Ilaje,country:ng/state:on,country:ng/state:on/federal-constituency:282,Q59681420,FC/282/OD
+Eseodo/Ilaje,country:ng/state:on,country:ng/state:on/federal-constituency:282,Q59681420,FC/282/OD
 Idanre/Ifedore,country:ng/state:on,country:ng/state:on/federal-constituency:129,Q59681411,FC/129/IM
 Ileoluji/Okeigbo/Odigbo,country:ng/state:on,country:ng/state:on/federal-constituency:280,Q59681413,FC/280/OD
 Irele/Okitipupa,country:ng/state:on,country:ng/state:on/federal-constituency:281,Q59681418,FC/281/OD
@@ -313,7 +313,7 @@ Bokkos/Mangu,country:ng/state:pl,country:ng/state:pl/federal-constituency:311,Q5
 Jos East/Jos South,country:ng/state:pl,country:ng/state:pl/federal-constituency:309,Q59681468,FC/309/PL
 Pankshin/Kanke/Kanam,country:ng/state:pl,country:ng/state:pl/federal-constituency:312,Q59681476,FC/312/PL
 L/North/L/south,country:ng/state:pl,country:ng/state:pl/federal-constituency:314,Q59681478,FC/314/PL
-Mikang/Qua?anpan/Shendam,country:ng/state:pl,country:ng/state:pl/federal-constituency:315,Q59681480,FC/315/PL
+Mikang/Qua'an/Pan/Shendam,country:ng/state:pl,country:ng/state:pl/federal-constituency:315,Q59681480,FC/315/PL
 Wase,country:ng/state:pl,country:ng/state:pl/federal-constituency:313,Q59681477,FC/313/PL
 Abua-Odual/Ahoada East,country:ng/state:ri,country:ng/state:ri/federal-constituency:316,Q59681481,FC/316/RV
 Ahoada West/ Ogba/ Egbema/Ndoni,country:ng/state:ri,country:ng/state:ri/federal-constituency:317,Q59681482,FC/317/RV
