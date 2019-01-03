@@ -22,7 +22,581 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:672"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akwanga North"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:673"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akwanga South"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:674"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Awe North"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:675"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Awe South"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:676"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Doma North"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:677"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Doma South"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:678"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Karu/Gitata"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:679"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Karshi/Uke"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:680"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Keana"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:681"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Keffi West"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:682"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Keffi East"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:683"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kokona East"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:684"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kokona West"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:685"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lafia Central"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:686"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lafia North"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:688"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Loki/Udege"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:689"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nass-Eggon West"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:690"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nass-Eggon East"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:691"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obi I"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:692"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obi II"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:693"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gadabuke/Toto"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:694"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Umaisha"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59819617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/state-assembly-constituency:695"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528348"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nassarawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wamba"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q836645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q836645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53866357"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Nasarawa State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

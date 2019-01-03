@@ -152,7 +152,3387 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q117714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q117714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671587"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Anambra State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q130626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19681536"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Borno State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q145793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869387"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Zamfara State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q25044125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/senate-district:rivers-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25044125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Rivers West"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q25044132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/senate-district:rivers-south-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25044132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Rivers South-East"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q25044161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri/senate-district:rivers-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25044161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Rivers East"
+      },
+      "parent_id": "Q503923"
+    },
+    {
+      "id": "Q320852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q320852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671478"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Abia State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q337514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q337514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671527"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Adamawa State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q376241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q376241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857981"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Gombe State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q3817714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3817714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857940"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Enugu State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q387745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q387745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53865201"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kogi State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q424388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q424388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671558"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Akwa Ibom State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q429908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19670906"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Benue State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q463959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q463959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869373"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Taraba State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q464953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q464953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53865552"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kwara State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q503905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13140661"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Oyo State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q503910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19682774"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Delta State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q503923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q23020727"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Rivers State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q503928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869276"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Plateau State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q503932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53866438"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Niger State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q503936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19681521"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bauchi State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q503941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869292"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Sokoto State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q506808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q506808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19682827"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ebonyi State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q509300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/capital-territory:fc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q509300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59514359"
+      ],
+      "type": {
+        "lang:en": "administrative territorial entity of Nigeria"
+      },
+      "name": {
+        "lang:en": "Federal Capital Territory"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q532153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q532153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19681529"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bayelsa State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q534917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q534917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857743"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ekiti State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59678313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/senate-district:abia-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Abia North"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59678314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/senate-district:abia-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Abia Central"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59678315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/senate-district:abia-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Abia South"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59678317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/senate-district:adamawa-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Adamawa North"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59678318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/senate-district:adamawa-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Adamawa South"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59678319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/senate-district:adamawa-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Adamawa Central"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59678320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/senate-district:akwa-ibom-north-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Akwa Ibom North-East"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59678321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/senate-district:akwa-ibom-north-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Akwa Ibom North-West"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59678323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ak/senate-district:akwa-ibom-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Akwa Ibom South"
+      },
+      "parent_id": "Q424388"
+    },
+    {
+      "id": "Q59678326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/senate-district:anambra-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Anambra North"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59678327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/senate-district:anambra-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Anambra Central"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59678328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/senate-district:anambra-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Anambra South"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59678329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/senate-district:bauchi-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bauchi South"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59678330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/senate-district:bauchi-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bauchi Central"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59678331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ba/senate-district:bauchi-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bauchi North"
+      },
+      "parent_id": "Q503936"
+    },
+    {
+      "id": "Q59678332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/senate-district:bayelsa-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bayelsa East"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59678333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/senate-district:bayelsa-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bayelsa Central"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59678335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:by/senate-district:bayelsa-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Bayelsa West"
+      },
+      "parent_id": "Q532153"
+    },
+    {
+      "id": "Q59678340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/senate-district:benue-north-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Benue North-East"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59678342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/senate-district:benue-north-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Benue North-West"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59678343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:be/senate-district:benue-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Benue South"
+      },
+      "parent_id": "Q429908"
+    },
+    {
+      "id": "Q59678344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/senate-district:borno-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Borno North"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59678345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/senate-district:borno-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Borno Central"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59678346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:bo/senate-district:borno-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Borno South"
+      },
+      "parent_id": "Q130626"
+    },
+    {
+      "id": "Q59678347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/senate-district:cross-river-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Cross River North"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59678348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/senate-district:cross-river-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Cross River Central"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59678349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr/senate-district:cross-river-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Cross River South"
+      },
+      "parent_id": "Q739676"
+    },
+    {
+      "id": "Q59678354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/senate-district:delta-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Delta Central"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59678357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/senate-district:delta-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Delta North"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59678359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:de/senate-district:delta-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Delta South"
+      },
+      "parent_id": "Q503910"
+    },
+    {
+      "id": "Q59678361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/senate-district:ebonyi-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ebonyi North"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59678363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/senate-district:ebonyi-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ebonyi Central"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59678365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:eb/senate-district:ebonyi-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ebonyi South"
+      },
+      "parent_id": "Q506808"
+    },
+    {
+      "id": "Q59678367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/senate-district:edo-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Edo Central"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59678370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/senate-district:edo-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Edo North"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59678371",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/senate-district:edo-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678371"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Edo South"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59678374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/senate-district:ekiti-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ekiti North"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59678375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/senate-district:ekiti-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ekiti Central"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59678376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ek/senate-district:ekiti-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ekiti South"
+      },
+      "parent_id": "Q534917"
+    },
+    {
+      "id": "Q59678377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/senate-district:enugu-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Enugu East"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59678378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/senate-district:enugu-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Enugu West"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59678379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:en/senate-district:enugu-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Enugu North"
+      },
+      "parent_id": "Q3817714"
+    },
+    {
+      "id": "Q59678381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/senate-district:gombe-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Gombe Central"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59678382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/senate-district:gombe-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Gombe South"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59678383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:go/senate-district:gombe-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Gombe North"
+      },
+      "parent_id": "Q376241"
+    },
+    {
+      "id": "Q59678385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/senate-district:imo-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Imo East"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59678386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/senate-district:imo-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Imo West"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59678388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im/senate-district:imo-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Imo North"
+      },
+      "parent_id": "Q842939"
+    },
+    {
+      "id": "Q59678389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/senate-district:jigawa-south-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Jigawa South-West"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59678390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/senate-district:jigawa-north-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Jigawa North-East"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59678391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji/senate-district:jigawa-north-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Jigawa North-West"
+      },
+      "parent_id": "Q682691"
+    },
+    {
+      "id": "Q59678392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/senate-district:kaduna-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kaduna North"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59678394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/senate-district:kaduna-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kaduna Central"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59678395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/senate-district:kaduna-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kaduna South"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59678398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/senate-district:kano-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kano Central"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59678399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/senate-district:kano-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kano North"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59678401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/senate-district:kano-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kano South"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59678402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/senate-district:katsina-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Katsina North"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59678403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/senate-district:katsina-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Katsina South"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59678404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt/senate-district:katsina-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Katsina Central"
+      },
+      "parent_id": "Q657821"
+    },
+    {
+      "id": "Q59678405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/senate-district:kebbi-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kebbi North"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59678406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/senate-district:kebbi-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kebbi Central"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59678408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/senate-district:kebbi-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kebbi South"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59678410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/senate-district:kogi-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kogi Central"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59678411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/senate-district:kogi-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kogi East"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59678412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ko/senate-district:kogi-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kogi West"
+      },
+      "parent_id": "Q387745"
+    },
+    {
+      "id": "Q59678414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/senate-district:kwara-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kwara North"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59678415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/senate-district:kwara-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kwara Central"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59678416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kw/senate-district:kwara-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kwara South"
+      },
+      "parent_id": "Q464953"
+    },
+    {
+      "id": "Q59678418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/senate-district:lagos-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Lagos Central"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59678419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/senate-district:lagos-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Lagos East"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59678420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/senate-district:lagos-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Lagos West"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59678422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/senate-district:nasarawa-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Nasarawa West"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59678424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/senate-district:nasarawa-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Nasarawa North"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59678425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na/senate-district:nasarawa-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Nasarawa South"
+      },
+      "parent_id": "Q836645"
+    },
+    {
+      "id": "Q59678426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/senate-district:niger-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Niger South"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59678427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/senate-district:niger-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Niger East"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59678429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ni/senate-district:niger-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Niger North"
+      },
+      "parent_id": "Q503932"
+    },
+    {
+      "id": "Q59678430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/senate-district:ogun-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ogun Central"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59678431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/senate-district:ogun-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ogun East"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59678432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og/senate-district:ogun-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ogun West"
+      },
+      "parent_id": "Q836657"
+    },
+    {
+      "id": "Q59678435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/senate-district:ondo-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ondo North"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59678436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/senate-district:ondo-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ondo Central"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59678437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on/senate-district:ondo-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ondo South"
+      },
+      "parent_id": "Q836654"
+    },
+    {
+      "id": "Q59678439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/senate-district:osun-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Osun Central"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59678440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/senate-district:osun-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Osun East"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59678442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/senate-district:osun-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Osun West"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59678443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/senate-district:oyo-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Oyo Central"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59678444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/senate-district:oyo-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Oyo North"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59678445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/senate-district:oyo-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Oyo South"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59678447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/senate-district:plateau-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Plateau South"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59678448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/senate-district:plateau-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Plateau Central"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59678449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/senate-district:plateau-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Plateau North"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59678451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/senate-district:sokoto-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Sokoto East"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59678452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/senate-district:sokoto-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Sokoto North"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59678453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/senate-district:sokoto-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Sokoto South"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59678456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/senate-district:taraba-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Taraba South"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59678457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/senate-district:taraba-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Taraba Central"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59678458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/senate-district:taraba-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Taraba North"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59678461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/senate-district:yobe-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Yobe East"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59678463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/senate-district:yobe-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Yobe North"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59678465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/senate-district:yobe-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Yobe South"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59678466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/senate-district:zamfara-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Zamfara North"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59678467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/senate-district:zamfara-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Zamfara Central"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59678468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:za/senate-district:zamfara-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "Zamfara West"
+      },
+      "parent_id": "Q145793"
+    },
+    {
+      "id": "Q59678469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/capital-territory:fc/senate-district:fct-senatorial-district"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59678469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19822359"
+      ],
+      "type": {
+        "lang:en": "senatorial district of Nigeria"
+      },
+      "name": {
+        "lang:en": "FCT Senatorial District"
+      },
+      "parent_id": "Q509300"
+    },
+    {
+      "id": "Q657821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53864950"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Katsina State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q682571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53864915"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kano State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q682691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ji"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857995"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Jigawa State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q682704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19682857"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Edo State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q682721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869191"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Osun State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q682777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869380"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Yobe State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q739676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:cr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53845430"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Cross River State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q748523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q748523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6572142"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kebbi State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q815913",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q815913"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19901457"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Lagos"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q836645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:na"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q836645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53866357"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Nasarawa State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q836654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:on"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q836654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869155"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ondo State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q836657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:og"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q836657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869139"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Ogun State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q842939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:im"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q842939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53857987"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Imo State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q878284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q878284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14915296"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kaduna State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
     {

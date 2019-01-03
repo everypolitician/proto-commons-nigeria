@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q463959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q463959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869373"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Taraba State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:919"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bali I"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:920"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bali II"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:921"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gassol I"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:922"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gassol II"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:923"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jalingo I"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:924"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jalingo II"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:925"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ardo-Kola"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:926"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Takum I"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:927"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kashimbila"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:928"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ussa/Likam"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:929"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gembu"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:930"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nguroje"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:931"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mbamnga"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:932"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Baissa"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:933"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zing"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:934"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Karim Lamido I"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:935"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Karim Lamido II"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:936"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wukari I"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:937"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wukari II"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:938"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibi"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:939"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Donda"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:940"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gashaka"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:941"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lau"
+      },
+      "parent_id": "Q463959"
+    },
+    {
+      "id": "Q59819943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ta/state-assembly-constituency:942"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528369"
+      ],
+      "type": {
+        "lang:en": "constituency of the Taraba state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yorro"
+      },
+      "parent_id": "Q463959"
+    }
   ],
   "memberships": [
 

@@ -22,7 +22,742 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q503941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869292"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Sokoto State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:889"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Binji"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:890"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bodinga North"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:891"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819879"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bodinga South"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:892"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dange Shuni"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:893"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gada East"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819882",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:894"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819882"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gada West"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:895"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Goronyo"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:896"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gudu"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:897"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwadabawa North"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:898"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwadabawa South"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:899"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Illela"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:900"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isa"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:901"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kware"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:902"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kebbe"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:903"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rabah"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819895",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:904"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819895"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sabon Birin North"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:905"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sabon Birin South"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:906"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shagari"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:907"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Silame"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:908"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sokoto North"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:909"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sokoto North II"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:910"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sokoto South I"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:911"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sokoto South II"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:912"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tambuwal West"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819909",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:913"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819909"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tambuwal East"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:914"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tangaza"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:915"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tureta"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819913",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:916"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819913"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wamakko"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:917"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wurno"
+      },
+      "parent_id": "Q503941"
+    },
+    {
+      "id": "Q59819916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:so/state-assembly-constituency:918"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528368"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sokoto state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yabo"
+      },
+      "parent_id": "Q503941"
+    }
   ],
   "memberships": [
 

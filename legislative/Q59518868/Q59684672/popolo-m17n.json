@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q503928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869276"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Plateau State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:833"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Barkin Ladi"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:834"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Pengana"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:835"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rukuba/Irigwe"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:836"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bokkos"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:837"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jos East"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:838"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jos North"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:839"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jos West"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:840"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jos South"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:841"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kanke"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:842"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Pankshin North"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:843"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Pankshin South"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:844"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kanam"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:845"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kantana"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:846"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Langtang North"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:847"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Langtang Central"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:848"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Langtang South (mabudi)"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:849"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mangu South"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:850"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mangu North"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:851"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mikang"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:852"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Qua’an Pan North"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:853"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Qua’an Pan South"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:854"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Riyom"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:855"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shendam"
+      },
+      "parent_id": "Q503928"
+    },
+    {
+      "id": "Q59819835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:pl/state-assembly-constituency:856"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819835"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528364"
+      ],
+      "type": {
+        "lang:en": "constituency of the Plateau state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wase"
+      },
+      "parent_id": "Q503928"
+    }
   ],
   "memberships": [
 

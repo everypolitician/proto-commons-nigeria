@@ -22,7 +22,972 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:632"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Agege I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:633"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Agege II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:634"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ajeromi/Ifelodun I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819539",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:635"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819539"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ajeromi/Ifelodun Ii"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:636"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Alimosho I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:637"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Alimosho II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:638"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Amuwo Odofin I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:639"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Amuwo Odofin II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:640"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Apapa I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819550",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:641"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819550"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Apapa II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:642"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Badagry I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:643"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Badagry II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:644"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Epe I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:645"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Epe II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819555",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:646"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819555"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Eti-Osa I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:647"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Eti-Osa II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:648"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibeju-Lekki I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819559",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:649"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819559"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibeju-Lekki II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:650"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ifako/Ijaiye I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:651"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ifako/Ijaiye Ii"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:652"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikeja I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:653"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikeja II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:654"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikorodu I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:655"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikorodu II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:656"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kosofe I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:657"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kosofe II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:658"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lagos Island I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:659"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lagos Island II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:660"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lagos Mainland I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:661"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lagos Mainland II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:662"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mushin I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:663"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mushin II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:664"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ojo I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:665"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ojo II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:666"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oshodi/Isolo I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:667"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oshodi/Isolo Ii"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:668"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shomolu I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:669"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shomolu II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:670"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Surulere I"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q59819585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la/state-assembly-constituency:671"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528346"
+      ],
+      "type": {
+        "lang:en": "constituency of the Lagos state house of assembly"
+      },
+      "name": {
+        "lang:en": "Surulere II"
+      },
+      "parent_id": "Q815913"
+    },
+    {
+      "id": "Q815913",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:la"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q815913"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19901457"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Lagos"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

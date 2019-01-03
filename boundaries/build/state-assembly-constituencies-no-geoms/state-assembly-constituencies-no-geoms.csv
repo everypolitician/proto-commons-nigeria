@@ -1,0 +1,687 @@
+Country,S/N,CODE,STATE,NAME,WIKIDATA,MS_FB_PARE,MS_FB
+Nigeria,1,SC/01/AB,Abia State,Aba North,Q59818646,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:01
+Nigeria,2,SC/02/AB,Abia State,Aba South,Q59818647,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:02
+Nigeria,3,SC/03/AB,Abia State,Aba Central,Q59818648,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:03
+Nigeria,5,SC/05/AB,Abia State,Bende North,Q59818650,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:05
+Nigeria,6,SC/06/AB,Abia State,Bende South,Q59818651,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:06
+Nigeria,11,SC/11/AB,Abia State,Obingwa East,Q59818661,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:11
+Nigeria,12,SC/12/AB,Abia State,Obingwa West,Q59818663,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:12
+Nigeria,13,SC/13/AB,Abia State,Ohafia North,Q59818664,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:13
+Nigeria,14,SC/14/AB,Abia State,Ohafia South,Q59818665,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:14
+Nigeria,15,SC/15/AB,Abia State,Osisioma North,Q59818667,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:15
+Nigeria,16,SC/16/AB,Abia State,Osisioma South,Q59818668,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:16
+Nigeria,21,SC/21/AB,Abia State,Umuahia East,Q59818674,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:21
+Nigeria,22,SC/22/AB,Abia State,Umuahia West,Q59818675,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:22
+Nigeria,23,SC/23/AB,Abia State,Umuahia Central,Q59818676,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:23
+Nigeria,24,SC/24/AB,Abia State,Umuahia South,Q59818677,country:ng/state:ab,country:ng/state:ab/state-assembly-constituency:24
+Nigeria,25,SC/25/AD,Adamawa State,Yola South,Q59818679,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:25
+Nigeria,26,SC/26/AD,Adamawa State,Yola North,Q59818681,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:26
+Nigeria,27,SC/27/AD,Adamawa State,Mubi North,Q59818682,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:27
+Nigeria,28,SC/28/AD,Adamawa State,Mubi South,Q59818685,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:28
+Nigeria,29,SC/29/AD,Adamawa State,Demsa,Q59818686,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:29
+Nigeria,30,SC/30/AD,Adamawa State,Numan,Q59818688,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:30
+Nigeria,31,SC/31/AD,Adamawa State,Lamurde,Q59818690,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:31
+Nigeria,32,SC/32/AD,Adamawa State,Song,Q59818691,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:32
+Nigeria,33,SC/33/AD,Adamawa State,Girei,Q59818692,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:33
+Nigeria,34,SC/34/AD,Adamawa State,Ganye,Q59818693,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:34
+Nigeria,35,SC/35/AD,Adamawa State,Toungo,Q59818694,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:35
+Nigeria,36,SC/36/AD,Adamawa State,Koma/Leko,Q59818695,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:36
+Nigeria,37,SC/37/AD,Adamawa State,Jada/Mbulo,Q59818698,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:37
+Nigeria,38,SC/38/AD,Adamawa State,Fufore/Gurin,Q59818700,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:38
+Nigeria,39,SC/39/AD,Adamawa State,Verre,Q59818701,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:39
+Nigeria,40,SC/40/AD,Adamawa State,Uba/Gaya,Q59818702,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:40
+Nigeria,41,SC/41/AD,Adamawa State,Hong,Q59818703,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:41
+Nigeria,42,SC/42/AD,Adamawa State,Nassarawa/Binyeri,Q59818704,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:42
+Nigeria,43,SC/43/AD,Adamawa State,Mayo-Belwa,Q59818705,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:43
+Nigeria,44,SC/44/AD,Adamawa State,Gombi,Q59818706,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:44
+Nigeria,45,SC/45/AD,Adamawa State,Shelleng,Q59818708,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:45
+Nigeria,46,SC/46/AD,Adamawa State,Madagali,Q59818715,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:46
+Nigeria,47,SC/47/AD,Adamawa State,Maiha,Q59818716,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:47
+Nigeria,48,SC/48/AD,Adamawa State,Michika,Q59818717,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:48
+Nigeria,49,SC/49/AD,Adamawa State,Guyuk,Q59818718,country:ng/state:ad,country:ng/state:ad/state-assembly-constituency:49
+Nigeria,76,SC/76/AN,Anambra State,Aguata I,Q59818719,country:ng/state:an,country:ng/state:an/state-assembly-constituency:76
+Nigeria,77,SC/77/AN,Anambra State,Aguata II,Q59818720,country:ng/state:an,country:ng/state:an/state-assembly-constituency:77
+Nigeria,78,SC/78/AN,Anambra State,Anambra East,Q59818721,country:ng/state:an,country:ng/state:an/state-assembly-constituency:78
+Nigeria,79,SC/79/AN,Anambra State,Anambra West,Q59818722,country:ng/state:an,country:ng/state:an/state-assembly-constituency:79
+Nigeria,80,SC/80/AN,Anambra State,Anaocha I,Q59818723,country:ng/state:an,country:ng/state:an/state-assembly-constituency:80
+Nigeria,81,SC/81/AN,Anambra State,Anaocha II,Q59818728,country:ng/state:an,country:ng/state:an/state-assembly-constituency:81
+Nigeria,82,SC/82/AN,Anambra State,Awka North,Q59818729,country:ng/state:an,country:ng/state:an/state-assembly-constituency:82
+Nigeria,83,SC/83/AN,Anambra State,Awka South I,Q59818731,country:ng/state:an,country:ng/state:an/state-assembly-constituency:83
+Nigeria,84,SC/84/AN,Anambra State,Awka South II,Q59818732,country:ng/state:an,country:ng/state:an/state-assembly-constituency:84
+Nigeria,85,SC/85/AN,Anambra State,Idemili South,Q59818733,country:ng/state:an,country:ng/state:an/state-assembly-constituency:85
+Nigeria,86,SC/86/AN,Anambra State,Idemili North,Q59818734,country:ng/state:an,country:ng/state:an/state-assembly-constituency:86
+Nigeria,87,SC/87/AN,Anambra State,Ihiala I,Q59818735,country:ng/state:an,country:ng/state:an/state-assembly-constituency:87
+Nigeria,88,SC/88/AN,Anambra State,Ihiala II,Q59818736,country:ng/state:an,country:ng/state:an/state-assembly-constituency:88
+Nigeria,89,SC/89/AN,Anambra State,Njikoka I,Q59818737,country:ng/state:an,country:ng/state:an/state-assembly-constituency:89
+Nigeria,90,SC/90/AN,Anambra State,Njikoka II,Q59818743,country:ng/state:an,country:ng/state:an/state-assembly-constituency:90
+Nigeria,91,SC/91/AN,Anambra State,Nnewi North,Q59818744,country:ng/state:an,country:ng/state:an/state-assembly-constituency:91
+Nigeria,92,SC/92/AN,Anambra State,Nnewi South I,Q59818746,country:ng/state:an,country:ng/state:an/state-assembly-constituency:92
+Nigeria,93,SC/93/AN,Anambra State,Nnewi South II,Q59818747,country:ng/state:an,country:ng/state:an/state-assembly-constituency:93
+Nigeria,94,SC/94/AN,Anambra State,Ekwusigo,Q59818748,country:ng/state:an,country:ng/state:an/state-assembly-constituency:94
+Nigeria,95,SC/95/AN,Anambra State,Ogbaru I,Q59818750,country:ng/state:an,country:ng/state:an/state-assembly-constituency:95
+Nigeria,96,SC/96/AN,Anambra State,Ogbaru II,Q59818751,country:ng/state:an,country:ng/state:an/state-assembly-constituency:96
+Nigeria,97,SC/97/AN,Anambra State,Ayamelum,Q59818752,country:ng/state:an,country:ng/state:an/state-assembly-constituency:97
+Nigeria,98,SC/98/AN,Anambra State,Dunukofia,Q59818753,country:ng/state:an,country:ng/state:an/state-assembly-constituency:98
+Nigeria,99,SC/99/AN,Anambra State,Onitsha North I,Q59818757,country:ng/state:an,country:ng/state:an/state-assembly-constituency:99
+Nigeria,100,SC/100/AN,Anambra State,Onitsha North II,Q59818758,country:ng/state:an,country:ng/state:an/state-assembly-constituency:100
+Nigeria,101,SC/101/AN,Anambra State,Onitsha South I,Q59818759,country:ng/state:an,country:ng/state:an/state-assembly-constituency:101
+Nigeria,102,SC/102/AN,Anambra State,Onitsha South II,Q59818760,country:ng/state:an,country:ng/state:an/state-assembly-constituency:102
+Nigeria,103,SC/103/AN,Anambra State,Orumba North,Q59818762,country:ng/state:an,country:ng/state:an/state-assembly-constituency:103
+Nigeria,104,SC/104/AN,Anambra State,Orumba South,Q59818763,country:ng/state:an,country:ng/state:an/state-assembly-constituency:104
+Nigeria,105,SC/105/AN,Anambra State,Oyi,Q59818764,country:ng/state:an,country:ng/state:an/state-assembly-constituency:105
+Nigeria,53,SC/53/AK,Akwa Ibom State,Esit Eket/Ibeno,Q59818771,country:ng/state:ak,country:ng/state:ak/state-assembly-constituency:53
+Nigeria,54,SC/54/AK,Akwa Ibom State,Etim Ekpo/Ika,Q59818772,country:ng/state:ak,country:ng/state:ak/state-assembly-constituency:54
+Nigeria,71,SC/71/AK,Akwa Ibom State,Oruk Anam,Q59818800,country:ng/state:ak,country:ng/state:ak/state-assembly-constituency:71
+Nigeria,106,SC/106/BA,Bauchi State,Pali,Q59818805,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:106
+Nigeria,107,SC/107/BA,Bauchi State,Duguri/Gwana,Q59818807,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:107
+Nigeria,108,SC/108/BA,Bauchi State,Kirfi,Q59818809,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:108
+Nigeria,109,SC/109/BA,Bauchi State,Bauchi,Q59818812,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:109
+Nigeria,110,SC/110/BA,Bauchi State,Zungur/Galambi,Q59818813,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:110
+Nigeria,111,SC/111/BA,Bauchi State,Dass,Q59818814,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:111
+Nigeria,112,SC/112/BA,Bauchi State,Lere/Bula,Q59818815,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:112
+Nigeria,113,SC/113/BA,Bauchi State,Bogoro,Q59818816,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:113
+Nigeria,114,SC/114/BA,Bauchi State,Jama’a/Toro,Q59818817,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:114
+Nigeria,115,SC/115/BA,Bauchi State,Warji,Q59818818,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:115
+Nigeria,116,SC/116/BA,Bauchi State,Lame,Q59818819,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:116
+Nigeria,117,SC/117/BA,Bauchi State,Ningi,Q59818821,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:117
+Nigeria,118,SC/118/BA,Bauchi State,Burra,Q59818826,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:118
+Nigeria,119,SC/119/BA,Bauchi State,Chiroma,Q59818827,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:119
+Nigeria,120,SC/120/BA,Bauchi State,Hardawa,Q59818828,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:120
+Nigeria,121,SC/121/BA,Bauchi State,Dambam/Dagauda/Jalam,Q59818829,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:121
+Nigeria,122,SC/122/BA,Bauchi State,Darazo,Q59818830,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:122
+Nigeria,123,SC/123/BA,Bauchi State,Sade,Q59818831,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:123
+Nigeria,124,SC/124/BA,Bauchi State,Ganjuwa East,Q59818832,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:124
+Nigeria,125,SC/125/BA,Bauchi State,Ganjuwa West,Q59818834,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:125
+Nigeria,126,SC/126/BA,Bauchi State,Katagum,Q59818836,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:126
+Nigeria,127,SC/127/BA,Bauchi State,Sakwa,Q59818839,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:127
+Nigeria,128,SC/128/BA,Bauchi State,Jama’are,Q59818841,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:128
+Nigeria,129,SC/129/BA,Bauchi State,Itas/Gadau,Q59818842,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:129
+Nigeria,130,SC/130/BA,Bauchi State,Disina,Q59818843,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:130
+Nigeria,131,SC/131/BA,Bauchi State,Shira,Q59818844,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:131
+Nigeria,132,SC/132/BA,Bauchi State,Giade,Q59818845,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:132
+Nigeria,133,SC/133/BA,Bauchi State,Azare,Q59818847,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:133
+Nigeria,134,SC/134/BA,Bauchi State,Madara/Chinade,Q59818848,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:134
+Nigeria,135,SC/135/BA,Bauchi State,Udubo,Q59818849,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:135
+Nigeria,136,SC/136/BA,Bauchi State,Gamawa,Q59818854,country:ng/state:ba,country:ng/state:ba/state-assembly-constituency:136
+Nigeria,137,SC/137/BY,Bayelsa State,Brass I,Q59818855,country:ng/state:by,country:ng/state:by/state-assembly-constituency:137
+Nigeria,138,SC/138/BY,Bayelsa State,Brass II,Q59818857,country:ng/state:by,country:ng/state:by/state-assembly-constituency:138
+Nigeria,139,SC/139/BY,Bayelsa State,Brass IIi,Q59818858,country:ng/state:by,country:ng/state:by/state-assembly-constituency:139
+Nigeria,140,SC/140/BY,Bayelsa State,Nembe I,Q59818859,country:ng/state:by,country:ng/state:by/state-assembly-constituency:140
+Nigeria,141,SC/141/BY,Bayelsa State,Nembe II,Q59818860,country:ng/state:by,country:ng/state:by/state-assembly-constituency:141
+Nigeria,142,SC/142/BY,Bayelsa State,Nembe IIi,Q59818861,country:ng/state:by,country:ng/state:by/state-assembly-constituency:142
+Nigeria,143,SC/143/BY,Bayelsa State,Ogbia I,Q59818862,country:ng/state:by,country:ng/state:by/state-assembly-constituency:143
+Nigeria,144,SC/144/BY,Bayelsa State,Ogbia II,Q59818863,country:ng/state:by,country:ng/state:by/state-assembly-constituency:144
+Nigeria,145,SC/145/BY,Bayelsa State,Ogbia IIi,Q59818869,country:ng/state:by,country:ng/state:by/state-assembly-constituency:145
+Nigeria,146,SC/146/BY,Bayelsa State,Kolokuma/Opokuma I,Q59818870,country:ng/state:by,country:ng/state:by/state-assembly-constituency:146
+Nigeria,147,SC/147/BY,Bayelsa State,Kolokuma/Opokuma Ii,Q59818871,country:ng/state:by,country:ng/state:by/state-assembly-constituency:147
+Nigeria,148,SC/148/BY,Bayelsa State,Yenagoa I,Q59818872,country:ng/state:by,country:ng/state:by/state-assembly-constituency:148
+Nigeria,149,SC/149/BY,Bayelsa State,Yenagoa II,Q59818873,country:ng/state:by,country:ng/state:by/state-assembly-constituency:149
+Nigeria,150,SC/150/BY,Bayelsa State,Yenagoa IIi,Q59818874,country:ng/state:by,country:ng/state:by/state-assembly-constituency:150
+Nigeria,151,SC/151/BY,Bayelsa State,Ekeremor I,Q59818875,country:ng/state:by,country:ng/state:by/state-assembly-constituency:151
+Nigeria,152,SC/152/BY,Bayelsa State,Ekeremor II,Q59818877,country:ng/state:by,country:ng/state:by/state-assembly-constituency:152
+Nigeria,153,SC/153/BY,Bayelsa State,Ekeremor IIi,Q59818878,country:ng/state:by,country:ng/state:by/state-assembly-constituency:153
+Nigeria,154,SC/154/BY,Bayelsa State,Sagbama I,Q59818880,country:ng/state:by,country:ng/state:by/state-assembly-constituency:154
+Nigeria,155,SC/155/BY,Bayelsa State,Sagbama II,Q59818881,country:ng/state:by,country:ng/state:by/state-assembly-constituency:155
+Nigeria,156,SC/156/BY,Bayelsa State,Sagbama IIi,Q59818883,country:ng/state:by,country:ng/state:by/state-assembly-constituency:156
+Nigeria,157,SC/157/BY,Bayelsa State,Southern Ijaw I,Q59818884,country:ng/state:by,country:ng/state:by/state-assembly-constituency:157
+Nigeria,158,SC/158/BY,Bayelsa State,Southern Ijaw II,Q59818885,country:ng/state:by,country:ng/state:by/state-assembly-constituency:158
+Nigeria,159,SC/159/BY,Bayelsa State,Southern Ijaw IIi,Q59818886,country:ng/state:by,country:ng/state:by/state-assembly-constituency:159
+Nigeria,160,SC/160/BY,Bayelsa State,Southern Ijaw Iv,Q59818887,country:ng/state:by,country:ng/state:by/state-assembly-constituency:160
+Nigeria,161,SC/161/BN,Benue State,Ado,Q59818888,country:ng/state:be,country:ng/state:be/state-assembly-constituency:161
+Nigeria,162,SC/162/BN,Benue State,Agbatu,Q59818889,country:ng/state:be,country:ng/state:be/state-assembly-constituency:162
+Nigeria,163,SC/163/BN,Benue State,Apa,Q59818890,country:ng/state:be,country:ng/state:be/state-assembly-constituency:163
+Nigeria,164,SC/164/BN,Benue State,Buruku,Q59818891,country:ng/state:be,country:ng/state:be/state-assembly-constituency:164
+Nigeria,165,SC/165/BN,Benue State,Gboko I (east),Q59818892,country:ng/state:be,country:ng/state:be/state-assembly-constituency:165
+Nigeria,166,SC/166/BN,Benue State,Gboko West,Q59818893,country:ng/state:be,country:ng/state:be/state-assembly-constituency:166
+Nigeria,167,SC/167/BN,Benue State,Guma,Q59818894,country:ng/state:be,country:ng/state:be/state-assembly-constituency:167
+Nigeria,168,SC/168/BN,Benue State,Gwer East,Q59818895,country:ng/state:be,country:ng/state:be/state-assembly-constituency:168
+Nigeria,169,SC/169/BN,Benue State,Gwer West,Q59818896,country:ng/state:be,country:ng/state:be/state-assembly-constituency:169
+Nigeria,170,SC/170/BN,Benue State,Katsina Ala East,Q59818898,country:ng/state:be,country:ng/state:be/state-assembly-constituency:170
+Nigeria,171,SC/171/BN,Benue State,Katsina-Ala West,Q59818899,country:ng/state:be,country:ng/state:be/state-assembly-constituency:171
+Nigeria,172,SC/172/BN,Benue State,Konshisha I (gaav),Q59818903,country:ng/state:be,country:ng/state:be/state-assembly-constituency:172
+Nigeria,173,SC/173/BN,Benue State,Kwande East,Q59818904,country:ng/state:be,country:ng/state:be/state-assembly-constituency:173
+Nigeria,174,SC/174/BN,Benue State,Kwande West,Q59818905,country:ng/state:be,country:ng/state:be/state-assembly-constituency:174
+Nigeria,175,SC/175/BN,Benue State,Logo,Q59818907,country:ng/state:be,country:ng/state:be/state-assembly-constituency:175
+Nigeria,176,SC/176/BN,Benue State,Makurdi I (north),Q59818908,country:ng/state:be,country:ng/state:be/state-assembly-constituency:176
+Nigeria,177,SC/177/BN,Benue State,Makurdi South,Q59818909,country:ng/state:be,country:ng/state:be/state-assembly-constituency:177
+Nigeria,178,SC/178/BN,Benue State,Obi,Q59818910,country:ng/state:be,country:ng/state:be/state-assembly-constituency:178
+Nigeria,179,SC/179/BN,Benue State,Ogbadibo,Q59818911,country:ng/state:be,country:ng/state:be/state-assembly-constituency:179
+Nigeria,180,SC/180/BN,Benue State,Ohimini,Q59818912,country:ng/state:be,country:ng/state:be/state-assembly-constituency:180
+Nigeria,181,SC/181/BN,Benue State,Oju,Q59818917,country:ng/state:be,country:ng/state:be/state-assembly-constituency:181
+Nigeria,182,SC/182/BN,Benue State,Okpokwu,Q59818918,country:ng/state:be,country:ng/state:be/state-assembly-constituency:182
+Nigeria,183,SC/183/BN,Benue State,Otukpo,Q59818919,country:ng/state:be,country:ng/state:be/state-assembly-constituency:183
+Nigeria,184,SC/184/BN,Benue State,Otukpo North East,Q59818920,country:ng/state:be,country:ng/state:be/state-assembly-constituency:184
+Nigeria,185,SC/185/BN,Benue State,Tarka,Q59818921,country:ng/state:be,country:ng/state:be/state-assembly-constituency:185
+Nigeria,186,SC/186/BN,Benue State,Ukum I (ngenev),Q59818922,country:ng/state:be,country:ng/state:be/state-assembly-constituency:186
+Nigeria,187,SC/187/BN,Benue State,Ushongo,Q59818923,country:ng/state:be,country:ng/state:be/state-assembly-constituency:187
+Nigeria,188,SC/188/BN,Benue State,Vandeikya I,Q59818924,country:ng/state:be,country:ng/state:be/state-assembly-constituency:188
+Nigeria,189,SC/189/BN,Benue State,Vandeikya II,Q59818925,country:ng/state:be,country:ng/state:be/state-assembly-constituency:189
+Nigeria,191,SC/191/BO,Borno State,Askira,Q59818931,country:ng/state:bo,country:ng/state:bo/state-assembly-constituency:191
+Nigeria,199,SC/199/BO,Borno State,Gulumba,Q59818941,country:ng/state:bo,country:ng/state:bo/state-assembly-constituency:199
+Nigeria,219,SC/219/CR,Cross River State,Akamkpa I,Q59818965,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:219
+Nigeria,220,SC/220/CR,Cross River State,Akamkpa II,Q59818967,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:220
+Nigeria,224,SC/224/CR,Cross River State,Boki I,Q59818972,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:224
+Nigeria,225,SC/225/CR,Cross River State,Boki II,Q59818973,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:225
+Nigeria,228,SC/228/CR,Cross River State,Calabar South I,Q59818977,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:228
+Nigeria,229,SC/229/CR,Cross River State,Calabar South II,Q59818979,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:229
+Nigeria,231,SC/231/CR,Cross River State,Ikom I,Q59818981,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:231
+Nigeria,232,SC/232/CR,Cross River State,Ikom II,Q59818982,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:232
+Nigeria,234,SC/234/CR,Cross River State,Obubra I,Q59818984,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:234
+Nigeria,235,SC/235/CR,Cross River State,Obubra II,Q59818989,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:235
+Nigeria,239,SC/239/CR,Cross River State,Yakurr I,Q59818993,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:239
+Nigeria,240,SC/240/CR,Cross River State,Yakurr II,Q59818994,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:240
+Nigeria,241,SC/241/CR,Cross River State,Yala I,Q59818995,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:241
+Nigeria,242,SC/242/CR,Cross River State,Yala II,Q59818996,country:ng/state:cr,country:ng/state:cr/state-assembly-constituency:242
+Nigeria,246,SC/246/DT,Delta State,Burutu,Q59819002,country:ng/state:de,country:ng/state:de/state-assembly-constituency:246
+Nigeria,247,SC/247/DT,Delta State,Burutu North,Q59819004,country:ng/state:de,country:ng/state:de/state-assembly-constituency:247
+Nigeria,253,SC/253/DT,Delta State,Isoko South I,Q59819013,country:ng/state:de,country:ng/state:de/state-assembly-constituency:253
+Nigeria,254,SC/254/DT,Delta State,Isoko South II,Q59819015,country:ng/state:de,country:ng/state:de/state-assembly-constituency:254
+Nigeria,263,SC/263/DT,Delta State,Ughelli North I,Q59819028,country:ng/state:de,country:ng/state:de/state-assembly-constituency:263
+Nigeria,264,SC/264/DT,Delta State,Ughelli North II,Q59819029,country:ng/state:de,country:ng/state:de/state-assembly-constituency:264
+Nigeria,269,SC/269/DT,Delta State,Warri South I,Q59819034,country:ng/state:de,country:ng/state:de/state-assembly-constituency:269
+Nigeria,270,SC/270/DT,Delta State,Warri South II,Q59819035,country:ng/state:de,country:ng/state:de/state-assembly-constituency:270
+Nigeria,272,SC/272/EB,Ebonyi State,Abakaliki North,Q59819040,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:272
+Nigeria,274,SC/274/EB,Ebonyi State,Afikpo North East,Q59819043,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:274
+Nigeria,275,SC/275/EB,Ebonyi State,Afikpo North West,Q59819044,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:275
+Nigeria,276,SC/276/EB,Ebonyi State,Afikpo South East,Q59819045,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:276
+Nigeria,277,SC/277/EB,Ebonyi State,Afikpo South West,Q59819046,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:277
+Nigeria,278,SC/278/EB,Ebonyi State,Ebonyi North East,Q59819047,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:278
+Nigeria,279,SC/279/EB,Ebonyi State,Ebonyi North West,Q59819048,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:279
+Nigeria,280,SC/280/EB,Ebonyi State,Ezza North East,Q59819049,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:280
+Nigeria,281,SC/281/EB,Ebonyi State,Ezza North West,Q59819050,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:281
+Nigeria,283,SC/283/EB,Ebonyi State,Ikwo North,Q59819052,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:283
+Nigeria,284,SC/284/EB,Ebonyi State,Ikwo South,Q59819053,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:284
+Nigeria,285,SC/285/EB,Ebonyi State,Ishielu North,Q59819054,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:285
+Nigeria,286,SC/286/EB,Ebonyi State,Ishielu South,Q59819055,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:286
+Nigeria,288,SC/288/EB,Ebonyi State,Izzi East,Q59819057,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:288
+Nigeria,289,SC/289/EB,Ebonyi State,Izzi West,Q59819062,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:289
+Nigeria,290,SC/290/EB,Ebonyi State,Ohaozara East,Q59819064,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:290
+Nigeria,291,SC/291/EB,Ebonyi State,Ohaozara West,Q59819065,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:291
+Nigeria,292,SC/292/EB,Ebonyi State,Onicha East,Q59819066,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:292
+Nigeria,293,SC/293/EB,Ebonyi State,Onicha West,Q59819067,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:293
+Nigeria,294,SC/294/EB,Ebonyi State,Ohaukwu North,Q59819068,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:294
+Nigeria,295,SC/295/EB,Ebonyi State,Ohaukwu South,Q59819069,country:ng/state:eb,country:ng/state:eb/state-assembly-constituency:295
+Nigeria,296,SC/296/ED,Edo State,Akoko Edo I,Q59819070,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:296
+Nigeria,297,SC/297/ED,Edo State,Akoko Edo II,Q59819071,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:297
+Nigeria,298,SC/298/ED,Edo State,Esan Central,Q59819074,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:298
+Nigeria,299,SC/299/ED,Edo State,Esan West,Q59819076,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:299
+Nigeria,300,SC/300/ED,Edo State,Esan North East I,Q59819078,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:300
+Nigeria,301,SC/301/ED,Edo State,Esan North East II,Q59819079,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:301
+Nigeria,302,SC/302/ED,Edo State,Essan South East,Q59819080,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:302
+Nigeria,303,SC/303/ED,Edo State,Etsako Central,Q59819081,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:303
+Nigeria,304,SC/304/ED,Edo State,Etsako East,Q59819083,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:304
+Nigeria,305,SC/305/ED,Edo State,Etsako West I,Q59819084,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:305
+Nigeria,306,SC/306/ED,Edo State,Etsako West II,Q59819085,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:306
+Nigeria,307,SC/307/ED,Edo State,Egor,Q59819087,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:307
+Nigeria,308,SC/308/ED,Edo State,Ikpoba-Okha,Q59819088,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:308
+Nigeria,309,SC/309/ED,Edo State,Igueben,Q59819089,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:309
+Nigeria,310,SC/310/ED,Edo State,Oredo East,Q59819090,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:310
+Nigeria,311,SC/311/ED,Edo State,Oredo West,Q59819091,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:311
+Nigeria,312,SC/312/ED,Edo State,Orhionmwon I,Q59819092,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:312
+Nigeria,313,SC/313/ED,Edo State,Orhionmwon II,Q59819093,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:313
+Nigeria,314,SC/314/ED,Edo State,Ovia North East I,Q59819094,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:314
+Nigeria,315,SC/315/ED,Edo State,Ovia North East II,Q59819095,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:315
+Nigeria,316,SC/316/ED,Edo State,Ovia South West,Q59819102,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:316
+Nigeria,317,SC/317/ED,Edo State,Owan East,Q59819103,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:317
+Nigeria,318,SC/318/ED,Edo State,Owan West,Q59819104,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:318
+Nigeria,319,SC/319/ED,Edo State,Uhunmwode,Q59819105,country:ng/state:ed,country:ng/state:ed/state-assembly-constituency:319
+Nigeria,320,SC/320/EK,Ekiti State,Ado I,Q59819106,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:320
+Nigeria,321,SC/321/EK,Ekiti State,Ado II,Q59819107,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:321
+Nigeria,324,SC/324/EK,Ekiti State,Ekiti East I,Q59819110,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:324
+Nigeria,325,SC/325/EK,Ekiti State,Ekiti East II,Q59819115,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:325
+Nigeria,326,SC/326/EK,Ekiti State,Ekiti West I,Q59819118,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:326
+Nigeria,327,SC/327/EK,Ekiti State,Ekiti West II,Q59819119,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:327
+Nigeria,328,SC/328/EK,Ekiti State,Ekiti South West I,Q59819120,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:328
+Nigeria,329,SC/329/EK,Ekiti State,Ekiti South West II,Q59819121,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:329
+Nigeria,331,SC/331/EK,Ekiti State,Ido/Osi I,Q59819123,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:331
+Nigeria,332,SC/332/EK,Ekiti State,Ido/Osi Ii,Q59819124,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:332
+Nigeria,334,SC/334/EK,Ekiti State,Ikere I,Q59819131,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:334
+Nigeria,335,SC/335/EK,Ekiti State,Ikere II,Q59819133,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:335
+Nigeria,336,SC/336/EK,Ekiti State,Ikole I,Q59819135,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:336
+Nigeria,337,SC/337/EK,Ekiti State,Ikole II,Q59819136,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:337
+Nigeria,339,SC/339/EK,Ekiti State,Irepodun/Ifelodun I,Q59819138,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:339
+Nigeria,340,SC/340/EK,Ekiti State,Irepodun/Ifelodun Ii,Q59819140,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:340
+Nigeria,341,SC/341/EK,Ekiti State,Ise/Orun,Q59819141,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:341
+Nigeria,342,SC/342/EK,Ekiti State,Moba I,Q59819142,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:342
+Nigeria,343,SC/343/EK,Ekiti State,Moba II,Q59819143,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:343
+Nigeria,344,SC/344/EK,Ekiti State,Oye I,Q59819144,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:344
+Nigeria,345,SC/345/EK,Ekiti State,Oye II,Q59819145,country:ng/state:ek,country:ng/state:ek/state-assembly-constituency:345
+Nigeria,346,SC/346/EN,Enugu State,Aniniri,Q59819146,country:ng/state:en,country:ng/state:en/state-assembly-constituency:346
+Nigeria,347,SC/347/EN,Enugu State,Awgu North,Q59819148,country:ng/state:en,country:ng/state:en/state-assembly-constituency:347
+Nigeria,348,SC/348/EN,Enugu State,Awgu South,Q59819149,country:ng/state:en,country:ng/state:en/state-assembly-constituency:348
+Nigeria,349,SC/349/EN,Enugu State,Enugu East I,Q59819150,country:ng/state:en,country:ng/state:en/state-assembly-constituency:349
+Nigeria,350,SC/350/EN,Enugu State,Enugu East II,Q59819152,country:ng/state:en,country:ng/state:en/state-assembly-constituency:350
+Nigeria,351,SC/351/EN,Enugu State,Enugu North,Q59819153,country:ng/state:en,country:ng/state:en/state-assembly-constituency:351
+Nigeria,352,SC/352/EN,Enugu State,Enugu South I,Q59819155,country:ng/state:en,country:ng/state:en/state-assembly-constituency:352
+Nigeria,353,SC/353/EN,Enugu State,Enugu South II,Q59819156,country:ng/state:en,country:ng/state:en/state-assembly-constituency:353
+Nigeria,354,SC/354/EN,Enugu State,Ezeagu,Q59819157,country:ng/state:en,country:ng/state:en/state-assembly-constituency:354
+Nigeria,355,SC/355/EN,Enugu State,Igbo-Etiti East,Q59819158,country:ng/state:en,country:ng/state:en/state-assembly-constituency:355
+Nigeria,356,SC/356/EN,Enugu State,Igbo-Etiti West,Q59819159,country:ng/state:en,country:ng/state:en/state-assembly-constituency:356
+Nigeria,357,SC/357/EN,Enugu State,Igbo-Eze North I,Q59819160,country:ng/state:en,country:ng/state:en/state-assembly-constituency:357
+Nigeria,358,SC/358/EN,Enugu State,Igbo-Eze North II,Q59819161,country:ng/state:en,country:ng/state:en/state-assembly-constituency:358
+Nigeria,359,SC/359/EN,Enugu State,Igbo-Eze South,Q59819162,country:ng/state:en,country:ng/state:en/state-assembly-constituency:359
+Nigeria,360,SC/360/EN,Enugu State,Isi-Uzo,Q59819163,country:ng/state:en,country:ng/state:en/state-assembly-constituency:360
+Nigeria,361,SC/361/EN,Enugu State,Nkanu East,Q59819165,country:ng/state:en,country:ng/state:en/state-assembly-constituency:361
+Nigeria,362,SC/362/EN,Enugu State,Nkanu West,Q59819166,country:ng/state:en,country:ng/state:en/state-assembly-constituency:362
+Nigeria,363,SC/363/EN,Enugu State,Nsukka East,Q59819168,country:ng/state:en,country:ng/state:en/state-assembly-constituency:363
+Nigeria,364,SC/364/EN,Enugu State,Nsukka West,Q59819169,country:ng/state:en,country:ng/state:en/state-assembly-constituency:364
+Nigeria,365,SC/365/EN,Enugu State,Oji River,Q59819170,country:ng/state:en,country:ng/state:en/state-assembly-constituency:365
+Nigeria,366,SC/366/EN,Enugu State,Udenu,Q59819171,country:ng/state:en,country:ng/state:en/state-assembly-constituency:366
+Nigeria,367,SC/367/EN,Enugu State,Udi North,Q59819172,country:ng/state:en,country:ng/state:en/state-assembly-constituency:367
+Nigeria,368,SC/368/EN,Enugu State,Udi South,Q59819173,country:ng/state:en,country:ng/state:en/state-assembly-constituency:368
+Nigeria,369,SC/369/EN,Enugu State,Uzo Uwani,Q59819174,country:ng/state:en,country:ng/state:en/state-assembly-constituency:369
+Nigeria,370,SC/370/GM,Gombe State,Akko West,Q59819176,country:ng/state:go,country:ng/state:go/state-assembly-constituency:370
+Nigeria,371,SC/371/GM,Gombe State,Akko Central,Q59819177,country:ng/state:go,country:ng/state:go/state-assembly-constituency:371
+Nigeria,372,SC/372/GM,Gombe State,Akko North,Q59819179,country:ng/state:go,country:ng/state:go/state-assembly-constituency:372
+Nigeria,373,SC/373/GM,Gombe State,Balanga North,Q59819180,country:ng/state:go,country:ng/state:go/state-assembly-constituency:373
+Nigeria,374,SC/374/GM,Gombe State,Balanga South,Q59819181,country:ng/state:go,country:ng/state:go/state-assembly-constituency:374
+Nigeria,375,SC/375/GM,Gombe State,Billiri East,Q59819182,country:ng/state:go,country:ng/state:go/state-assembly-constituency:375
+Nigeria,376,SC/076GM,Gombe State,Billiri West,Q59819183,country:ng/state:go,country:ng/state:go/state-assembly-constituency:076GM
+Nigeria,377,SC/377/GM,Gombe State,Dukku North,Q59819184,country:ng/state:go,country:ng/state:go/state-assembly-constituency:377
+Nigeria,378,SC/378/GM,Gombe State,Dukku South,Q59819185,country:ng/state:go,country:ng/state:go/state-assembly-constituency:378
+Nigeria,379,SC/379/GM,Gombe State,Funakaye North,Q59819187,country:ng/state:go,country:ng/state:go/state-assembly-constituency:379
+Nigeria,380,SC/380/GM,Gombe State,Funakaye South,Q59819188,country:ng/state:go,country:ng/state:go/state-assembly-constituency:380
+Nigeria,381,SC/381/GM,Gombe State,Gombe North,Q59819189,country:ng/state:go,country:ng/state:go/state-assembly-constituency:381
+Nigeria,382,SC/382/GM,Gombe State,Gombe South,Q59819190,country:ng/state:go,country:ng/state:go/state-assembly-constituency:382
+Nigeria,383,SC/383/GM,Gombe State,Kaltungo West,Q59819191,country:ng/state:go,country:ng/state:go/state-assembly-constituency:383
+Nigeria,384,SC/384/GM,Gombe State,Kaltungo East,Q59819193,country:ng/state:go,country:ng/state:go/state-assembly-constituency:384
+Nigeria,385,SC/385/GM,Gombe State,Nafada North,Q59819194,country:ng/state:go,country:ng/state:go/state-assembly-constituency:385
+Nigeria,386,SC/386/GM,Gombe State,Nafada South,Q59819195,country:ng/state:go,country:ng/state:go/state-assembly-constituency:386
+Nigeria,387,SC/387/GM,Gombe State,Shongom,Q59819196,country:ng/state:go,country:ng/state:go/state-assembly-constituency:387
+Nigeria,388,SC/388/GM,Gombe State,Pero Chonge,Q59819201,country:ng/state:go,country:ng/state:go/state-assembly-constituency:388
+Nigeria,389,SC/389/GM,Gombe State,Deba,Q59819202,country:ng/state:go,country:ng/state:go/state-assembly-constituency:389
+Nigeria,390,SC/390/GM,Gombe State,Yamaltu East,Q59819203,country:ng/state:go,country:ng/state:go/state-assembly-constituency:390
+Nigeria,391,SC/391/GM,Gombe State,Yamaltu West,Q59819204,country:ng/state:go,country:ng/state:go/state-assembly-constituency:391
+Nigeria,392,SC/392/GM,Gombe State,Kwami East,Q59819205,country:ng/state:go,country:ng/state:go/state-assembly-constituency:392
+Nigeria,393,SC/393/GM,Gombe State,Kwami West,Q59819206,country:ng/state:go,country:ng/state:go/state-assembly-constituency:393
+Nigeria,394,SC/394/IM,Imo State,Aboh Mbaise,Q59819207,country:ng/state:im,country:ng/state:im/state-assembly-constituency:394
+Nigeria,395,SC/395/IM,Imo State,Ahiazu Mbaise,Q59819208,country:ng/state:im,country:ng/state:im/state-assembly-constituency:395
+Nigeria,396,SC/396/IM,Imo State,Ehime Mbano,Q59819209,country:ng/state:im,country:ng/state:im/state-assembly-constituency:396
+Nigeria,397,SC/397/IM,Imo State,Ezinihitte,Q59819213,country:ng/state:im,country:ng/state:im/state-assembly-constituency:397
+Nigeria,398,SC/398/IM,Imo State,Ideato North,Q59819214,country:ng/state:im,country:ng/state:im/state-assembly-constituency:398
+Nigeria,399,SC/399/IM,Imo State,Ideato South,Q59819215,country:ng/state:im,country:ng/state:im/state-assembly-constituency:399
+Nigeria,400,SC/400/IM,Imo State,Ihite/Uboma,Q59819216,country:ng/state:im,country:ng/state:im/state-assembly-constituency:400
+Nigeria,401,SC/401/IM,Imo State,Ikeduru,Q59819217,country:ng/state:im,country:ng/state:im/state-assembly-constituency:401
+Nigeria,402,SC/402/IM,Imo State,Isiala Mbano,Q59819218,country:ng/state:im,country:ng/state:im/state-assembly-constituency:402
+Nigeria,403,SC/403/IM,Imo State,Isu,Q59819219,country:ng/state:im,country:ng/state:im/state-assembly-constituency:403
+Nigeria,404,SC/404/IM,Imo State,Mbaitoli,Q59819220,country:ng/state:im,country:ng/state:im/state-assembly-constituency:404
+Nigeria,405,SC/405/IM,Imo State,Ngor Okpala,Q59819221,country:ng/state:im,country:ng/state:im/state-assembly-constituency:405
+Nigeria,406,SC/406/IM,Imo State,Njaba,Q59819224,country:ng/state:im,country:ng/state:im/state-assembly-constituency:406
+Nigeria,407,SC/407/IM,Imo State,Nwangele,Q59819225,country:ng/state:im,country:ng/state:im/state-assembly-constituency:407
+Nigeria,408,SC/408/IM,Imo State,Nkwerre,Q59819226,country:ng/state:im,country:ng/state:im/state-assembly-constituency:408
+Nigeria,409,SC/409/IM,Imo State,Obowo,Q59819227,country:ng/state:im,country:ng/state:im/state-assembly-constituency:409
+Nigeria,410,SC/410/IM,Imo State,Oguta,Q59819228,country:ng/state:im,country:ng/state:im/state-assembly-constituency:410
+Nigeria,411,SC/411/IM,Imo State,Ohaji/Egbema,Q59819229,country:ng/state:im,country:ng/state:im/state-assembly-constituency:411
+Nigeria,412,SC/412/IM,Imo State,Okigwe,Q59819230,country:ng/state:im,country:ng/state:im/state-assembly-constituency:412
+Nigeria,413,SC/413/IM,Imo State,Onuimo,Q59819231,country:ng/state:im,country:ng/state:im/state-assembly-constituency:413
+Nigeria,414,SC/414/IM,Imo State,Orlu,Q59819232,country:ng/state:im,country:ng/state:im/state-assembly-constituency:414
+Nigeria,415,SC/415/IM,Imo State,Orsu,Q59819233,country:ng/state:im,country:ng/state:im/state-assembly-constituency:415
+Nigeria,416,SC/416/IM,Imo State,Oru East,Q59819234,country:ng/state:im,country:ng/state:im/state-assembly-constituency:416
+Nigeria,417,SC/417/IM,Imo State,Oru West,Q59819235,country:ng/state:im,country:ng/state:im/state-assembly-constituency:417
+Nigeria,418,SC/418/IM,Imo State,Owerri Municipal,Q59819236,country:ng/state:im,country:ng/state:im/state-assembly-constituency:418
+Nigeria,419,SC/419/IM,Imo State,Owerri North,Q59819237,country:ng/state:im,country:ng/state:im/state-assembly-constituency:419
+Nigeria,420,SC/420/IM,Imo State,Owerri West,Q59819238,country:ng/state:im,country:ng/state:im/state-assembly-constituency:420
+Nigeria,423,SC/423/JG,Jigawa State,Kanya,Q59819242,country:ng/state:ji,country:ng/state:ji/state-assembly-constituency:423
+Nigeria,433,SC/433/JG,Jigawa State,Fagam,Q59819254,country:ng/state:ji,country:ng/state:ji/state-assembly-constituency:433
+Nigeria,438,SC/438/JG,Jigawa State,Bulangu,Q59819259,country:ng/state:ji,country:ng/state:ji/state-assembly-constituency:438
+Nigeria,439,SC/439/JG,Jigawa State,K/Kasamma,Q59819260,country:ng/state:ji,country:ng/state:ji/state-assembly-constituency:439
+Nigeria,451,SC/476/KD,Kaduna State,Basawa,Q59819280,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:476
+Nigeria,452,SC/470/KD,Kaduna State,Chawai/Kauru,Q59819282,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:470
+Nigeria,453,SC/454/KD,Kaduna State,Chikun I,Q59819283,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:454
+Nigeria,454,SC/482/KD,Kaduna State,City,Q59819284,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:482
+Nigeria,455,SC/466/KD,Kaduna State,Doka,Q59819285,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:466
+Nigeria,456,SC/455/KD,Kaduna State,Giwa East,Q59819286,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:455
+Nigeria,457,SC/456/KD,Kaduna State,Giwa West,Q59819287,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:456
+Nigeria,458,SC/457/KD,Kaduna State,Igabi East,Q59819288,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:457
+Nigeria,459,SC/458/KD,Kaduna State,Igabi West,Q59819290,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:458
+Nigeria,460,SC/459/KD,Kaduna State,Ikara,Q59819294,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:459
+Nigeria,461,SC/483/KD,Kaduna State,Jaba,Q59819296,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:483
+Nigeria,462,SC/461/KD,Kaduna State,Jema’a,Q59819297,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:461
+Nigeria,463,SC/463/KD,Kaduna State,Kachia,Q59819298,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:463
+Nigeria,464,SC/464/KD,Kaduna State,Kagarko,Q59819299,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:464
+Nigeria,465,SC/453/KD,Kaduna State,Kajuru,Q59819300,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:453
+Nigeria,466,SC/452/KD,Kaduna State,Kakangi,Q59819302,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:452
+Nigeria,467,SC/484/KD,Kaduna State,Kaura,Q59819303,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:484
+Nigeria,468,SC/465/KD,Kaduna State,Kawo/Gabasawa,Q59819304,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:465
+Nigeria,469,SC/481/KD,Kaduna State,Kewaye,Q59819306,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:481
+Nigeria,470,SC/460/KD,Kaduna State,Kubau,Q59819307,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:460
+Nigeria,471,SC/473/KD,Kaduna State,Kudan,Q59819308,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:473
+Nigeria,472,SC/471/KD,Kaduna State,Lere,Q59819309,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:471
+Nigeria,473,SC/451/KD,Kaduna State,Magajin Gari,Q59819310,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:451
+Nigeria,474,SC/477/KD,Kaduna State,Maigana,Q59819311,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:477
+Nigeria,475,SC/474/KD,Kaduna State,Makarfi,Q59819312,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:474
+Nigeria,476,SC/468/KD,Kaduna State,Makera,Q59819313,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:468
+Nigeria,477,SC/475/KD,Kaduna State,Sabon Gari,Q59819315,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:475
+Nigeria,478,SC/472/KD,Kaduna State,Saminaka,Q59819320,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:472
+Nigeria,479,SC/462/KD,Kaduna State,Sanga,Q59819321,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:462
+Nigeria,480,SC/478/KD,Kaduna State,Soba,Q59819322,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:478
+Nigeria,482,SC/469/KD,Kaduna State,Unguwar Sanusi,Q59819324,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:469
+Nigeria,483,SC/479/KD,Kaduna State,Zangon Kataf,Q59819325,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:479
+Nigeria,484,SC/480/KD,Kaduna State,Zonkwa,Q59819326,country:ng/state:kd,country:ng/state:kd/state-assembly-constituency:480
+Nigeria,520,SC/520/KN,Kano State,Tudunwada,Q59819377,country:ng/state:kn,country:ng/state:kn/state-assembly-constituency:520
+Nigeria,526,SC/526/KT,Katsina State,Bakori II (tsiga),Q59819386,country:ng/state:kt,country:ng/state:kt/state-assembly-constituency:526
+Nigeria,545,SC/546/KT,Katsina State,Katsina,Q59819411,country:ng/state:kt,country:ng/state:kt/state-assembly-constituency:546
+Nigeria,563,SC/563/KB,Kebbi State,Bagudo East,Q59819434,country:ng/state:ke,country:ng/state:ke/state-assembly-constituency:563
+Nigeria,564,SC/564/KB,Kebbi State,Bagudo West,Q59819435,country:ng/state:ke,country:ng/state:ke/state-assembly-constituency:564
+Nigeria,565,SC/565/KB,Kebbi State,Birnin Kebbi North,Q59819436,country:ng/state:ke,country:ng/state:ke/state-assembly-constituency:565
+Nigeria,566,SC/566/KB,Kebbi State,Birnin Kebbi South,Q59819437,country:ng/state:ke,country:ng/state:ke/state-assembly-constituency:566
+Nigeria,573,SC/573/KB,Kebbi State,Koko/Besse,Q59819449,country:ng/state:ke,country:ng/state:ke/state-assembly-constituency:573
+Nigeria,579,SC/579/KB,Kebbi State,Wasagu/Danko East,Q59819461,country:ng/state:ke,country:ng/state:ke/state-assembly-constituency:579
+Nigeria,580,SC/580/KB,Kebbi State,Wasagu/Danko West,Q59819463,country:ng/state:ke,country:ng/state:ke/state-assembly-constituency:580
+Nigeria,585,SC/585/KG,Kogi State,Ankpa I,Q59819470,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:585
+Nigeria,586,SC/586/KG,Kogi State,Ankpa II,Q59819475,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:586
+Nigeria,588,SC/588/KG,Kogi State,Dekina/Biraidu,Q59819477,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:588
+Nigeria,589,SC/589/KG,Kogi State,Okura,Q59819478,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:589
+Nigeria,596,SC/596/KG,Kogi State,Lokoja I,Q59819489,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:596
+Nigeria,597,SC/597/KG,Kogi State,Lokoja II,Q59819490,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:597
+Nigeria,602,SC/602/KG,Kogi State,Okene Town,Q59819497,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:602
+Nigeria,603,SC/603/KG,Kogi State,Okene II (south),Q59819498,country:ng/state:ko,country:ng/state:ko/state-assembly-constituency:603
+Nigeria,608,SC/608/KW,Kwara State,Afon,Q59819505,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:608
+Nigeria,609,SC/609/KW,Kwara State,Onire/Owode,Q59819507,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:609
+Nigeria,610,SC/610/KW,Kwara State,Ilesha/Gwanara,Q59819508,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:610
+Nigeria,611,SC/611/KW,Kwara State,Okuta/Ayashkira,Q59819509,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:611
+Nigeria,616,SC/616/KW,Kwara State,Omupo,Q59819515,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:616
+Nigeria,617,SC/617/KW,Kwara State,Share/Oke-Ode,Q59819516,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:617
+Nigeria,620,SC/620/KW,Kwara State,Ilorin Central,Q59819519,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:620
+Nigeria,621,SC/621/KW,Kwara State,Ilorin North West,Q59819520,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:621
+Nigeria,624,SC/624/KW,Kwara State,Gwanabe/Adena/Banni,Q59819527,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:624
+Nigeria,625,SC/625/KW,Kwara State,Kaiama/Wajibe/Kemanji,Q59819528,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:625
+Nigeria,626,SC/626/KW,Kwara State,Lanwa/Ejidongari,Q59819529,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:626
+Nigeria,627,SC/627/KW,Kwara State,Oloru/Malete/Ipaiye,Q59819530,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:627
+Nigeria,628,SC/628/KW,Kwara State,Balogun/Ojumu,Q59819532,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:628
+Nigeria,629,SC/629/KW,Kwara State,Shawo/Essa,Q59819533,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:629
+Nigeria,630,SC/630/KW,Kwara State,Odo-Ogun,Q59819534,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:630
+Nigeria,631,SC/631/KW,Kwara State,Oke-Ogun,Q59819535,country:ng/state:kw,country:ng/state:kw/state-assembly-constituency:631
+Nigeria,632,SC/632/LA,Lagos,Agege I,Q59819536,country:ng/state:la,country:ng/state:la/state-assembly-constituency:632
+Nigeria,633,SC/633/LA,Lagos,Agege II,Q59819537,country:ng/state:la,country:ng/state:la/state-assembly-constituency:633
+Nigeria,634,SC/634/LA,Lagos,Ajeromi/Ifelodun I,Q59819538,country:ng/state:la,country:ng/state:la/state-assembly-constituency:634
+Nigeria,635,SC/635/LA,Lagos,Ajeromi/Ifelodun Ii,Q59819539,country:ng/state:la,country:ng/state:la/state-assembly-constituency:635
+Nigeria,636,SC/636/LA,Lagos,Alimosho I,Q59819540,country:ng/state:la,country:ng/state:la/state-assembly-constituency:636
+Nigeria,637,SC/637/LA,Lagos,Alimosho II,Q59819541,country:ng/state:la,country:ng/state:la/state-assembly-constituency:637
+Nigeria,638,SC/638/LA,Lagos,Amuwo Odofin I,Q59819542,country:ng/state:la,country:ng/state:la/state-assembly-constituency:638
+Nigeria,639,SC/639/LA,Lagos,Amuwo Odofin II,Q59819544,country:ng/state:la,country:ng/state:la/state-assembly-constituency:639
+Nigeria,640,SC/640/LA,Lagos,Apapa I,Q59819549,country:ng/state:la,country:ng/state:la/state-assembly-constituency:640
+Nigeria,641,SC/641/LA,Lagos,Apapa II,Q59819550,country:ng/state:la,country:ng/state:la/state-assembly-constituency:641
+Nigeria,642,SC/642/LA,Lagos,Badagry I,Q59819551,country:ng/state:la,country:ng/state:la/state-assembly-constituency:642
+Nigeria,643,SC/643/LA,Lagos,Badagry II,Q59819552,country:ng/state:la,country:ng/state:la/state-assembly-constituency:643
+Nigeria,644,SC/644/LA,Lagos,Epe I,Q59819553,country:ng/state:la,country:ng/state:la/state-assembly-constituency:644
+Nigeria,645,SC/645/LA,Lagos,Epe II,Q59819554,country:ng/state:la,country:ng/state:la/state-assembly-constituency:645
+Nigeria,646,SC/646/LA,Lagos,Eti-Osa I,Q59819555,country:ng/state:la,country:ng/state:la/state-assembly-constituency:646
+Nigeria,647,SC/647/LA,Lagos,Eti-Osa II,Q59819556,country:ng/state:la,country:ng/state:la/state-assembly-constituency:647
+Nigeria,648,SC/648/LA,Lagos,Ibeju-Lekki I,Q59819557,country:ng/state:la,country:ng/state:la/state-assembly-constituency:648
+Nigeria,649,SC/649/LA,Lagos,Ibeju-Lekki II,Q59819559,country:ng/state:la,country:ng/state:la/state-assembly-constituency:649
+Nigeria,650,SC/650/LA,Lagos,Ifako/Ijaiye I,Q59819561,country:ng/state:la,country:ng/state:la/state-assembly-constituency:650
+Nigeria,651,SC/651/LA,Lagos,Ifako/Ijaiye Ii,Q59819562,country:ng/state:la,country:ng/state:la/state-assembly-constituency:651
+Nigeria,652,SC/652/LA,Lagos,Ikeja I,Q59819563,country:ng/state:la,country:ng/state:la/state-assembly-constituency:652
+Nigeria,653,SC/653/LA,Lagos,Ikeja II,Q59819564,country:ng/state:la,country:ng/state:la/state-assembly-constituency:653
+Nigeria,654,SC/654/LA,Lagos,Ikorodu I,Q59819565,country:ng/state:la,country:ng/state:la/state-assembly-constituency:654
+Nigeria,655,SC/655/LA,Lagos,Ikorodu II,Q59819566,country:ng/state:la,country:ng/state:la/state-assembly-constituency:655
+Nigeria,656,SC/656/LA,Lagos,Kosofe I,Q59819567,country:ng/state:la,country:ng/state:la/state-assembly-constituency:656
+Nigeria,657,SC/657/LA,Lagos,Kosofe II,Q59819568,country:ng/state:la,country:ng/state:la/state-assembly-constituency:657
+Nigeria,658,SC/658/LA,Lagos,Lagos Island I,Q59819570,country:ng/state:la,country:ng/state:la/state-assembly-constituency:658
+Nigeria,659,SC/659/LA,Lagos,Lagos Island II,Q59819571,country:ng/state:la,country:ng/state:la/state-assembly-constituency:659
+Nigeria,660,SC/660/LA,Lagos,Lagos Mainland I,Q59819572,country:ng/state:la,country:ng/state:la/state-assembly-constituency:660
+Nigeria,661,SC/661/LA,Lagos,Lagos Mainland II,Q59819573,country:ng/state:la,country:ng/state:la/state-assembly-constituency:661
+Nigeria,662,SC/662/LA,Lagos,Mushin I,Q59819574,country:ng/state:la,country:ng/state:la/state-assembly-constituency:662
+Nigeria,663,SC/663/LA,Lagos,Mushin II,Q59819575,country:ng/state:la,country:ng/state:la/state-assembly-constituency:663
+Nigeria,664,SC/664/LA,Lagos,Ojo I,Q59819577,country:ng/state:la,country:ng/state:la/state-assembly-constituency:664
+Nigeria,665,SC/665/LA,Lagos,Ojo II,Q59819578,country:ng/state:la,country:ng/state:la/state-assembly-constituency:665
+Nigeria,666,SC/666/LA,Lagos,Oshodi/Isolo I,Q59819579,country:ng/state:la,country:ng/state:la/state-assembly-constituency:666
+Nigeria,667,SC/667/LA,Lagos,Oshodi/Isolo Ii,Q59819581,country:ng/state:la,country:ng/state:la/state-assembly-constituency:667
+Nigeria,668,SC/668/LA,Lagos,Shomolu I,Q59819582,country:ng/state:la,country:ng/state:la/state-assembly-constituency:668
+Nigeria,669,SC/669/LA,Lagos,Shomolu II,Q59819583,country:ng/state:la,country:ng/state:la/state-assembly-constituency:669
+Nigeria,670,SC/670/LA,Lagos,Surulere I,Q59819584,country:ng/state:la,country:ng/state:la/state-assembly-constituency:670
+Nigeria,671,SC/671/LA,Lagos,Surulere II,Q59819585,country:ng/state:la,country:ng/state:la/state-assembly-constituency:671
+Nigeria,672,SC/672/NW,Nasarawa State,Akwanga North,Q59819586,country:ng/state:na,country:ng/state:na/state-assembly-constituency:672
+Nigeria,673,SC/673/NW,Nasarawa State,Akwanga South,Q59819587,country:ng/state:na,country:ng/state:na/state-assembly-constituency:673
+Nigeria,674,SC/674/NW,Nasarawa State,Awe North,Q59819588,country:ng/state:na,country:ng/state:na/state-assembly-constituency:674
+Nigeria,675,SC/675/NW,Nasarawa State,Awe South,Q59819589,country:ng/state:na,country:ng/state:na/state-assembly-constituency:675
+Nigeria,676,SC/676/NW,Nasarawa State,Doma North,Q59819592,country:ng/state:na,country:ng/state:na/state-assembly-constituency:676
+Nigeria,677,SC/677/NW,Nasarawa State,Doma South,Q59819593,country:ng/state:na,country:ng/state:na/state-assembly-constituency:677
+Nigeria,678,SC/678/NW,Nasarawa State,Karu/Gitata,Q59819594,country:ng/state:na,country:ng/state:na/state-assembly-constituency:678
+Nigeria,679,SC/679/NW,Nasarawa State,Karshi/Uke,Q59819595,country:ng/state:na,country:ng/state:na/state-assembly-constituency:679
+Nigeria,681,SC/681/NW,Nasarawa State,Keffi West,Q59819597,country:ng/state:na,country:ng/state:na/state-assembly-constituency:681
+Nigeria,682,SC/682/NW,Nasarawa State,Keffi East,Q59819598,country:ng/state:na,country:ng/state:na/state-assembly-constituency:682
+Nigeria,683,SC/683/NW,Nasarawa State,Kokona East,Q59819599,country:ng/state:na,country:ng/state:na/state-assembly-constituency:683
+Nigeria,684,SC/684/NW,Nasarawa State,Kokona West,Q59819600,country:ng/state:na,country:ng/state:na/state-assembly-constituency:684
+Nigeria,685,SC/685/NW,Nasarawa State,Lafia Central,Q59819604,country:ng/state:na,country:ng/state:na/state-assembly-constituency:685
+Nigeria,686,SC/686/NW,Nasarawa State,Lafia North,Q59819605,country:ng/state:na,country:ng/state:na/state-assembly-constituency:686
+Nigeria,688,SC/688/NW,Nasarawa State,Loki/Udege,Q59819607,country:ng/state:na,country:ng/state:na/state-assembly-constituency:688
+Nigeria,689,SC/689/NW,Nasarawa State,Nass-Eggon West,Q59819608,country:ng/state:na,country:ng/state:na/state-assembly-constituency:689
+Nigeria,690,SC/690/NW,Nasarawa State,Nass-Eggon East,Q59819609,country:ng/state:na,country:ng/state:na/state-assembly-constituency:690
+Nigeria,691,SC/691/NW,Nasarawa State,Obi I,Q59819610,country:ng/state:na,country:ng/state:na/state-assembly-constituency:691
+Nigeria,692,SC/692/NW,Nasarawa State,Obi II,Q59819611,country:ng/state:na,country:ng/state:na/state-assembly-constituency:692
+Nigeria,694,SC/694/NW,Nasarawa State,Umaisha,Q59819616,country:ng/state:na,country:ng/state:na/state-assembly-constituency:694
+Nigeria,698,SC/698/NG,Niger State,Bida I,Q59819620,country:ng/state:ni,country:ng/state:ni/state-assembly-constituency:698
+Nigeria,699,SC/699/NG,Niger State,Bida II,Q59819621,country:ng/state:ni,country:ng/state:ni/state-assembly-constituency:699
+Nigeria,707,SC/707/NG,Niger State,Kontagora I,Q59819634,country:ng/state:ni,country:ng/state:ni/state-assembly-constituency:707
+Nigeria,708,SC/708/NG,Niger State,Kotangora II,Q59819635,country:ng/state:ni,country:ng/state:ni/state-assembly-constituency:708
+Nigeria,721,SC/721/NG,Niger State,Tapa,Q59819651,country:ng/state:ni,country:ng/state:ni/state-assembly-constituency:721
+Nigeria,723,SC/723/OG,Ogun State,Abeokuta South I,Q59819654,country:ng/state:og,country:ng/state:og/state-assembly-constituency:723
+Nigeria,724,SC/724/OG,Ogun State,Abeokuta South II,Q59819655,country:ng/state:og,country:ng/state:og/state-assembly-constituency:724
+Nigeria,727,SC/727/OG,Ogun State,Obafemi/Owode,Q59819659,country:ng/state:og,country:ng/state:og/state-assembly-constituency:727
+Nigeria,728,SC/728/OG,Ogun State,Ifo I,Q59819660,country:ng/state:og,country:ng/state:og/state-assembly-constituency:728
+Nigeria,729,SC/729/OG,Ogun State,Ifo II,Q59819661,country:ng/state:og,country:ng/state:og/state-assembly-constituency:729
+Nigeria,731,SC/731/OG,Ogun State,Ijebu North I (Ijebu-Igbo),Q59819665,country:ng/state:og,country:ng/state:og/state-assembly-constituency:731
+Nigeria,732,SC/732/OG,Ogun State,Ijebu North II (Ago-Iwoye/Oru/Awa),Q59819666,country:ng/state:og,country:ng/state:og/state-assembly-constituency:732
+Nigeria,736,SC/736/OG,Ogun State,Odogbolu (Alekkun-Ifesowapo/Laporu),Q59819670,country:ng/state:og,country:ng/state:og/state-assembly-constituency:736
+Nigeria,738,SC/738/OG,Ogun State,Sagamu I Offin,Q59819673,country:ng/state:og,country:ng/state:og/state-assembly-constituency:738
+Nigeria,739,SC/739/OG,Ogun State,Sagamu II Makun,Q59819674,country:ng/state:og,country:ng/state:og/state-assembly-constituency:739
+Nigeria,742,SC/742/OG,Ogun State,Imeko-Afon,Q59819677,country:ng/state:og,country:ng/state:og/state-assembly-constituency:742
+Nigeria,743,SC/743/OG,Ogun State,Egbado North I,Q59819678,country:ng/state:og,country:ng/state:og/state-assembly-constituency:743
+Nigeria,744,SC/744/OG,Ogun State,Egbado North II,Q59819679,country:ng/state:og,country:ng/state:og/state-assembly-constituency:744
+Nigeria,745,SC/745/OG,Ogun State,Idiroko Ipokia,Q59819680,country:ng/state:og,country:ng/state:og/state-assembly-constituency:745
+Nigeria,747,SC/747/OG,Ogun State,Ado/Odo/Ota I,Q59819683,country:ng/state:og,country:ng/state:og/state-assembly-constituency:747
+Nigeria,748,SC/748/OG,Ogun State,Ado-Odo/Ota II,Q59819684,country:ng/state:og,country:ng/state:og/state-assembly-constituency:748
+Nigeria,750,SC/750/OD,Ondo State,Akoko North West I,Q59819687,country:ng/state:on,country:ng/state:on/state-assembly-constituency:750
+Nigeria,751,SC/751/OD,Ondo State,Akoko North West II,Q59819688,country:ng/state:on,country:ng/state:on/state-assembly-constituency:751
+Nigeria,753,SC/753/OD,Ondo State,Akoko South West I,Q59819690,country:ng/state:on,country:ng/state:on/state-assembly-constituency:753
+Nigeria,754,SC/754/OD,Ondo State,Akoko South West II,Q59819691,country:ng/state:on,country:ng/state:on/state-assembly-constituency:754
+Nigeria,756,SC/756/OD,Ondo State,Akure South I,Q59819694,country:ng/state:on,country:ng/state:on/state-assembly-constituency:756
+Nigeria,757,SC/757/OD,Ondo State,Akure South II,Q59819696,country:ng/state:on,country:ng/state:on/state-assembly-constituency:757
+Nigeria,761,SC/761/OD,Ondo State,Ilaje I,Q59819700,country:ng/state:on,country:ng/state:on/state-assembly-constituency:761
+Nigeria,762,SC/762OD,Ondo State,Ilaje II,Q59819701,country:ng/state:on,country:ng/state:on/state-assembly-constituency:762OD
+Nigeria,763,SC/763/OD,Ondo State,Ileoluji/Okeigbo,Q59819702,country:ng/state:on,country:ng/state:on/state-assembly-constituency:763
+Nigeria,765,SC/765/OD,Ondo State,Odigbo I,Q59819705,country:ng/state:on,country:ng/state:on/state-assembly-constituency:765
+Nigeria,766,SC/766/OD,Ondo State,Odigbo II,Q59819709,country:ng/state:on,country:ng/state:on/state-assembly-constituency:766
+Nigeria,767,SC/767/OD,Ondo State,Okitipupa I,Q59819710,country:ng/state:on,country:ng/state:on/state-assembly-constituency:767
+Nigeria,768,SC/768/OD,Ondo State,Okitipupa II,Q59819711,country:ng/state:on,country:ng/state:on/state-assembly-constituency:768
+Nigeria,771,SC/771/OD,Ondo State,Ondo West II,Q59819714,country:ng/state:on,country:ng/state:on/state-assembly-constituency:771
+Nigeria,772,SC/772/OD,Ondo State,Ese,Q59819715,country:ng/state:on,country:ng/state:on/state-assembly-constituency:772
+Nigeria,773,SC/773/OD,Ondo State,Owo I,Q59819716,country:ng/state:on,country:ng/state:on/state-assembly-constituency:773
+Nigeria,774,SC/774/OD,Ondo State,Owo II,Q59819717,country:ng/state:on,country:ng/state:on/state-assembly-constituency:774
+Nigeria,775,SC/775/OS,Osun State,Boripe/Boluwa-Duro,Q59819719,country:ng/state:os,country:ng/state:os/state-assembly-constituency:775
+Nigeria,776,SC/776/OS,Osun State,Ifelodun,Q59819720,country:ng/state:os,country:ng/state:os/state-assembly-constituency:776
+Nigeria,777,SC/777/OS,Osun State,Ila,Q59819721,country:ng/state:os,country:ng/state:os/state-assembly-constituency:777
+Nigeria,778,SC/778/OS,Osun State,Ifedayo,Q59819722,country:ng/state:os,country:ng/state:os/state-assembly-constituency:778
+Nigeria,779,SC/779/OS,Osun State,Irepodun/Orulu,Q59819723,country:ng/state:os,country:ng/state:os/state-assembly-constituency:779
+Nigeria,780,SC/780/OS,Osun State,Odo-Otin,Q59819724,country:ng/state:os,country:ng/state:os/state-assembly-constituency:780
+Nigeria,781,SC/781/OS,Osun State,Olorunda,Q59819725,country:ng/state:os,country:ng/state:os/state-assembly-constituency:781
+Nigeria,782,SC/782/OS,Osun State,Osogbo,Q59819726,country:ng/state:os,country:ng/state:os/state-assembly-constituency:782
+Nigeria,783,SC/783/OS,Osun State,Atakunmosa East And West,Q59819727,country:ng/state:os,country:ng/state:os/state-assembly-constituency:783
+Nigeria,784,SC/784/OS,Osun State,Ife Central,Q59819730,country:ng/state:os,country:ng/state:os/state-assembly-constituency:784
+Nigeria,785,SC/785/OS,Osun State,Ife East,Q59819731,country:ng/state:os,country:ng/state:os/state-assembly-constituency:785
+Nigeria,786,SC/786/OS,Osun State,Ife North,Q59819732,country:ng/state:os,country:ng/state:os/state-assembly-constituency:786
+Nigeria,787,SC/787/OS,Osun State,Ife South,Q59819733,country:ng/state:os,country:ng/state:os/state-assembly-constituency:787
+Nigeria,788,SC/788/OS,Osun State,Ilesa East,Q59819735,country:ng/state:os,country:ng/state:os/state-assembly-constituency:788
+Nigeria,789,SC/789/OS,Osun State,Ilesa West,Q59819736,country:ng/state:os,country:ng/state:os/state-assembly-constituency:789
+Nigeria,790,SC/790/OS,Osun State,Obokun,Q59819737,country:ng/state:os,country:ng/state:os/state-assembly-constituency:790
+Nigeria,791,SC/791/OS,Osun State,Oriade,Q59819738,country:ng/state:os,country:ng/state:os/state-assembly-constituency:791
+Nigeria,792,SC/792/OS,Osun State,Ayedade,Q59819740,country:ng/state:os,country:ng/state:os/state-assembly-constituency:792
+Nigeria,793,SC/793/OS,Osun State,Ayedire,Q59819746,country:ng/state:os,country:ng/state:os/state-assembly-constituency:793
+Nigeria,794,SC/794/OS,Osun State,Ede North,Q59819748,country:ng/state:os,country:ng/state:os/state-assembly-constituency:794
+Nigeria,795,SC/795/OS,Osun State,Ede South,Q59819749,country:ng/state:os,country:ng/state:os/state-assembly-constituency:795
+Nigeria,796,SC/796/OS,Osun State,Egbedore,Q59819752,country:ng/state:os,country:ng/state:os/state-assembly-constituency:796
+Nigeria,797,SC/797/OS,Osun State,Irewole/Isokan,Q59819753,country:ng/state:os,country:ng/state:os/state-assembly-constituency:797
+Nigeria,798,SC/798/OS,Osun State,Iwo,Q59819754,country:ng/state:os,country:ng/state:os/state-assembly-constituency:798
+Nigeria,799,SC/799/OS,Osun State,Ola-Oluwa,Q59819756,country:ng/state:os,country:ng/state:os/state-assembly-constituency:799
+Nigeria,800,SC/800/OS,Osun State,Ejigbo,Q59819758,country:ng/state:os,country:ng/state:os/state-assembly-constituency:800
+Nigeria,802,SC/802/OY,Oyo State,Akinyele I,Q59819763,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:802
+Nigeria,803,SC/803/OY,Oyo State,Akinyele II,Q59819765,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:803
+Nigeria,807,SC/807/OY,Oyo State,Ibadan North I,Q59819769,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:807
+Nigeria,808,SC/808/OY,Oyo State,Ibadan North II,Q59819770,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:808
+Nigeria,809,SC/809/OY,Oyo State,Ibadan North East I,Q59819771,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:809
+Nigeria,810,SC/810/OY,Oyo State,Ibadan North-east II,Q59819772,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:810
+Nigeria,811,SC/811/OY,Oyo State,Ibadan South-east I,Q59819774,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:811
+Nigeria,812,SC/812/OY,Oyo State,Ibadan South-east II,Q59819776,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:812
+Nigeria,813,SC/813/OY,Oyo State,Ibadan South-west I,Q59819778,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:813
+Nigeria,814,SC/814/OY,Oyo State,Ibadan South West II,Q59819779,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:814
+Nigeria,815,SC/815/OY,Oyo State,Ibarapa North & Ibarapa Central,Q59819780,country:ng/state:oy,country:ng/state:oy/state-assembly-constituency:815
+Nigeria,833,SC/833/PL,Plateau State,Barkin Ladi,Q59819808,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:833
+Nigeria,834,SC/834/PL,Plateau State,Pengana,Q59819809,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:834
+Nigeria,835,SC/835/PL,Plateau State,Rukuba/Irigwe,Q59819810,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:835
+Nigeria,836,SC/836/PL,Plateau State,Bokkos,Q59819811,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:836
+Nigeria,837,SC/837/PL,Plateau State,Jos East,Q59819812,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:837
+Nigeria,838,SC/838/PL,Plateau State,Jos North,Q59819813,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:838
+Nigeria,839,SC/839/PL,Plateau State,Jos West,Q59819814,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:839
+Nigeria,840,SC/840/PL,Plateau State,Jos South,Q59819815,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:840
+Nigeria,841,SC/841/PL,Plateau State,Kanke,Q59819817,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:841
+Nigeria,842,SC/842/PL,Plateau State,Pankshin North,Q59819818,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:842
+Nigeria,843,SC/843/PL,Plateau State,Pankshin South,Q59819819,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:843
+Nigeria,844,SC/844/PL,Plateau State,Kanam,Q59819820,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:844
+Nigeria,845,SC/845/PL,Plateau State,Kantana,Q59819821,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:845
+Nigeria,846,SC/846/PL,Plateau State,Langtang North,Q59819822,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:846
+Nigeria,847,SC/847/PL,Plateau State,Langtang Central,Q59819823,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:847
+Nigeria,848,SC/848/PL,Plateau State,Langtang South (mabudi),Q59819824,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:848
+Nigeria,849,SC/849/PL,Plateau State,Mangu South,Q59819825,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:849
+Nigeria,850,SC/850/PL,Plateau State,Mangu North,Q59819826,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:850
+Nigeria,851,SC/851/PL,Plateau State,Mikang,Q59819829,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:851
+Nigeria,852,SC/852/PL,Plateau State,Qua’an Pan North,Q59819831,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:852
+Nigeria,853,SC/853/PL,Plateau State,Qua’an Pan South,Q59819832,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:853
+Nigeria,854,SC/854/PL,Plateau State,Riyom,Q59819833,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:854
+Nigeria,855,SC/855/PL,Plateau State,Shendam,Q59819834,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:855
+Nigeria,856,SC/856/PL,Plateau State,Wase,Q59819835,country:ng/state:pl,country:ng/state:pl/state-assembly-constituency:856
+Nigeria,857,SC/857/RV,Rivers State,Abua/Odual,Q59819836,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:857
+Nigeria,858,SC/858/RV,Rivers State,Ahoada East I,Q20707358,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:858
+Nigeria,859,SC/859/RV,Rivers State,Ahoada East II,Q59819837,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:859
+Nigeria,860,SC/860/RV,Rivers State,Ahoada West,Q59819838,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:860
+Nigeria,861,SC/861/RV,Rivers State,Akuku-Toru I,Q59819840,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:861
+Nigeria,862,SC/862/RV,Rivers State,Akuku-Toru II,Q59819843,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:862
+Nigeria,863,SC/863/RV,Rivers State,Andoni I,Q59819844,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:863
+Nigeria,864,SC/864/RV,Rivers State,Asari-Toru I,Q59819846,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:864
+Nigeria,865,SC/865/RV,Rivers State,Asari-Toru II,Q59819847,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:865
+Nigeria,866,SC/866/RV,Rivers State,Bonny,Q59819848,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:866
+Nigeria,867,SC/867/RV,Rivers State,Degema,Q59819849,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:867
+Nigeria,868,SC/868/RV,Rivers State,Emohua,Q59819850,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:868
+Nigeria,869,SC/869/RV,Rivers State,Eleme,Q59819851,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:869
+Nigeria,870,SC/870/RV,Rivers State,Etche I,Q59819852,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:870
+Nigeria,871,SC/871/RV,Rivers State,Etche II,Q59819853,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:871
+Nigeria,872,SC/872/RV,Rivers State,Gokana,Q19462013,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:872
+Nigeria,873,SC/873/RV,Rivers State,Ikwere I,Q59819854,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:873
+Nigeria,874,SC/874/RV,Rivers State,Khana I,Q59819855,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:874
+Nigeria,875,SC/875/RV,Rivers State,Khana II,Q59819856,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:875
+Nigeria,876,SC/876/RV,Rivers State,Obio/Akpor I,Q59819857,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:876
+Nigeria,877,SC/877/RV,Rivers State,Obio/Akpor Ii,Q59819858,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:877
+Nigeria,878,SC/878/RV,Rivers State,(ogba/Egbema/Ndoni) Onelga I,Q59819860,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:878
+Nigeria,879,SC/879/RV,Rivers State,Onelga II,Q59819861,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:879
+Nigeria,880,SC/880/RV,Rivers State,Ogu/Bolo,Q59819862,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:880
+Nigeria,881,SC/881/RV,Rivers State,Okrika,Q59819864,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:881
+Nigeria,882,SC/882/RV,Rivers State,Omuma,Q59819865,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:882
+Nigeria,883,SC/883/RV,Rivers State,Opobo/Nkoro,Q59819867,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:883
+Nigeria,884,SC/884/RV,Rivers State,Oyigbo,Q59819868,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:884
+Nigeria,885,SC/885/RV,Rivers State,Port-Harcourt I,Q59819869,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:885
+Nigeria,886,SC/886/RV,Rivers State,Port-Harcourt II,Q59819870,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:886
+Nigeria,887,SC/887/RV,Rivers State,Port-Harcourt III,Q59819871,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:887
+Nigeria,888,SC/888/RV,Rivers State,Tai,Q59819872,country:ng/state:ri,country:ng/state:ri/state-assembly-constituency:888
+Nigeria,889,SC/889/SO,Sokoto State,Binji,Q59819874,country:ng/state:so,country:ng/state:so/state-assembly-constituency:889
+Nigeria,890,SC/890/SO,Sokoto State,Bodinga North,Q59819877,country:ng/state:so,country:ng/state:so/state-assembly-constituency:890
+Nigeria,891,SC/891/SO,Sokoto State,Bodinga South,Q59819879,country:ng/state:so,country:ng/state:so/state-assembly-constituency:891
+Nigeria,892,SC/892/SO,Sokoto State,Dange Shuni,Q59819880,country:ng/state:so,country:ng/state:so/state-assembly-constituency:892
+Nigeria,893,SC/893/SO,Sokoto State,Gada East,Q59819881,country:ng/state:so,country:ng/state:so/state-assembly-constituency:893
+Nigeria,894,SC/894/SO,Sokoto State,Gada West,Q59819882,country:ng/state:so,country:ng/state:so/state-assembly-constituency:894
+Nigeria,895,SC/895/SO,Sokoto State,Goronyo,Q59819883,country:ng/state:so,country:ng/state:so/state-assembly-constituency:895
+Nigeria,896,SC/896/SO,Sokoto State,Gudu,Q59819884,country:ng/state:so,country:ng/state:so/state-assembly-constituency:896
+Nigeria,897,SC/897/SO,Sokoto State,Gwadabawa North,Q59819885,country:ng/state:so,country:ng/state:so/state-assembly-constituency:897
+Nigeria,898,SC/898/SO,Sokoto State,Gwadabawa South,Q59819887,country:ng/state:so,country:ng/state:so/state-assembly-constituency:898
+Nigeria,899,SC/899/SO,Sokoto State,Illela,Q59819890,country:ng/state:so,country:ng/state:so/state-assembly-constituency:899
+Nigeria,900,SC/900/SO,Sokoto State,Isa,Q59819891,country:ng/state:so,country:ng/state:so/state-assembly-constituency:900
+Nigeria,901,SC/901/SO,Sokoto State,Kware,Q59819892,country:ng/state:so,country:ng/state:so/state-assembly-constituency:901
+Nigeria,902,SC/902/SO,Sokoto State,Kebbe,Q59819893,country:ng/state:so,country:ng/state:so/state-assembly-constituency:902
+Nigeria,903,SC/903/SO,Sokoto State,Rabah,Q59819894,country:ng/state:so,country:ng/state:so/state-assembly-constituency:903
+Nigeria,904,SC/904/SO,Sokoto State,Sabon Birin North,Q59819895,country:ng/state:so,country:ng/state:so/state-assembly-constituency:904
+Nigeria,905,SC/905/SO,Sokoto State,Sabon Birin South,Q59819898,country:ng/state:so,country:ng/state:so/state-assembly-constituency:905
+Nigeria,906,SC/906/SO,Sokoto State,Shagari,Q59819899,country:ng/state:so,country:ng/state:so/state-assembly-constituency:906
+Nigeria,907,SC/907/SO,Sokoto State,Silame,Q59819901,country:ng/state:so,country:ng/state:so/state-assembly-constituency:907
+Nigeria,908,SC/908/SO,Sokoto State,Sokoto North,Q59819904,country:ng/state:so,country:ng/state:so/state-assembly-constituency:908
+Nigeria,909,SC/909/SO,Sokoto State,Sokoto North II,Q59819905,country:ng/state:so,country:ng/state:so/state-assembly-constituency:909
+Nigeria,910,SC/910/SO,Sokoto State,Sokoto South I,Q59819906,country:ng/state:so,country:ng/state:so/state-assembly-constituency:910
+Nigeria,911,SC/911/SO,Sokoto State,Sokoto South II,Q59819907,country:ng/state:so,country:ng/state:so/state-assembly-constituency:911
+Nigeria,912,SC/912/SO,Sokoto State,Tambuwal West,Q59819908,country:ng/state:so,country:ng/state:so/state-assembly-constituency:912
+Nigeria,913,SC/913/SO,Sokoto State,Tambuwal East,Q59819909,country:ng/state:so,country:ng/state:so/state-assembly-constituency:913
+Nigeria,914,SC/914/SO,Sokoto State,Tangaza,Q59819911,country:ng/state:so,country:ng/state:so/state-assembly-constituency:914
+Nigeria,915,SC/915/SO,Sokoto State,Tureta,Q59819912,country:ng/state:so,country:ng/state:so/state-assembly-constituency:915
+Nigeria,916,SC/916/SO,Sokoto State,Wamakko,Q59819913,country:ng/state:so,country:ng/state:so/state-assembly-constituency:916
+Nigeria,917,SC/917/SO,Sokoto State,Wurno,Q59819915,country:ng/state:so,country:ng/state:so/state-assembly-constituency:917
+Nigeria,918,SC/918/SO,Sokoto State,Yabo,Q59819916,country:ng/state:so,country:ng/state:so/state-assembly-constituency:918
+Nigeria,919,SC/919/TR,Taraba State,Bali I,Q59819917,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:919
+Nigeria,920,SC/920/TR,Taraba State,Bali II,Q59819918,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:920
+Nigeria,921,SC/921/TR,Taraba State,Gassol I,Q59819920,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:921
+Nigeria,922,SC/922/TR,Taraba State,Gassol II,Q59819921,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:922
+Nigeria,923,SC/923/TR,Taraba State,Jalingo I,Q59819922,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:923
+Nigeria,924,SC/924/TR,Taraba State,Jalingo II,Q59819923,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:924
+Nigeria,925,SC/925/TR,Taraba State,Ardo-Kola,Q59819925,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:925
+Nigeria,926,SC/926/TR,Taraba State,Takum I,Q59819926,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:926
+Nigeria,927,SC/927/TR,Taraba State,Kashimbila,Q59819927,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:927
+Nigeria,928,SC/928/TR,Taraba State,Ussa/Likam,Q59819928,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:928
+Nigeria,929,SC/929/TR,Taraba State,Gembu,Q59819929,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:929
+Nigeria,930,SC/930/TR,Taraba State,Nguroje,Q59819930,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:930
+Nigeria,931,SC/931/TR,Taraba State,Mbamnga,Q59819931,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:931
+Nigeria,932,SC/932/TR,Taraba State,Baissa,Q59819932,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:932
+Nigeria,933,SC/933/TR,Taraba State,Zing,Q59819933,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:933
+Nigeria,934,SC/934/TR,Taraba State,Karim Lamido I,Q59819934,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:934
+Nigeria,935,SC/935/TR,Taraba State,Karim Lamido II,Q59819936,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:935
+Nigeria,936,SC/936/TR,Taraba State,Wukari I,Q59819937,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:936
+Nigeria,937,SC/937/TR,Taraba State,Wukari II,Q59819938,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:937
+Nigeria,938,SC/938/TR,Taraba State,Ibi,Q59819939,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:938
+Nigeria,939,SC/939/TR,Taraba State,Donda,Q59819940,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:939
+Nigeria,940,SC/940/TR,Taraba State,Gashaka,Q59819941,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:940
+Nigeria,941,SC/941/TR,Taraba State,Lau,Q59819942,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:941
+Nigeria,942,SC/942/TR,Taraba State,Yorro,Q59819943,country:ng/state:ta,country:ng/state:ta/state-assembly-constituency:942
+Nigeria,943,SC/943/YB,Yobe State,Bade East,Q59819944,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:943
+Nigeria,944,SC/944/YB,Yobe State,Bade West,Q59819947,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:944
+Nigeria,945,SC/945/YB,Yobe State,Bursari,Q59819948,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:945
+Nigeria,946,SC/946/YB,Yobe State,Damaturu I,Q59819949,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:946
+Nigeria,947,SC/947/YB,Yobe State,Damaturu II,Q59819950,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:947
+Nigeria,948,SC/948/YB,Yobe State,Fika/Ngalda,Q59819951,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:948
+Nigeria,949,SC/949/YB,Yobe State,Goya/Ngeji,Q59819952,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:949
+Nigeria,950,SC/950/YB,Yobe State,Damagum,Q59819953,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:950
+Nigeria,951,SC/951/YB,Yobe State,Jajere,Q59819955,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:951
+Nigeria,952,SC/952/YB,Yobe State,Geidam South,Q59819956,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:952
+Nigeria,953,SC/953/YB,Yobe State,Geidam North,Q59819957,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:953
+Nigeria,954,SC/954/YB,Yobe State,Gujba,Q59819958,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:954
+Nigeria,955,SC/955/YB,Yobe State,Gulani,Q59819959,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:955
+Nigeria,956,SC/956/YB,Yobe State,Jakusko,Q59819960,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:956
+Nigeria,957,SC/957/YB,Yobe State,Karasuwa,Q59819961,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:957
+Nigeria,958,SC/958/YB,Yobe State,Machina,Q59819962,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:958
+Nigeria,959,SC/959/YB,Yobe State,Nangere,Q59819963,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:959
+Nigeria,960,SC/960/YB,Yobe State,Nguru I,Q59819964,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:960
+Nigeria,961,SC/961/YB,Yobe State,Nguru II,Q59819965,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:961
+Nigeria,962,SC/962/YB,Yobe State,Potiskum Town,Q59819966,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:962
+Nigeria,963,SC/963/YB,Yobe State,Mamudo,Q59819967,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:963
+Nigeria,964,SC/964/YB,Yobe State,Tarmuwa,Q59819968,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:964
+Nigeria,965,SC/965/YB,Yobe State,Yunusari,Q59819969,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:965
+Nigeria,966,SC/966/YB,Yobe State,Yunufari,Q59819970,country:ng/state:yo,country:ng/state:yo/state-assembly-constituency:966
+Nigeria,967,SC/967/ZF,Zamfara State,K/Namoda North,Q59819971,country:ng/state:za,country:ng/state:za/state-assembly-constituency:967
+Nigeria,968,SC/968/ZF,Zamfara State,K/Namoda South,Q59819973,country:ng/state:za,country:ng/state:za/state-assembly-constituency:968
+Nigeria,969,SC/969/ZF,Zamfara State,Birnin Magaji,Q59819975,country:ng/state:za,country:ng/state:za/state-assembly-constituency:969
+Nigeria,970,SC/970/ZF,Zamfara State,Zurmi East,Q59819976,country:ng/state:za,country:ng/state:za/state-assembly-constituency:970
+Nigeria,971,SC/971/ZF,Zamfara State,Zurmi West,Q59819977,country:ng/state:za,country:ng/state:za/state-assembly-constituency:971
+Nigeria,972,SC/972/ZF,Zamfara State,Shinkafi,Q59819979,country:ng/state:za,country:ng/state:za/state-assembly-constituency:972
+Nigeria,973,SC/973/ZF,Zamfara State,Tsafe East,Q59819980,country:ng/state:za,country:ng/state:za/state-assembly-constituency:973
+Nigeria,974,SC/974/ZF,Zamfara State,Tsafe West,Q59819981,country:ng/state:za,country:ng/state:za/state-assembly-constituency:974
+Nigeria,975,SC/975/ZF,Zamfara State,Gusau I,Q59819982,country:ng/state:za,country:ng/state:za/state-assembly-constituency:975
+Nigeria,976,SC/976/ZF,Zamfara State,Gusau II,Q59819983,country:ng/state:za,country:ng/state:za/state-assembly-constituency:976
+Nigeria,977,SC/977/ZF,Zamfara State,Bungudu East,Q59819984,country:ng/state:za,country:ng/state:za/state-assembly-constituency:977
+Nigeria,978,SC/978/ZF,Zamfara State,Bungudu West,Q59819985,country:ng/state:za,country:ng/state:za/state-assembly-constituency:978
+Nigeria,979,SC/979/ZF,Zamfara State,Maru North,Q59819987,country:ng/state:za,country:ng/state:za/state-assembly-constituency:979
+Nigeria,980,SC/980/ZF,Zamfara State,Maru South,Q59819989,country:ng/state:za,country:ng/state:za/state-assembly-constituency:980
+Nigeria,981,SC/981/ZF,Zamfara State,Anka,Q59819990,country:ng/state:za,country:ng/state:za/state-assembly-constituency:981
+Nigeria,982,SC/982/ZF,Zamfara State,T/Mafara North,Q59819991,country:ng/state:za,country:ng/state:za/state-assembly-constituency:982
+Nigeria,983,SC/983/ZF,Zamfara State,T/Mafara South,Q59819992,country:ng/state:za,country:ng/state:za/state-assembly-constituency:983
+Nigeria,984,SC/984/ZF,Zamfara State,Bakura,Q59819994,country:ng/state:za,country:ng/state:za/state-assembly-constituency:984
+Nigeria,985,SC/985/ZF,Zamfara State,Maradun I,Q59819995,country:ng/state:za,country:ng/state:za/state-assembly-constituency:985
+Nigeria,986,SC/986/ZF,Zamfara State,Maradun II,Q59819996,country:ng/state:za,country:ng/state:za/state-assembly-constituency:986
+Nigeria,987,SC/987/ZF,Zamfara State,Gummi I,Q59819997,country:ng/state:za,country:ng/state:za/state-assembly-constituency:987
+Nigeria,988,SC/988/ZF,Zamfara State,Gummi II,Q59819998,country:ng/state:za,country:ng/state:za/state-assembly-constituency:988
+Nigeria,989,SC/989/ZF,Zamfara State,Bukkuyum North,Q59820000,country:ng/state:za,country:ng/state:za/state-assembly-constituency:989
+Nigeria,990,SC/990/ZF,Zamfara State,Bukkuyum South,Q59820001,country:ng/state:za,country:ng/state:za/state-assembly-constituency:990

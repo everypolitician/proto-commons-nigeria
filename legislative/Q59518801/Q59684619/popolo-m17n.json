@@ -22,7 +22,627 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q337514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q337514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671527"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Adamawa State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yola South"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yola North"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mubi North"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mubi South"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Demsa"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Numan"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lamurde"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Song"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Girei"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ganye"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Toungo"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Koma/Leko"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jada/Mbulo"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Fufore/Gurin"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Verre"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Uba/Gaya"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Hong"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nassarawa/Binyeri"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818705",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818705"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mayo-Belwa"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gombi"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shelleng"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Madagali"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maiha"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Michika"
+      },
+      "parent_id": "Q337514"
+    },
+    {
+      "id": "Q59818718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ad/state-assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528225"
+      ],
+      "type": {
+        "lang:en": "constituency of the Adamawa state house of assembly"
+      },
+      "name": {
+        "lang:en": "Guyuk"
+      },
+      "parent_id": "Q337514"
+    }
   ],
   "memberships": [
 

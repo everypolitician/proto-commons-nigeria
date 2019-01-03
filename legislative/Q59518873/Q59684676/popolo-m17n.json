@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819944",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:943"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819944"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bade East"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:944"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bade West"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:945"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bursari"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:946"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Damaturu I"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:947"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Damaturu II"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:948"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Fika/Ngalda"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:949"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Goya/Ngeji"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:950"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Damagum"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:951"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jajere"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:952"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Geidam South"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:953"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Geidam North"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:954"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gujba"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:955"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gulani"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:956"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jakusko"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:957"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Karasuwa"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:958"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Machina"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:959"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nangere"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:960"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nguru I"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:961"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nguru II"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:962"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Potiskum Town"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:963"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Mamudo"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:964"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tarmuwa"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:965"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yunusari"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q59819970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo/state-assembly-constituency:966"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528370"
+      ],
+      "type": {
+        "lang:en": "constituency of the Yobe state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yunufari"
+      },
+      "parent_id": "Q682777"
+    },
+    {
+      "id": "Q682777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:yo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869380"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Yobe State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

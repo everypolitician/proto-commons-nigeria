@@ -49,7 +49,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q320852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q320852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671478"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Abia State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aba North"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aba South"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aba Central"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Arochukwu"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bende North"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bende South"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikwuano"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isiala Ngwa North"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isiala Ngwa South"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Isuikwuato"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obingwa East"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818663",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818663"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obingwa West"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohafia North"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ohafia South"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Osisioma North"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Osisioma South"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Umunneochi"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ugwuna Agbo L.G.A"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ukwa East"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ukwa West"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Umuahia East"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Umuahia West"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Umuahia Central"
+      },
+      "parent_id": "Q320852"
+    },
+    {
+      "id": "Q59818677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ab/state-assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528223"
+      ],
+      "type": {
+        "lang:en": "constituency of the Abia state house of assembly"
+      },
+      "name": {
+        "lang:en": "Umuahia South"
+      },
+      "parent_id": "Q320852"
+    }
   ],
   "memberships": [
     {

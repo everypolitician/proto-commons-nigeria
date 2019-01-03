@@ -49,7 +49,742 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q117714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q117714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19671587"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Anambra State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59818719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aguata I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818720",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818720"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aguata II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Anambra East"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Anambra West"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Anaocha I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818728",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818728"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Anaocha II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Awka North"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Awka South I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Awka South II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Idemili South"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Idemili North"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ihiala I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ihiala II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Njikoka I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Njikoka II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nnewi North"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nnewi South I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nnewi South II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ekwusigo"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbaru I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbaru II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ayamelum"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dunukofia"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onitsha North I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onitsha North II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onitsha South I"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Onitsha South II"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Orumba North"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Orumba South"
+      },
+      "parent_id": "Q117714"
+    },
+    {
+      "id": "Q59818764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:an/state-assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59818764"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528228"
+      ],
+      "type": {
+        "lang:en": "constituency of the Anambra state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oyi"
+      },
+      "parent_id": "Q117714"
+    }
   ],
   "memberships": [
     {

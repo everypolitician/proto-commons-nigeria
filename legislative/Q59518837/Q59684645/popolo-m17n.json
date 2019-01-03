@@ -22,7 +22,834 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:476"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Basawa"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:470"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Chawai/Kauru"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:454"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Chikun I"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:482"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "City"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:466"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Doka"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:455"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Giwa East"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:456"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Giwa West"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:457"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igabi East"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:458"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igabi West"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:459"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikara"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:483"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819296"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jaba"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:461"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jema’a"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:463"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kachia"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:464"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kagarko"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:453"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kajuru"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819302",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:452"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819302"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kakangi"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:484"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kaura"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:465"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kawo/Gabasawa"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:481"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kewaye"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:460"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kubau"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:473"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kudan"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:471"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lere"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:451"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Magajin Gari"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:477"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maigana"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:474"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Makarfi"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:468"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Makera"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:475"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sabon Gari"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:472"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Saminaka"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:462"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sanga"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:478"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Soba"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:467"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tudun Wada"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:469"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Unguwar Sanusi"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:479"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zangon Kataf"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q59819326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd/state-assembly-constituency:480"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528330"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kaduna state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zonkwa"
+      },
+      "parent_id": "Q878284"
+    },
+    {
+      "id": "Q878284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q878284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14915296"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kaduna State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

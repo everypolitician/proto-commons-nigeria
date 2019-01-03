@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:559"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Aleiro"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:560"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Arewa"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:561KB"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Argungu"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:562"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Augie"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:563"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bagudo East"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:564"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bagudo West"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:565"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Birnin Kebbi North"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:566"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Birnin Kebbi South"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:567"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bunza"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:568"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dandi"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:569"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Fakai"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:570"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwandu"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:571"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Jega"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:572"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kalgo"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:573"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Koko/Besse"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:574"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Maiyama"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:575"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ngaski"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:576"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sakaba"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:577"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shanga"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:578"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Suru"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:579"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wasagu/Danko East"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:580"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wasagu/Danko West"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:581"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Yauri"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q59819465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke/state-assembly-constituency:582"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528342"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kebbi state house of assembly"
+      },
+      "name": {
+        "lang:en": "Zuru"
+      },
+      "parent_id": "Q748523"
+    },
+    {
+      "id": "Q748523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ke"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q748523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6572142"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kebbi State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

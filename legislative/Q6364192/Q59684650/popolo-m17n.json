@@ -22,7 +22,972 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:485"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Albasu"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:486"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Shanono/Bagwai"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:487"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bebeji"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:488"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bichi"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:489"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Bunkure"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:490"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dala"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:491"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwale"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:492"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dambatta"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:493"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Makoda"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:494"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dawakin Kudu"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:495"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Dawakin Tofa"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:496"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Doguwa"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:497"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gabasawa"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:498"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gaya"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:499"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ajingi"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:500"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gezawa"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:501"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Gwarzo"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:502"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kabo"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:503"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Municipal"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:504"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tarauni"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:505"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Karaye"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:506"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rogo"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:507"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kiru"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:508"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kumbotso"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:509"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kura/Gurun Mallam"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:510"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Madobi"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:511"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Minjibir"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:512"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Nassarawa, Kano State"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:513"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Fagge"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:514"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rano"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:515"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kibiya"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:516"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Rimi Gado/Tofa"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:517"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Sumaila"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:518"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Takai"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:519"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tsanyawa/Kunchi"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:520"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Tudunwada"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:521"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ungogo"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:522"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Warawa"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:523"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Wudil"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q59819384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn/state-assembly-constituency:524"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528338"
+      ],
+      "type": {
+        "lang:en": "constituency of the Kano state house of assembly"
+      },
+      "name": {
+        "lang:en": "Garko"
+      },
+      "parent_id": "Q682571"
+    },
+    {
+      "id": "Q682571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:kn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53864915"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Kano State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

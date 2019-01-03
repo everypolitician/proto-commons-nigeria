@@ -22,7 +22,650 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:775"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Boripe/Boluwa-Duro"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819720",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:776"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819720"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ifelodun"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:777"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ila"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:778"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ifedayo"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:779"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Irepodun/Orulu"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:780"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Odo-Otin"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:781"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Olorunda"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:782"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Osogbo"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:783"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Atakunmosa East And West"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819730",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:784"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819730"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ife Central"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:785"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ife East"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:786"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ife North"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:787"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ife South"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:788"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilesa East"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:789"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ilesa West"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:790"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Obokun"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:791"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oriade"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819740",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:792"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819740"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ayedade"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:793"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ayedire"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:794"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ede North"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:795"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ede South"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:796"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Egbedore"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:797"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Irewole/Isokan"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819754",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:798"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819754"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Iwo"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:799"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ola-Oluwa"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q59819758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os/state-assembly-constituency:800"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528361"
+      ],
+      "type": {
+        "lang:en": "constituency of the Osun state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ejigbo"
+      },
+      "parent_id": "Q682721"
+    },
+    {
+      "id": "Q682721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:os"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53869191"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Osun State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 

@@ -22,7 +22,788 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q503905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13140661"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Oyo State"
+      },
+      "parent_id": "Q1033"
+    },
+    {
+      "id": "Q59819759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:801"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Afijio"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:802"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akinyele I"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819765",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:803"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819765"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akinyele II"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:804"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Saki West"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:805"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan North West"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:806"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Egbeda"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:807"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan North I"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:808"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan North II"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:809"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan North East I"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:810"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan North-east II"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:811"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan South-east I"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:812"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan South-east II"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:813"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan South-west I"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:814"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibadan South West II"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:815"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibarapa North & Ibarapa Central"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:816"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ibarapa East"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:817"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ido"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819784",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:818"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819784"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Saki East And Atisbo"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:819"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Irepo & Olorunsogo"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:820"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Iseyin And Itesiwaju"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:821"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Kajola"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:822"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Iwajowa"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:823"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Lagelu"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:824"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbomoso North"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:825"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogbomoso South"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:826"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oluyole"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:827"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ona-Ara"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:828"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oorelope"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:829"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oriire"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:830"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Atiba"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:831"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oyo West & Oyo East"
+      },
+      "parent_id": "Q503905"
+    },
+    {
+      "id": "Q59819806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:oy/state-assembly-constituency:832"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528363"
+      ],
+      "type": {
+        "lang:en": "constituency of the Oyo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ogo-Oluwa and Surulere"
+      },
+      "parent_id": "Q503905"
+    }
   ],
   "memberships": [
 

@@ -22,7 +22,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q500282"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Federal Republic of Nigeria"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59819070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:296"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko Edo I"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:297"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Akoko Edo II"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:298"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Esan Central"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:299"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Esan West"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:300"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Esan North East I"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:301"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Esan North East II"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:302"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Essan South East"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:303"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etsako Central"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:304"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etsako East"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:305"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etsako West I"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:306"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Etsako West II"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:307"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Egor"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:308"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ikpoba-Okha"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819089",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:309"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819089"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Igueben"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:310"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oredo East"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:311"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Oredo West"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:312"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Orhionmwon I"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:313"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Orhionmwon II"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:314"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ovia North East I"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:315"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ovia North East II"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819102",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:316"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819102"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Ovia South West"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:317"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Owan East"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819104",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:318"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819104"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Owan West"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q59819105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed/state-assembly-constituency:319"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59819105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59528250"
+      ],
+      "type": {
+        "lang:en": "constituency of the Edo state house of assembly"
+      },
+      "name": {
+        "lang:en": "Uhunmwode"
+      },
+      "parent_id": "Q682704"
+    },
+    {
+      "id": "Q682704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ng/state:ed"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19682857"
+      ],
+      "type": {
+        "lang:en": "state of Nigeria"
+      },
+      "name": {
+        "lang:en": "Edo State"
+      },
+      "parent_id": "Q1033"
+    }
   ],
   "memberships": [
 
