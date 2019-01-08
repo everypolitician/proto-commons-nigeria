@@ -137,21 +137,6 @@
     },
     {
       "name": {
-        "lang:en": "Hamza Abdullahi"
-      },
-      "id": "Q5646492",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5646492"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Idris Garba"
       },
       "id": "Q5989606",
@@ -463,20 +448,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5290614-309F4DEE-C8B7-40D5-B4D7-328EE5102385",
       "person_id": "Q5290614",
-      "organization_id": "Q48816769",
-      "area_id": "Q682571",
-      "role_superclass_code": "Q56284759",
-      "role_superclass": {
-        "lang:en": "governor of a Nigerian state"
-      },
-      "role_code": "Q53864915",
-      "role": {
-        "lang:en": "Governor of Kano State"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5646492-AD190E62-E39D-49B7-B5B1-9648212F73FD",
-      "person_id": "Q5646492",
       "organization_id": "Q48816769",
       "area_id": "Q682571",
       "role_superclass_code": "Q56284759",

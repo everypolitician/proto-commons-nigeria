@@ -547,61 +547,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q5646492-AD190E62-E39D-49B7-B5B1-9648212F73FD"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5646492"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Hamza Abdullahi"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q682571"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Kano State"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q53864915"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Governor of Kano State"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q56284759"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "governor of a Nigerian state"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q48816769"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Executive Council of Kano State"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q682571"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q5989606-9A0BD4DE-98D5-42CE-8E38-0A943C102AAA"
         },
         "item": {
